@@ -1,0 +1,2520 @@
+Tytuł: Transparent and Flexible MIMO Antenna Technologies for 5G Applications - Transforming 5G with Transparent & Flexible MIMO Antennas.
+Autorzy: Jayshri S. Kulkarni, Arpan Desai, Heng-Tung Hsu, Brian A. Garner, Yang Li, Chow-Yen-Desmond Sim, Vigneswaran Dhasarathan
+Rok: 2024
+
+Tytuł: 5G Edge Computing - Technologies, Applications and Future Visions.
+Autorzy: Xiao Ma, Mengwei Xu, Qing Li, Yuanzhe Li, Ao Zhou, Shangguang Wang
+Rok: 2024
+
+Tytuł: Planning of Wireless Networks for 5G/6G Applications.
+Autorzy: Mohsen Abedi
+Rok: 2024
+
+Tytuł: Resource Allocation in V2I Link Between Connected Autonomous Vehicles and 5G mm-Wave Band Small-Cells Using Machine Learning.
+Autorzy: Mostafa Raeisi
+Rok: 2024
+
+Tytuł: Machine learning algorithms for 5G optical networks.
+Autorzy: Asmaa Ibrahim
+Rok: 2024
+
+Tytuł: Zero-touch service orchestration in 5G and beyond mobile networks.
+Autorzy: Anestis Dalgkitsis
+Rok: 2024
+
+Tytuł: Towards resilient wireless networks: mesh backhauls for 5G ultra-dense networks and rural Internet service provision.
+Autorzy: Gabriele Gemmi
+Rok: 2024
+
+Tytuł: Radio access network optimization with proactive resource management for 5G and beyond.
+Autorzy: Rolando Guerra-Gómez
+Rok: 2024
+
+Tytuł: Converged RAN/MEC slicing in beyond 5G (B5G) networks.
+Autorzy: Behnam Ojaghi Kahjogh
+Rok: 2024
+
+Tytuł: Dynamic resource optimization and orchestration techniques for 5G new radio and beyond.
+Autorzy: Massimiliano Maule
+Rok: 2024
+
+Tytuł: Smart and efficient sensor networks operation for 5G and beyond ecosystems.
+Autorzy: Ahmad El Sayed
+Rok: 2024
+
+Tytuł: Advancing the Security of 5G and Beyond Vehicular Networks through AI/DL. (Sécuriser les réseaux 5G véhiculaire et au-delà grâce à l'IA/AP).
+Autorzy: Taki Eddine Toufik Djaidja
+Rok: 2024
+
+Tytuł: A Deep Reinforcement Learning Framework for Scalable Slice Orchestration in Beyond 5G Networks. (Un cadre d'apprentissage par renforcement profond pour l'orchestration de tranches évolutives dans les réseaux au-delà de la 5G).
+Autorzy: Pavlos Doanis
+Rok: 2024
+
+Tytuł: Resilience-as-a-Service for 5G RAN driven by Machine Learning methods. (La résilience en tant que service à la demande des réseaux 5G dirigée par le Machine Learning).
+Autorzy: Soumeya Kaada
+Rok: 2024
+
+Tytuł: Mitigation of Cross-link Interference for MIMO TDD Dynamic Systems in 5G+ Networks. (Réduction de l'interférence des liens croisés pour les systèmes MIMO TDD Dynamique dans les réseaux 5G+).
+Autorzy: Amel Tibhirt
+Rok: 2024
+
+Tytuł: High-Performance Cloud Computing Frameworks for Serverless Computing and 5G Systems.
+Autorzy: Shixiong Qi
+Rok: 2024
+
+Tytuł: Optimizing Spectrum Utilization and Security in SAS-Enabled CBRS Systems for Enhanced 5G Performance.
+Autorzy: Waseem Abbass, Muzammil Ahmad Khan, Ashfaq Hussain Farooqi, Waqas Nawaz, Nasim Abbas, Zulfiqar Ali
+Rok: 2024
+
+Tytuł: An Eight Element Wideband DGS MIMO Antenna System for 5G Handheld Devices.
+Autorzy: Mujeeb Abdullah, Saad Hassan Kiani, Nosherwan Shoaib, Tanweer Ali, Hela Elmannai, Abeer D. Algarni, Umar Farooq Khattak
+Rok: 2024
+
+Tytuł: Parallel Deployment and Performance Analysis of a Multi-Hop Routing Protocol for 5G Backhaul Networks Using Cloud and HPC Platforms.
+Autorzy: Somaya A. Aboulrous, Amany Abdelsamea, Ali A. El-Moursy, Mohamed Saad, Fadi N. Sibai, Salwa M. Nassar, Hazem M. Abbas
+Rok: 2024
+
+Tytuł: Computationally Efficient UE Blocking Probability Model for GBR Services in Beyond 5G RAN.
+Autorzy: Oscar Adamuz-Hinojosa, Pablo Ameigeiras, Pablo Muñoz, Juan M. López-Soler
+Rok: 2024
+
+Tytuł: Toward a Secure 5G-Enabled Internet of Things: A Survey on Requirements, Privacy, Security, Challenges, and Opportunities.
+Autorzy: Shams Forruque Ahmed, Md. Sakib Bin Alam, Shaila Afrin, Sabiha Jannat Rafa, Samanta Binte Taher, Maliha Kabir, S. M. Muyeen, Amir H. Gandomi
+Rok: 2024
+
+Tytuł: Corrections to "Toward a Secure 5G-Enabled Internet of Things: A Survey on Requirements, Privacy, Security, Challenges, and Opportunities".
+Autorzy: Shams Forruque Ahmed, Md. Sakib Bin Alam, Shaila Afrin, Sabiha Jannat Rafa, Samanta Binte Taher, Maliha Kabir, S. M. Muyeen, Amir H. Gandomi
+Rok: 2024
+
+Tytuł: Interference-Aware Intelligent Scheduling for Virtualized Private 5G Networks.
+Autorzy: Berk Akgun, Deepak Singh Mahendar Singh, Samatha Kotla, Vikas Jain, Sakshi Namdeo, Rupesh Acharya, Muruganandam Jayabalan, Abhishek Kumar, Vinay Chande, Arumugam Kannan, Jalaj Swami, Yitao Chen, John Boyd, Xiaoxia Zhang
+Rok: 2024
+
+Tytuł: D-BlockAuth: An Authentication Scheme-Based Dual Blockchain for 5G-Assisted Vehicular Fog Computing.
+Autorzy: Hussam Dheaa Kamel Al-Janabi, Saima Anwar Lashari, Mahmood A. Al-Shareeda, Ayman Khalil, Abeer Abdullah Alsadhan, Mohammed Amin Almaiah, Tayseer Alkhdour
+Rok: 2024
+
+Tytuł: Lattice-Based Cryptography and Fog Computing Based Efficient Anonymous Authentication Scheme for 5G-Assisted Vehicular Communications.
+Autorzy: Zeyad Ghaleb Al-Mekhlafi, Hussam Dheaa Kamel Al-Janabi, Ayman Khalil, Mahmood A. Al-Shareeda, Badiea Abdulkarem Mohammed, Abeer Abdullah Alsadhan, Abdulaziz M. Alayba, Ahmed M. Shamsan Saleh, Hamad A. Al-Reshidi, Khalil Almekhlafi
+Rok: 2024
+
+Tytuł: Oblivious Transfer-Based Authentication and Privacy-Preserving Protocol for 5G-Enabled Vehicular Fog Computing.
+Autorzy: Zeyad Ghaleb Al-Mekhlafi, Saima Anwar Lashari, Jalal Mohammed Hachim Altmemi, Mahmood A. Al-Shareeda, Badiea Abdulkarem Mohammed, Amer A. Sallam, Bassam Ali Al-Qatab, Mohammad T. Alshammari, Abdulaziz M. Alayba
+Rok: 2024
+
+Tytuł: CLA-FC5G: A Certificateless Authentication Scheme Using Fog Computing for 5G-Assisted Vehicular Networks.
+Autorzy: Zeyad Ghaleb Al-Mekhlafi, Saima Anwar Lashari, Mahmood A. Al-Shareeda, Badiea Abdulkarem Mohammed, Abdulaziz M. Alayba, Ahmed M. Shamsan Saleh, Hamad A. Al-Reshidi, Khalil Almekhlafi
+Rok: 2024
+
+Tytuł: FC-LSR: Fog Computing-Based Lightweight Sybil Resistant Scheme in 5G-Enabled Vehicular Networks.
+Autorzy: Abdulwahab Ali Almazroi, Monagi H. Alkinani, Mahmood A. Al-Shareeda, Mohammed A. Alqarni, Alaa Atallah Almazroey, Tarek Gaber
+Rok: 2024
+
+Tytuł: Optimizing 5G Power Allocation With Device-to-Device Communication: A Gale-Shapley Algorithm Approach.
+Autorzy: Musaad Alruwaili, Junghwan Kim, Jared Oluoch
+Rok: 2024
+
+Tytuł: A Survey of Mobility Management in Non-Terrestrial 5G Networks: Power Constraints and Signaling Cost.
+Autorzy: Alaa A. R. Alsaeedy, Edwin K. P. Chong
+Rok: 2024
+
+Tytuł: Evaluation and Comparison of 5G, WiFi, and Fusion With Incomplete Maps for Indoor Localization.
+Autorzy: Carlos S. Alvarez-Merino, Emil J. Khatib, Hao Qiang Luo-Chen, Antonio Tarrías-Muñoz, Raquel Barco Moreno
+Rok: 2024
+
+Tytuł: Novel Machine Learning-Based Identification and Mitigation of 5G Interference for Radar Altimeters.
+Autorzy: Anas Atef Amaireh, Yan Zhang
+Rok: 2024
+
+Tytuł: 5G mm-Wave Technology: Innovative Design of Integrating mm-Wave Wideband Antenna With a Compact CP Microwave Antenna for Diverse Applications.
+Autorzy: Elagandula Aparna, Gopi Ram, Gande Arun Kumar
+Rok: 2024
+
+Tytuł: Singly-Fed Large Frequency Ratio Composite Dielectric Resonator Antenna for sub-6 GHz and mm-Wave 5G Applications.
+Autorzy: Asadullah, Muhammad Umar Khan, Awab Muhammad, Mohammad S. Sharawi, Moath Alathbah
+Rok: 2024
+
+Tytuł: Advancements and Challenges in Scalable Modular Antenna Arrays for 5G Massive MIMO Networks.
+Autorzy: Arselan Ashraf, Teddy Surya Gunawan, Mira Kartiwi, Levy Olivia Nur, Bambang Setia Nugroho, Rina Pudji Astuti
+Rok: 2024
+
+Tytuł: A mmWave Low Complexity and Low-Cost Super Wideband Dual-Polarized Aperture Coupled Antenna for 5G Applications.
+Autorzy: Abolfazl Azari, Anja K. Skrivervik, Hadi Aliakbarian
+Rok: 2024
+
+Tytuł: Machine Learning-Based Optimized 3G/LTE/5G Planar Wideband Antenna With Tri-Bands Filtering Notches.
+Autorzy: Suleiman Aliyu Babale, Tan Kim Geok, Sharul Kamal Abdul Rahim, Chia Pao Liew, Umar Musa, Mukhtar Fatihu Hamza, Yaser Awadh Bakhuraisa, Li Li Lim
+Rok: 2024
+
+Tytuł: Some Comments About CRC Selection for the 5G NR Specification.
+Autorzy: Tsonka Baicheva, Peter Kazakov, Miroslav M. Dimitrov
+Rok: 2024
+
+Tytuł: A Comprehensive Survey on 5G-and-Beyond Networks With UAVs: Applications, Emerging Technologies, Regulatory Aspects, Research Trends and Challenges.
+Autorzy: Mohammed Khaled Banafaa, Ömer Pepeoglu, Ibraheem Shayea, Abdulraqeb Alhammadi, Zaid Ahmed Shamsan, Muneef A. Razaz, Majid Alsagabi, Sulaiman Al-Sowayan
+Rok: 2024
+
+Tytuł: Empowering Beyond 5G Networks: An Experimental Assessment of Zero-Touch Management and Orchestration.
+Autorzy: Sergio Barrachina-Muñoz, Farhad Rezazadeh, Luis Blanco, Slawomir Kuklinski, Engin Zeydan, Ashima Chawla, Lanfranco Zanzi, Francesco Devoti, Vasiliki Vlahodimitropoulou, Ioannis P. Chochliouros, Anne-Marie Bosneag, Sihem Cherrared, Luca Vettori, Josep Mangues-Bafalluy
+Rok: 2024
+
+Tytuł: Are European Initiatives Related to Local Spectrum Allocation for Private 5G Networks Ready for Use in Industrial Cases?
+Autorzy: Luis Miguel Bartolín-Arnau, Jose Vera-Pérez, Víctor-M. Sempere-Payá, Javier Silvestre-Blanes
+Rok: 2024
+
+Tytuł: Assurance in Advanced 5G Edge Continuum.
+Autorzy: Filippo Berto, Claudio A. Ardagna, Massimo Banzi, Marco Anisetti
+Rok: 2024
+
+Tytuł: Simplified Methodology of Electromagnetic Field Measurements in the Vicinity of 5G Massive MIMO Base Station for Environmental Exposure Assessment.
+Autorzy: Pawel Bienkowski, Bartlomiej Zubrzak, Przemyslaw Sobkiewicz, Kamil Bechta, Marcin Rybakowski
+Rok: 2024
+
+Tytuł: A Multi-Group-Supporting Policy Hidden Fine-Grained Data Sharing Scheme in 5G-Enabled IoT With Edge Computing.
+Autorzy: Jiayin Cai, Hongjie Zhang, Zhilin Duo, Xuan Wang, Xingwen Zhao
+Rok: 2024
+
+Tytuł: Experimental Analysis of 5G NR for Indoor Industrial Environments.
+Autorzy: Berna Bulut Cebecioglu, Yuen Kwan Mo, Son Dinh-Van, Alex Evans, De Mi, Matthew D. Higgins, Raouf Abozariba, Adel Aneiba
+Rok: 2024
+
+Tytuł: Enhancing Cost-Effective 5G Virtualized RAN Pooling Gain on Clouds: An Intelligent Auto-Scaling Approach.
+Autorzy: Kiho Cho, Joongheon Kim, Soyi Jung
+Rok: 2024
+
+Tytuł: Practical Load Balancing Algorithm for 5G Small Cell Networks Based on Real-World 5G Traffic and O-RAN Architecture.
+Autorzy: Young-Jun Cho, Hyeon-Min Yoo, Kyung-Sook Kim, Jeehyeon Na, Een-Kee Hong
+Rok: 2024
+
+Tytuł: A Low-Cost Four-Directional Beamforming Switched Butler Matrix Network Antenna for 5G NR Applications.
+Autorzy: Ming-An Chung, Chia-Wei Lin, Chih-Wei Yang
+Rok: 2024
+
+Tytuł: Data-Driven Model for Sliced 5G Network Dimensioning and Planning, Featured With Forecast and "what-if" Analysis.
+Autorzy: Dominik Dulas, Justyna Witulska, Agnieszka Wylomanska, Ireneusz Jablonski, Krzysztof Walkowiak
+Rok: 2024
+
+Tytuł: On the Performance of a Photonic Reconfigurable Electromagnetic Band Gap Antenna Array for 5G Applications.
+Autorzy: Taha A. Elwi, Fatma Taher, Bal S. Virdee, Mohammad Alibakhshikenari, Ignacio J. García Zuazola, Astrit Krasniqi, Amna Shibib Kamel, Nurhan Türker Tokan, Salahuddin Khan, Naser Ojaroudi Parchin, Patrizia Livreri, Iyad Dayoub, Giovanni Pau, Sonia Aïssa, Ernesto Limiti, Mohamed Fathy Abo Sree
+Rok: 2024
+
+Tytuł: A Versatile RF Energy Harvester for IoT Sensors in 5G Network With Extended Input Power Range.
+Autorzy: Maryam Eshaghi, Rashid Rashidzadeh
+Rok: 2024
+
+Tytuł: Energy-Efficient Joint User and Power Allocation in 5G Millimeter Wave Networks: A Genetic Algorithm-Based Approach.
+Autorzy: Abdulhalim Fayad, Tibor Cinkler
+Rok: 2024
+
+Tytuł: A Dual-Polarized Multi-Wideband Ceiling Antenna With Eight-Diagram Shape for 2G/3G/LTE/5G Sub-6 GHz Indoor Applications.
+Autorzy: Botao Feng, Siyuan Qi, Xiao Ding, Xingxing Yang, Chow-Yen-Desmond Sim
+Rok: 2024
+
+Tytuł: Evaluating 5G-Enabled Medical Devices: Failure Modes Analysis and Graph Database Implementation.
+Autorzy: Weichao Gao, Yongkang Liu, Mohamad Omar Al Kalaa
+Rok: 2024
+
+Tytuł: Overview of NR Enhancements for Extended Reality (XR) in 3GPP 5G-Advanced.
+Autorzy: Margarita Gapeyenko, Stefano Paris, Markus Isomäki, Boyan Yanakiev, Abolfazl Amiri, Benoist Sébire, Jorma Kaikkonen, Chunli Wu, Klaus I. Pedersen
+Rok: 2024
+
+Tytuł: RETALIN: A Queue Aware Uplink Scheduling Scheme for Reducing Scheduling Signaling Overhead in 5G NR.
+Autorzy: Veerendra Kumar Gautam, Bheemarjuna Reddy Tamma
+Rok: 2024
+
+Tytuł: From 5G-Advanced to 6G in 2030: New Services, 3GPP Advances, and Enabling Technologies.
+Autorzy: Romeo Giuliano
+Rok: 2024
+
+Tytuł: A Comparative Study of In Situ Methodologies for Assessment of RF EMF Exposure From a 5G FR2 Base Station.
+Autorzy: Samuel Goegebeur, Kenneth Deprez, Davide Colombi, Jens Eilers Bischoff, Carla Di Paola, Bram Stroobandt, Leen Verloock, Sam Aerts, Christer Törnevik, Wout Joseph
+Rok: 2024
+
+Tytuł: Comparative Evaluation of Radio Network Planning for Different 5G-NR Channel Models on Urban Macro Environments in Quito City.
+Autorzy: Valdemar Ramón Farré Guijarro, José David Vega Sánchez, Martha Cecilia Paredes Paredes, Felipe Grijalva Arévalo, Diana Pamela Moya Osorio
+Rok: 2024
+
+Tytuł: Digital Predistortion Based Experimental Evaluation of Optimized Recurrent Neural Network for 5G Analog Radio Over Fiber Links.
+Autorzy: Muhammad Usman Hadi, Kamaluddeen Usman Danyaro, Alawi Alqushaibi, Rizwan Qureshi, Tanvir Alam
+Rok: 2024
+
+Tytuł: Performance Evaluation of an Open Source Implementation of a 5G Standalone Platform.
+Autorzy: Jan Erik Håkegård, Henrik Lundkvist, Ashish Rauniyar, Peter Morris
+Rok: 2024
+
+Tytuł: Novel Design of X-Shaped Slot Antenna Backed by a Flat Reflector for 5G Sub-6 GHz Band.
+Autorzy: Mangseang Hor, Masanobu Hirose, Takashi Hikage
+Rok: 2024
+
+Tytuł: A Novel MIMO Antenna Integrated With a Solar Panel and Employing AI-Equalization for 5G Wireless Communication Networks.
+Autorzy: Humam Hussein, Nouf Abd Elmunim, Ferhat Atasoy, Bal S. Virdee, Taha A. Elwi, Nasr Rashid, Renu Karthick Rajaguru Jayanthi, Mohammad Alibakhshikenari, Ernesto Limiti
+Rok: 2024
+
+Tytuł: Low Loss Wideband 4×4 Butler Matrix Networks Based on Substrate Integrated Waveguide for 5G Applications.
+Autorzy: Yaqdhan Mahmood Hussein, Mohamad Kamal A. Rahim, Noor Asniza Murad, Hatem Oday Hanoosh
+Rok: 2024
+
+Tytuł: A 65-nm CMOS 1 GS/s 45 mW Hybrid Digital-to-Analog Converter (DAC) With Digital Deglitch Mechanism Achieving 13.83 fJ/step FOM for 5G New Radio Sub-6 GHz Applications.
+Autorzy: Norhamizah Idros, Jagadheswaran Rajendran, Selvakumar Mariappan, Yizhi Li, Shengquan Wang, Nuha Rhaffor, Narendra Kumar, Abdullah Mohammed Alghaihab, Arokia Nathan, Binboga Siddik Yarman
+Rok: 2024
+
+Tytuł: SEMS-5G: A Secure and Efficient Multi-Server Authentication Scheme for 5G Networks.
+Autorzy: Azeem Irshad, Mohammed Alreshoodi
+Rok: 2024
+
+Tytuł: A Hyper-Heuristic Approach for Quality of Experience Aware Service Placement Scheme in 5G Mobile Edge Computing.
+Autorzy: Safiqul Islam, Mahadi Ahammed, Nura Alam Siddique, Palash Roy, Md. Abdur Razzaque, Mohammad Mehedi Hassan, Kashif Saleem
+Rok: 2024
+
+Tytuł: Ka-Band CMOS Stacked-FET Power Amplifier With Pre-Distorted Driver Stage for 5G Applications.
+Autorzy: Seonhye Jang, Hyunsoo Kim, Changkun Park
+Rok: 2024
+
+Tytuł: Geospatial Multi-User Channel Condition Interpolation for Instantaneous Sporadic Transmission and CSI Feedback Overhead Reduction in 5G and Beyond.
+Autorzy: Jasna Jankovic, Zeljko Ilic, Gordan Sisul
+Rok: 2024
+
+Tytuł: Under the Hood of Electromagnetic Field Estimation and Evaluation in 5G Networks.
+Autorzy: Juan Carlos Estrada Jimenez, Enric Pardo, Uwe Roth, Lamia Selmane, Sébastien Faye
+Rok: 2024
+
+Tytuł: Over-the-Air Phase Calibration Methods for 5G mmW Antenna Array Transceivers.
+Autorzy: Markku Jokinen, Olli Kursu, Nuutti Tervo, Aarno Pärssinen, Marko E. Leinonen
+Rok: 2024
+
+Tytuł: Congestion Control Prediction Model for 5G Environment Based on Supervised and Unsupervised Machine Learning Approach.
+Autorzy: Mohammed B. M. Kamel, Ihab Ahmed Najm, Alaa Khalaf Hamoud
+Rok: 2024
+
+Tytuł: Mobility Management in Heterogeneous Network of Vehicular Communication With 5G: Current Status and Future Perspectives.
+Autorzy: Mohd Javed Khan, Ram Chandra Singh Chauhan, Indrasen Singh, Zeenat Fatima, Ghanshyam Singh
+Rok: 2024
+
+Tytuł: Dual-Polarized Wideband 5G N77 Band Slotted MIMO Antenna System for Next-Generation Smartphones.
+Autorzy: Saad Hassan Kiani, Mehr E. Munir, Hüseyin Serif Savci, Hatem Rmili, Eatedal Alabdulkreem, Hela Elmannai, Giovanni Pau, Mohammad Alibakhshikenari
+Rok: 2024
+
+Tytuł: Low-Complexity Design and Implementation of a Software-Defined 5G Energy Detector for Fast Initial Cell Selection.
+Autorzy: Bitna Kim, Juyeop Kim
+Rok: 2024
+
+Tytuł: Scrambled UFMC and OFDM Techniques With APSK Modulation in 5G Networks Using Particle Swarm Optimization.
+Autorzy: K. Krishna Kishore, Jami Venkata Suman, Madhavi Mallam, Mamidipaka Hema, Venkataramana Guntreddi
+Rok: 2024
+
+Tytuł: A Secure and Efficient BlockChain and Distributed Ledger Technology-Based Optimal Resource Management in Digital Twin Beyond 5G Networks Using Hybrid Energy Valley and Levy Flight Distributer Optimization Algorithm.
+Autorzy: K. Suresh Kumar, Jafar Ahmad Abed Alzubi, Nadia Mohamed Sarhan, Emad Mahrous Awwad, V. Kandasamy, Guma Ali
+Rok: 2024
+
+Tytuł: Review on 5G Small Cell Base Station Antennas: Design Challenges and Technologies.
+Autorzy: B. Praveen Kumar, Kommuri Usha Kiran
+Rok: 2024
+
+Tytuł: Intelligent Integrated Circuits and Systems for 5G/6G Telecommunications.
+Autorzy: Johannes Wynand Lambrechts, Saurabh Sinha, Kaushik Sengupta, Abadahigwa Bimana, Suvarna Kadam, Sheetal Bhandari, Jaco du Preez, Zijian Shao, Xiaolong Huang, Zheng Liu, Emir Ali Karahan, Tyler Blundo, Muhamed Allam, Sherif Ghozzy, Jonathan Zhou, Wenkai Fang, Joe Valliarampath
+Rok: 2024
+
+Tytuł: Coexistence of 5G Communication Systems With Radar Altimeters.
+Autorzy: Jiaqi Li, Shuzhi Liu, Houjin Lu, Seung-Hoon Hwang
+Rok: 2024
+
+Tytuł: Band-Notched Dual-Polarized Antennas for 2G/3G/4G/5G Base Station Using the GCPW DGS-DMS Hybrid Filter.
+Autorzy: Min Li, Daotong Li, Chongcai Xu, Haixia Li, Feng Xu
+Rok: 2024
+
+Tytuł: Dual Bandwidth Enhancement Using a New Multi-Resonance Feeding Structure for 5G Communication.
+Autorzy: Rui Li, Longyue Qu, Seok-Ju Wi, Huanxuan Ren, Hyeongdong Kim
+Rok: 2024
+
+Tytuł: Strongly Secure Identity-Based Authenticated Key Agreement Protocol With Identity Concealment for Secure Communication in 5G Network.
+Autorzy: Huanhuan Lian, Burong Kang, Libao Yang
+Rok: 2024
+
+Tytuł: Joint Cache Allocation and Replacement for Content-Centric Network-Based Private 5G Networks: Deep Reinforcement Learning Approach.
+Autorzy: Joonyoung Lim, Dongju Kim, Younghwan Yoo
+Rok: 2024
+
+Tytuł: Dual-Polarized Spline-Loop Antenna Array With Tilt Angle Radiation for 5G Base Stations.
+Autorzy: Yi-Fang Lin, Chin-Cheng Chang, Chien-Hung Chen, Jia-You Xie, Yong-Xiang Zhuang, Hua-Ming Chen
+Rok: 2024
+
+Tytuł: An AI-Assisted Framework for Lifecycle Management of Beyond 5G Services.
+Autorzy: Alexandros-Ioannis Manolopoulos, Viktoria-Maria Alevizaki, Markos P. Anastasopoulos, Anna Tzanakaki
+Rok: 2024
+
+Tytuł: Intelligent O-RAN Beyond 5G: Architecture, Use Cases, Challenges, and Opportunities.
+Autorzy: Simona Marinova, Alberto Leon-Garcia
+Rok: 2024
+
+Tytuł: Performance-Utilization Trade-Offs for State Update Services in 5G NR Systems.
+Autorzy: Ekaterina Markova, Varvara E. Manaeva, Elena Zhbankova, Dmitri Moltchanov, Pavel Balabanov, Yevgeni Koucheryavy, Yuliya Gaidamaka
+Rok: 2024
+
+Tytuł: CSI-RSRP-Based Unnecessary Handover Mitigation Through Linear Regression in Dynamic 5G NR Environments.
+Autorzy: Sunil Mathew, Eleonora Oliosi, Luca Davoli, Nicolo Strozzi, Andrea Notari, Gianluigi Ferrari
+Rok: 2024
+
+Tytuł: Temporal and Multivariate Similarity Clustering of 5G Performance Data.
+Autorzy: Jakub Mazgula, Dariusz Król, Ireneusz Jablonski
+Rok: 2024
+
+Tytuł: 5G-Based Synchronous Network for Air Traffic Monitoring in Urban Air Mobility.
+Autorzy: Franco Mazzenga, Romeo Giuliano, Alessandro Vizzarri
+Rok: 2024
+
+Tytuł: Self-Optimization of Handover Control Parameters for 5G Wireless Networks and Beyond.
+Autorzy: Abbas Ibrahim Mbulwa, Hoe Tung Yew, Ali Chekima, Jamal Ahmad Dargham
+Rok: 2024
+
+Tytuł: Experimental Evaluation of Multi-Vendor 5G Open RANs: Promises, Challenges, and Lessons Learned.
+Autorzy: Farhad Mehran, Charles Turyagyenda, Dritan Kaleshi
+Rok: 2024
+
+Tytuł: A Multidisciplinary Model to Quantify Human Uncertainty in Human-Centric Cyber-Physical-Social Systems: A 5G Application Use Case.
+Autorzy: Néstor Alzate Mejía, Jordi Perelló, Germán Santos-Boada, José Roberto de Almeida Amazonas
+Rok: 2024
+
+Tytuł: On the Design of a Light-Weight Deep Learning Framework for Embedding in 5G Software Modem.
+Autorzy: Woonggyu Min, Seungwoo Kang, Juyeop Kim, Ohyun Jo
+Rok: 2024
+
+Tytuł: HAFC: Handover Authentication Scheme Based on Fog Computing for 5G-Assisted Vehicular Blockchain Networks.
+Autorzy: Badiea Abdulkarem Mohammed, Mahmood A. Al-Shareeda, Zeyad Ghaleb Al-Mekhlafi, Jalawi Sulaiman Alshudukhi, Kawther A. Al-Dhlan
+Rok: 2024
+
+Tytuł: Efficient Blockchain-Based Pseudonym Authentication Scheme Supporting Revocation for 5G-Assisted Vehicular Fog Computing.
+Autorzy: Badiea Abdulkarem Mohammed, Mahmood A. Al-Shareeda, Abeer Abdullah Alsadhan, Zeyad Ghaleb Al-Mekhlafi, Amer A. Sallam, Bassam Ali Al-Qatab, Mohammad T. Alshammari, Abdulaziz M. Alayba
+Rok: 2024
+
+Tytuł: Compact Reconfigurable MIMO Antenna for 5G and Wi-Fi Applications.
+Autorzy: Widad Faraj A. Mshwat, Jamal Sulieman Kosha, Abubakar Salisu, Atta Ullah, Nazar T. Ali, Issa T. E. Elfergani, Chan Hwang See, Chemseddine Zebiri, Jonathan Rodriguez, Raed Abd-Alhameed
+Rok: 2024
+
+Tytuł: Control Plane Performance Benchmarking and Feature Analysis of Popular Open-Source 5G Core Networks: OpenAirInterface, Open5GS, and free5GC.
+Autorzy: Tariro Mukute, Lusani Mamushiane, Albert A. Lysko, Elena-Ramona Modroiu, Thomas Magedanz, Joyce B. Mwangama
+Rok: 2024
+
+Tytuł: A Compact Boat Shaped Dual-Band MIMO Antenna With Enhanced Isolation for 5G/WLAN Application.
+Autorzy: Cholavendan Munusami, Rajeshkumar Venkatesan
+Rok: 2024
+
+Tytuł: SRS Interference Management in TDD CJT for 5G.
+Autorzy: Karthik Muralidhar, Youngrok Jang, Younsun Kim, Diwakar Sharma, Hyoungju Ji, Santanu Mondal, Dattaraj Raut Mulgaonkar, Satya Kumar Vankayala, Seongmok Lim
+Rok: 2024
+
+Tytuł: Leaf-Shaped Antennas for Sub-6 GHz 5G Applications.
+Autorzy: Tapan Nahar, Sanyog Rawat, Parul Pathak, Pramod Kumar, Jaume Anguera
+Rok: 2024
+
+Tytuł: Highly Reliable and Secure System With Multi-Layer Parallel LDPC and Kyber for 5G Communications.
+Autorzy: Linh Nguyen, Quoc Bao Phan, Tuy Tan Nguyen
+Rok: 2024
+
+Tytuł: A Novel 5G PMN-Driven Approach for AI-Powered Irrigation and Crop Health Monitoring.
+Autorzy: Tang Nguyen-Tan, Quan Le-Trung
+Rok: 2024
+
+Tytuł: Novel Ultra-Compact Wide Stopband Microstrip Lowpass-Bandpass Triplexer for 5G Multi-Service Wireless Networks.
+Autorzy: Leila Nouri, Farid Zubir, Lewis Nkenyereye, Abbas Rezaei, Mohammed Abdel-Hafez, Fawwaz Hazzazi, Muhammad Akmal Chaudhary, Maher Assaad, Zubaida Binti Yusoff
+Rok: 2024
+
+Tytuł: Performance of 5G Slicing With Access Technologies and Diversity: A Review and Challenges.
+Autorzy: Sinta Novanana, Adrian Kliks, Ajib Setyo Arifin, Gunawan Wibisono
+Rok: 2024
+
+Tytuł: Deployment and Management of Intelligent End-to-End Network Slicing in 5G and Beyond 5G Networks: A Systematic Review.
+Autorzy: Humphrey Owuor Otieno, Bessie Malila, Joyce B. Mwangama
+Rok: 2024
+
+Tytuł: Secure Initial Access and Beam Alignment Using Deep Learning in 5G and Beyond Systems.
+Autorzy: Utku Ozmat, Mehmet Akif Yazici, Mehmet Fatih Demirkol
+Rok: 2024
+
+Tytuł: EMF-Aware User Association Optimization in 5G Networks.
+Autorzy: Enric Pardo, Juan Carlos Estrada Jimenez, Sébastien Faye
+Rok: 2024
+
+Tytuł: Intelligent Transportation System With 5G Vehicle-to-Everything (V2X): Architectures, Vehicular Use Cases, Emergency Vehicles, Current Challenges, and Future Directions.
+Autorzy: Vaishali Pawar, Nilima Zade, Deepali Rahul Vora, Vaishali D. Khairnar, Aurenice Oliveira, Ketan Kotecha, Ambarish Kulkarni
+Rok: 2024
+
+Tytuł: Uplink Power Control Optimization for XR and eMBB Co-Existence in 5G-Advanced Networks.
+Autorzy: Pouria Paymard, C. Santiago Morejón García, Abolfazl Amiri, Claudio Rosa, Boyan Yanakiev, Troels E. Kolding, Klaus I. Pedersen
+Rok: 2024
+
+Tytuł: Toward the Realization of Vertical Slices: Mapping 5G Features to Industrial Requirements.
+Autorzy: André Perdigão, José Quevedo, Rui L. Aguiar
+Rok: 2024
+
+Tytuł: A Survey on Physical Layer Security of Ultra/Hyper Reliable Low Latency Communication in 5G and 6G Networks: Recent Advancements, Challenges, and Future Directions.
+Autorzy: Annapurna Pradhan, Susmita Das, Mohammad Jalil Piran, Zhu Han
+Rok: 2024
+
+Tytuł: Power Control of 5G-Connected Vehicular Network Using PPO-Based Deep Reinforcement Learning Algorithm.
+Autorzy: Mostafa Raeisi, Abu B. Sesay
+Rok: 2024
+
+Tytuł: 5G New Radio Signal Propagation and Ground-to-Air Channel Modeling at 3.565 GHz Based on Extensive Measurements.
+Autorzy: Zahra Rostamikafaki, François Chan, Claude D'Amours
+Rok: 2024
+
+Tytuł: A Low-Profile Stacked ME Dipole Antenna Loaded With High-Permittivity Dielectric for 5G Applications.
+Autorzy: Seyyed Mohammad Sabeti, Yashar Zehforoosh, Pejman Mohammadi
+Rok: 2024
+
+Tytuł: Smarter Grid in the 5G Era: Integrating the Internet of Things With a Cyber-Physical System.
+Autorzy: M. Usman Saleem, Muhammad Rehan Usman, Muhammad Azfar Yaqub, Antonio Liotta, Atif Asim
+Rok: 2024
+
+Tytuł: Analysis of Mission Critical Services Radio Access Network Capacity Limitations Over 5G.
+Autorzy: Adrian Santiago, Andoni Diaz De Cerio, Aitor Sanchoyerto, Fidel Liberal
+Rok: 2024
+
+Tytuł: Adaptive VNF Placement Considering Overall Latency and 5G Wireless Channel Reliability in Industry 4.0: A Reinforcement Learning Based Approach.
+Autorzy: Nauman Saqib, Nor Fadzilah Abdullah, Asma Abu-Samah, Haider A. H. Alobaidy, Rosdiadee Nordin
+Rok: 2024
+
+Tytuł: Enterprise Approach: Performance Analysis of Wi-Fi 6 and 5G Private LAN With Micro-Slicing Feature.
+Autorzy: Vanlin Sathya, Lyutianyang Zhang, Onur Sahin, Mehmet Yavuz
+Rok: 2024
+
+Tytuł: Compact Multiband Handset Antenna Design for Covering 5G Frequency Bands.
+Autorzy: Mohamed Lamine Seddiki, Mourad Nedil, Soufiane Tebache, Saif Eddine Hadji
+Rok: 2024
+
+Tytuł: An Empirical Study of 5G, Wi-Fi 6, and Multi-Connectivity Scalability in an Indoor Industrial Scenario.
+Autorzy: David Segura, Sebastian Bro Damsgaard, Akif Kabaci, Preben Mogensen, Emil J. Khatib, Raquel Barco
+Rok: 2024
+
+Tytuł: A Neural Network-Empowered Inverse FSS Design and Synthesis Approach for 5G Shielding Applications.
+Autorzy: Hanen Shall, Hiba Hawess, Sahbi Baccar, Moncef Kadi
+Rok: 2024
+
+Tytuł: A Miniaturized Metamaterial-Based Dual-Band 4×4 Butler Matrix With Enhanced Frequency Ratio for Sub-6 GHz 5G Applications.
+Autorzy: Abdulkadir Bello Shallah, Farid Zubir, Mohamad Kamal A. Rahim, Noorlindawaty Md Jizat, Abdul Basit, Maher Assaad, Huda A. Majid
+Rok: 2024
+
+Tytuł: Discontinuous Reception Based Energy-Efficient User Association for 5G Heterogeneous Networks.
+Autorzy: Lokesh Sharma, Jia-Ming Liang, Shih-Lin Wu
+Rok: 2024
+
+Tytuł: Unveiling the 5G Frontier: Navigating Challenges, Applications, and Measurements in Channel Models and Implementations.
+Autorzy: Muhammad Shoaib, Ghassan Husnain, Nasir Sayed, Sangsoon Lim
+Rok: 2024
+
+Tytuł: A Low-Profile Shared Aperture Antenna for FR1 and FR2 5G Frequency Bands.
+Autorzy: Marco Simone, Santi Concetto Pavone, Matteo Bruno Lodi, Nicola Curreli, Giacomo Muntoni, Alessandro Fanti, Gino Sorbello, Giuseppe Mazzarella
+Rok: 2024
+
+Tytuł: Security in 5G Network Slices: Concerns and Opportunities.
+Autorzy: Virendra Singh, Mahendra Pratap Singh, Saumya Hegde, Maanak Gupta
+Rok: 2024
+
+Tytuł: Practical Trial for Low-Energy Effective Jamming on Private Networks With 5G-NR and NB-IoT Radio Interfaces.
+Autorzy: Pawel Skokowski, Krzysztof Malon, Michal Kryk, Krzysztof Maslanka, Jan M. Kelner, Piotr Rajchowski, Jaroslaw Magiera
+Rok: 2024
+
+Tytuł: A Survey on Enabling XR Services in Beyond 5G Mobile Networks.
+Autorzy: E. Stafidas, Fotis Foukalas
+Rok: 2024
+
+Tytuł: PEaF-Production Environment Analyzer Framework: Assisting Continuous Deployment of 5G Workloads Using AI/ML.
+Autorzy: Karthikeyan Subramaniam, Senthil Kumar, Asutosh Mishra, Ayush Bhandari, Jamsheed Manja Ppallan, Ganesh Chandrasekaran
+Rok: 2024
+
+Tytuł: Pattern Diversity Antenna for 5G-NR Application Based on Closely-Spaced Semi-Circular Slots.
+Autorzy: Youngje Sung
+Rok: 2024
+
+Tytuł: A Universal Approximation-Centered Deep Learning Framework for the Massive 5G MIMO-OFDM Channel Estimation.
+Autorzy: M. Susandhika, A. Shirly Edward
+Rok: 2024
+
+Tytuł: Power Consumption and Reduction of High-Power Amplifier in 5G NR Downlink.
+Autorzy: Yuki Takagi, Takashi Hirakawa, Mitsukuni Konishi, Yoshichika Ohta
+Rok: 2024
+
+Tytuł: Application of Artificial Potential Field Method in Three-Dimensional Path Planning for UAV Considering 5G Communication.
+Autorzy: Yeshuang Tang, Haoxian Chen, Zhaoyong Ma, Zichen Jin, Huili Yin
+Rok: 2024
+
+Tytuł: Wideband Delta-Sigma Radio-Over-Fiber Embedding Complex-Valued Pulse-Distortion Model for 5G and Beyond.
+Autorzy: Masaaki Tanio, Daisaku Ogasahara, Naoto Ishii, Kazushi Muraoka
+Rok: 2024
+
+Tytuł: Beam Switching in mmWave 5G: Evaluation in a Realistic Industrial Scenario.
+Autorzy: Antonio Tarrías, Sebastian Bro Damsgaard, Melisa López, Troels B. Sørensen, Preben E. Mogensen, Sergio Fortes, Raquel Barco
+Rok: 2024
+
+Tytuł: Deep Learning Approach for Efficient 5G LDPC Decoding in IoT.
+Autorzy: Sivarama Prasad Tera, Chinthaginjala Venkata Ravikumar, Priya Natha, Shafiq Ahmad, Giovanni Pau
+Rok: 2024
+
+Tytuł: CNN-Based Approach for Enhancing 5G LDPC Code Decoding Performance.
+Autorzy: Sivarama Prasad Tera, Chinthaginjala Venkata Ravikumar, Priya Natha, Giovanni Pau, C. Dhanamjayulu, Faruq Mohammad
+Rok: 2024
+
+Tytuł: Adaptive Sidelink Open Loop Power Control Optimization Strategies for Vehicle-to- Vehicle Communications in 5G-NR-V2X.
+Autorzy: Jiawei Tian, Chaitali J. Pawase, KyungHi Chang
+Rok: 2024
+
+Tytuł: Design of Computing-Aware Traffic Steering Architecture for 5G Mobile User Plane.
+Autorzy: Minh-Ngoc Tran, Van-Binh Duong, Young-Han Kim
+Rok: 2024
+
+Tytuł: Design of 5G Architecture Enhancements for Supporting Serverless Computing.
+Autorzy: Minh-Ngoc Tran, Young-Han Kim
+Rok: 2024
+
+Tytuł: Distributed Control for Collaborative Robotic Systems Using 5G Edge Computing.
+Autorzy: Dominik Urbaniak, Sebastian Bro Damsgaard, Weifan Zhang, Jan Rosell, Raúl Suárez, Michael Suppa
+Rok: 2024
+
+Tytuł: A Miniaturized Metamaterial-Loaded Switched-Beam Antenna Array System With Enhanced Bandwidth for 5G Applications.
+Autorzy: Arshad Karimbu Vallappil, Mohamad Kamal A. Rahim, Bilal A. Khawaja, Muhammad Naeem Iqbal
+Rok: 2024
+
+Tytuł: Wideband Shared-Aperture Antenna for Full-Screen 5G Mobile Devices.
+Autorzy: Harri Varheenmaa, Pasi Ylä-Oijala, Anu Lehtovuori, Ville Viikari
+Rok: 2024
+
+Tytuł: A Millimeter-Wave Phased Array-Aided 5G Communication Prototype: Evaluation in an Indoor Scenario.
+Autorzy: Randy Verdecia-Peña, Alfonso Tomás Muriel-Barrado, Jorge Calatayud-Maeso, Pablo Sanchez-Olivares, Jose-Manuel Fernandez-Gonzalez, José I. Alonso
+Rok: 2024
+
+Tytuł: Design and Analysis of VNF Scaling Mechanisms for 5G-and-Beyond Networks Using Federated Learning.
+Autorzy: Rahul Verma, Krishna M. Sivalingam
+Rok: 2024
+
+Tytuł: Is Music in the Air? Evaluating 4G and 5G Support for the Internet of Musical Things.
+Autorzy: Luca Vignati, Giovanni Nardini, Marco Centenaro, Paolo Casari, Sandra Lagén, Biljana Bojovic, Stefano Zambon, Luca Turchet
+Rok: 2024
+
+Tytuł: 5G Non-Terrestrial Networks With OpenAirInterface: An Experimental Study Over GEO Satellites.
+Autorzy: Florian Völk, Thomas Schlichter, Sumit Kumar, Robert T. Schwarz, Andreas Knopp, Marwan Hammouda, Thomas Heyn, Jorge Querol, Symeon Chatzinotas, Adam Kapovits
+Rok: 2024
+
+Tytuł: An Assessment of Extrapolated Field Strengths Versus Distance, Measurement Time, and Induced Traffic From 5G Base Station in C-Band.
+Autorzy: Sangin Qahtan Wali, Aduwati Sali, Darko Suka, Sam Aerts, Mohammed Alkuraysi, Lu Li, Alyani Ismail, Fazirulhisyam Hashim, Yasser A. Alsaidosh, Víctor P. Gil Jiménez, Manfred Ruttner, Anwar Faizd Osman
+Rok: 2024
+
+Tytuł: Reconstruction for Rolling Bearing Vibration Signals Integrating 5G-NR-LDPC Codes and Weighted Compressed Sensing.
+Autorzy: Chao Wang, Hua Xu, Guangxing Ni, Wenjuan Shi
+Rok: 2024
+
+Tytuł: Performance Improvement of Time-Sensitive Fronthaul Networks in 5G Cloud-RANs Using Reinforcement Learning-Based Scheduling Scheme.
+Autorzy: Muhammad Waqar, Muhammad Usman Mustafa, Farhana Jabeen, Syed Aziz Shah
+Rok: 2024
+
+Tytuł: Compact 8-Port 2×2 Array Based on Dual-Polarized Patch Antennas With Modified Cavity Field Distribution for Enhanced Port Isolation for 5G IoT Device MIMO Antennas.
+Autorzy: Kin-Lu Wong, Yi-Yang Huang, Wei-Yu Li
+Rok: 2024
+
+Tytuł: Ultra-Wideband On-Metal Four-Antenna Module for 5G/6G/WiFi-6E IoT Mobile Device MIMO Antennas and Its Field Test Study.
+Autorzy: Kin-Lu Wong, Cheng-Hsuan Shaw, Wan-Ting Li, Wei-Yu Li
+Rok: 2024
+
+Tytuł: A Lowpass-Bandpass Triplexer With A New Microstrip Configuration and Compact Size for 5G and Energy Harvesting Applications.
+Autorzy: Salah I. Yahya, Farid Zubir, Lewis Nkenyereye, Mohammed Abed-Hafez, Leila Nouri, Maher Assaad, Muhammad Akmal Chaudhary, Noorlindawaty Md Jizat
+Rok: 2024
+
+Tytuł: Formal-Guided Fuzz Testing: Targeting Security Assurance From Specification to Implementation for 5G and Beyond.
+Autorzy: Jingda Yang, Sudhanshu Arya, Ying Wang
+Rok: 2024
+
+Tytuł: Dual-Polarized Patch Antenna Array Integrated With Capacitive Proximity Sensor for 5G Millimeter-Wave Smartphones.
+Autorzy: Jeong-Ung Yoo, Jung-Mu Kim, Donggu Im, Hae-Won Son
+Rok: 2024
+
+Tytuł: Comparative Analysis of Machine Learning Algorithms for 5G Coverage Prediction: Identification of Dominant Feature Parameters and Prediction Accuracy.
+Autorzy: Hajiar Yuliana, Iskandar, Hendrawan
+Rok: 2024
+
+Tytuł: Low-Cost Multiband Four-Port Phased Array Antenna for Sub-6 GHz 5G Applications With Enhanced Gain Methodology in Radio-Over-Fiber Systems Using Modulation Instability.
+Autorzy: Hassan Zakeri, Rasul Azizpour, Parsa Khoddami, Gholamreza Moradi, Mohammad Alibakhshikenari, Chan Hwang See, Tayeb A. Denidni, Francisco Falcone, Slawomir Koziel, Ernesto Limiti
+Rok: 2024
+
+Tytuł: A New Technique of FSS-Based Novel Chair-Shaped Compact MIMO Antenna to Enhance the Gain for Sub-6GHz 5G Applications.
+Autorzy: Mohammed Yousif Zeain, Maisarah Abu, Ayman Abdulhadi Althuwayb, Hussein Alsariera, Ahmed Jamal Abdullah Al-Gburi, Ali Abdulateef Abdulbari, Zahriladha Zakaria
+Rok: 2024
+
+Tytuł: Artificial Intelligence-Enabled 5G Network Performance Evaluation With Fine Granularity and High Accuracy.
+Autorzy: Qing Zhang, Taoye Zhang, Bin Chen, Ji Yan, Zhongyuan Zhao, Xiaofei Qin, Chao Cai, Xiankui Luo
+Rok: 2024
+
+Tytuł: A Survey of Delay-Oriented Dynamic Link Scheduling Policies for 5G/6G Integrated Access and Backhaul Systems.
+Autorzy: Anna Zhivtsova, Vitalii Beschastnyi, Yevgeni Koucheryavy, Konstantin E. Samouylov
+Rok: 2024
+
+Tytuł: Wideband Endfire Antenna Array for 5G mmWave Mobile Terminals.
+Autorzy: Ali Zidour, Mouloud Ayad, Mohammad Alibakhshikenari, Chan Hwang See, Yingxin Lai, Yue Ma, Boumediene Guenad, Patrizia Livreri, Salahuddin Khan, Giovanni Pau, Tayeb A. Denidni
+Rok: 2024
+
+Tytuł: Handover optimisation for high-capacity low-latency 5G NR mmWave communication.
+Autorzy: Davi da Silva Brilhante, José Ferreira de Rezende, Nicola Marchetti
+Rok: 2024
+
+Tytuł: An efficient energy saving scheme using reinforcement learning for 5G and beyond in H-CRAN.
+Autorzy: Hasna Fourati, Rihab Maaloul, Nessrine Trabelsi, Lamia Chaari, Mohamed Jmaiel
+Rok: 2024
+
+Tytuł: Cache content placement in the presence of fictitious requests in mmWave 5G IAB networks.
+Autorzy: Fatemeh Sadat Hashemi Nazarifard, Zahra Rashidi, Vesal Hakami
+Rok: 2024
+
+Tytuł: Non-Terrestrial UAV Clients for Beyond 5G Networks: A Comprehensive Survey.
+Autorzy: Mohammed M. H. Qazzaz, Syed Ali Raza Zaidi, Desmond C. McLernon, Ali Mohammad Hayajneh, Abdelaziz Salama, Sami A. Aldalahmeh
+Rok: 2024
+
+Tytuł: Experimental assessment of SDR-based 5G positioning: methodologies and insights.
+Autorzy: Ivan Palamà, Stefania Bartoletti, Giuseppe Bianchi, Nicola Blefari-Melazzi
+Rok: 2024
+
+Tytuł: Enhancing mobility management in 5G networks using deep residual LSTM model.
+Autorzy: Abdullah Baz, Jaganathan Logeshwaran, Yuvaraj Natarajan, Shobhit K. Patel
+Rok: 2024
+
+Tytuł: Modeling 5G shared base station planning problem using an evolutionary bi-level optimization algorithm.
+Autorzy: Lei Chen, Kuntao Li, Hai-Lin Liu
+Rok: 2024
+
+Tytuł: Long term 5G base station traffic prediction method based on spatial-temporal correlations.
+Autorzy: Yimeng Shang, Wei Deng, Jianhua Liu, Jian Ma, Yitong Shang, Jingwei Dai
+Rok: 2024
+
+Tytuł: 5G QoS model for Time-Sensitive Networking.
+Autorzy: Niklas Ambrosy, Christian Markwart, Rüdiger Halfmann, Lisa Underberg
+Rok: 2024
+
+Tytuł: An Intelligent Channel Estimation Algorithm Based on Extended Model for 5G-V2X.
+Autorzy: Jie Huang, Cheng Xu, Zhaohua Ji, Shan Xiao, Teng Liu, Nan Ma, Qinghui Zhou
+Rok: 2024
+
+Tytuł: PBPHS: A Profile-Based Predictive Handover Strategy for 5G Networks.
+Autorzy: Jiabao Sun, Yijiang Zhang, Mohammad Trik
+Rok: 2024
+
+Tytuł: Cooperative secure beamforming optimization for Full-Duplex Rate Splitting Multiple Access-enabled beyond-5G communication networks.
+Autorzy: Siyi Duan, Shidang Li, Mingsheng Wei, Weiqiang Tan, Chunguo Li, Lijuan Zhong
+Rok: 2024
+
+Tytuł: Performance evaluation of an optically transparent microstrip patch antenna for 5G applications using ITO and sodalime glass substrate.
+Autorzy: Emraul Islam Emon, Afia Mubassira Islam, Muhammad Shahriar Bashar, Anis Ahmed
+Rok: 2024
+
+Tytuł: Highly secured authentication and fast handover scheme for mobility management in 5G vehicular networks.
+Autorzy: Prabhakar Krishnan, Kurunandan Jain, Ala Saleh D. Alluhaidan, P. Prabu
+Rok: 2024
+
+Tytuł: Robust fuzzy logic schemes for cooperative spectrum sharing in 5G networks with uncertain channel conditions.
+Autorzy: B. B. Shankar, M. Udhayamoorthi, Y. M. Latha, R. V. S. Lalitha, A. Prakash, V. P. Vijayan
+Rok: 2024
+
+Tytuł: Ubiquitous learning models for 5G communication network utility maximization through utility-based service function chain deployment.
+Autorzy: Faisal Alghayadh, Janjhyam Venkata Naga Ramesh, Aadam Quraishi, Sarath Babu Dodda, Srihari Maruthi, Mohan Raparthi, Jagdish Chandra Patni, Ahmed Farouk
+Rok: 2024
+
+Tytuł: Smart Colleges: Analyzing a 5G-Enabled Smart English Hybrid Teaching System.
+Autorzy: Wang Hui, Cong Geng
+Rok: 2024
+
+Tytuł: Artificial intelligence control for trust-based detection of attackers in 5G social networks.
+Autorzy: Davinder Kaur, Suleyman Uslu, Mimoza Durresi, Arjan Durresi
+Rok: 2024
+
+Tytuł: A Genetic Algorithm Based Scheduling Method With Carrier Aggregation In 5G Networks.
+Autorzy: Ching-Kuo Hsu
+Rok: 2024
+
+Tytuł: Extremely Lightweight Constant-Round Membership-Authenticated Group Key Establishment for Resource-Constrained Smart Environments toward 5G.
+Autorzy: Ching-Fang Hsu, Zhe Xia, Tianshu Cheng, Lein Harn
+Rok: 2024
+
+Tytuł: Ethereum blockchain-based three factor authentication and multi-contract access control for secure smart home environment in 5G networks.
+Autorzy: Saleh Atiewi, Amer Al-Rahayfeh, Muder Almiani, Abdullah Abuhussein, Salman Yussof
+Rok: 2024
+
+Tytuł: Harris Hawks optimization based hybrid deep learning model for efficient network slicing in 5G network.
+Autorzy: Ramraj Dangi, Praveen Lalwani
+Rok: 2024
+
+Tytuł: Drones as a service (DaaS) for 5G networks and blockchain-assisted IoT-based smart city infrastructure.
+Autorzy: Tanya Garg, Shashank Gupta, Mohammad S. Obaidat, Meghna Raj
+Rok: 2024
+
+Tytuł: OsCoMIT: Osmotic computing-based service management for intelligent transportation systems in 5G network.
+Autorzy: Akashdeep Kaur, Sharad Saxena, Rajesh Kumar
+Rok: 2024
+
+Tytuł: Distribution of resources beyond 5G networks with heterogeneous parallel processing and graph optimization algorithms.
+Autorzy: Alaa O. Khadidos, Hariprasath Manoharan, Shitharth Selvarajan, Adil Omar Khadidos, Abdulrhman M. Alshareef, Mohammed Altwijri
+Rok: 2024
+
+Tytuł: Efficient resource allocation with dynamic traffic arrivals on D2D communication for beyond 5G networks.
+Autorzy: Biroju Papachary, Rajeev Arya, Bhasker Dappuri
+Rok: 2024
+
+Tytuł: Power-aware QoS-centric strategy for ultra reliable low latency communication in 5G beyond wireless networks.
+Autorzy: Biroju Papachary, Rajeev Arya, Bhasker Dappuri
+Rok: 2024
+
+Tytuł: Performance analysis of ML models on 5G sub-6 GHz bands: An experimental study.
+Autorzy: Avuthu Avinash Reddy, Ramesh Babu Battula, Dinesh Gopalani
+Rok: 2024
+
+Tytuł: Use of edge resources for DNN model maintenance in 5G IoT networks.
+Autorzy: Jung-Woong Sung, Seung-Jae Han
+Rok: 2024
+
+Tytuł: A forecasting-based approach for optimal deployment of edge servers in 5G networks.
+Autorzy: Vaibhav Tiwari, Chandrasen Pandey, Diptendu Sinha Roy
+Rok: 2024
+
+Tytuł: Application Awareness for Extended Reality Services: 5G-Advanced and Beyond.
+Autorzy: Abolfazl Amiri, Pouria Paymard, Pilar Andres-Maldonado, Stefano Paris, Klaus I. Pedersen, Troels E. Kolding
+Rok: 2024
+
+Tytuł: Gaming in the Cloud: 5G as the Pillar for Future Gaming Approaches.
+Autorzy: Carlos Baena, Sergio Fortes, Oswaldo Sebastian Peñaherrera-Pulla, Eduardo Baena, Raquel Barco
+Rok: 2024
+
+Tytuł: Economic Feasibility of 5G-Based Autonomous Mobile Robots Solutions for Industry 4.0.
+Autorzy: Lorena Chinchilla-Romero, Jonathan Prados-Garzon, Ramya Vasist, Meysam Goordazi
+Rok: 2024
+
+Tytuł: Definition and Application of the Scalability Index: Example of 5G Network Slicing.
+Autorzy: Tobias Hossfeld, Poul E. Heegaard, Wolfgang Kellerer
+Rok: 2024
+
+Tytuł: Integration of 5G mmWave-Enabled V2I and V2V: Experimental Evaluation.
+Autorzy: Junhyeong Kim, Heesang Chung, Ilgyu Kim, Gosan Noh
+Rok: 2024
+
+Tytuł: A Large-Scale Dataset of 4G, NB-IoT, and 5G Non-Standalone Network Measurements.
+Autorzy: Konstantinos Kousias, Mohammad Rajiullah, Giuseppe Caso, Usman Ali, Ozgu Alay, Anna Brunström, Luca De Nardis, Marco Neri, Maria-Gabriella Di Benedetto
+Rok: 2024
+
+Tytuł: Pricing Models for 5G Multi-Tenancy Using Game Theory Framework.
+Autorzy: Shruthi Koratagere Anantha Kumar, David H. Crawford, Robert W. Stewart
+Rok: 2024
+
+Tytuł: Toward Multi-Connectivity in Beyond 5G Non-Terrestrial Networks: Challenges and Possible Solutions.
+Autorzy: Mikko Majamaa
+Rok: 2024
+
+Tytuł: Positioning of RedCap Devices in 5G Networks.
+Autorzy: Florent Munier, Zhilan Xiong, Ritesh Shreevastav, Xiaolin Jiang, Mohammed Yazid Lyazidi, Deep Shrestha, Chunhui Zhang, Gustav Lindmark, Johannes Nygren, Saeedeh Moloudi, Satyam Dwivedi, Fredrik Gunnarsson
+Rok: 2024
+
+Tytuł: Enabling Extended Reality Over 5G with Distributed Computing.
+Autorzy: Hemanth Sampath, Peerapol Tinnakornsrisuphap, Prashanth Hande
+Rok: 2024
+
+Tytuł: Can I Add a VR Flow? On the Maximum Capacity of 5G to Support 360° Video.
+Autorzy: Pablo Serrano, Antonio Virdis, Francesco Gringoli, Marco Gramaglia
+Rok: 2024
+
+Tytuł: Split Rendering with L4S Over 5G for Latency Critical Interactive XR Applications.
+Autorzy: Jangwoo Son, Yago Sanchez, Cornelius Hellge, Thomas Schierl
+Rok: 2024
+
+Tytuł: A Dedicated Line-Based 5G-NR Dedicated Network Communication Between Unmanned Systems and Ground Stations.
+Autorzy: Hengyi Sun, Jinlong Shen, Alfred Chan, Boris Lee, Xiaoping Luo, Changjiang Sun
+Rok: 2024
+
+Tytuł: Beyond Limitations of 5G with RIS: Field Trial in a Commercial Network, Recent Advances, and Future Directions.
+Autorzy: Hyunjun Yang, Sunghyun Kim, Hogyeom Kim, Seungwoo Bang, Yongwan Kim, Seongkwan Kim, Kyujin Park, Doyle Kwon, Jungsuek Oh
+Rok: 2024
+
+Tytuł: NEMa: A Novel Energy-Efficient Mobility Management Protocol for 5G/6G-Enabled Sustainable Vehicular Networks.
+Autorzy: Noura Aljeri, Azzedine Boukerche
+Rok: 2024
+
+Tytuł: Cost-efficient multipath scheduling of video-on-demand traffic for the 5G ATSSS splitting function.
+Autorzy: Markus Amend, Veselin Rakocevic
+Rok: 2024
+
+Tytuł: A measurement-based approach to analyze the power consumption of the softwarized 5G core.
+Autorzy: Arturo Bellin, Fabrizio Granelli, Daniele Munaretto
+Rok: 2024
+
+Tytuł: Comparison of energy conservation strategies for 5G NR RedCap service in industrial environment.
+Autorzy: Vitalii Beschastnyi, Darya Y. Ostrikova, Dmitri Moltchanov, Yuliya Gaidamaka, Yevgeni Koucheryavy, Konstantin E. Samouylov
+Rok: 2024
+
+Tytuł: Latency optimized C-RAN in optical backhaul and RF fronthaul architecture for beyond 5G network: A comprehensive survey.
+Autorzy: Abhay Bhandari, Akhil Gupta, Sudeep Tanwar, Joel J. P. C. Rodrigues, Ravi Sharma, Anupam Singh
+Rok: 2024
+
+Tytuł: An end-to-end DPDK-integrated open-source 5G standalone Radio Access Network: A proof of concept.
+Autorzy: Abhishek Bhattacharyya, Shunmugapriya Ramanathan, Andrea Fumagalli, Koteswararao Kondepu
+Rok: 2024
+
+Tytuł: Adaptive contrastive learning based network latency prediction in 5G URLLC scenarios.
+Autorzy: Yinan Cai, Wei Li, Xiangxu Meng, Wenqi Zheng, Chuhao Chen, Zhuoxuan Liang
+Rok: 2024
+
+Tytuł: Paving the way towards safer and more efficient maritime industry with 5G and Beyond edge computing systems.
+Autorzy: Vincent Charpentier, Nina Slamnik-Krijestorac, Giada Landi, Matthias Caenepeel, Olivier Vasseur, Johann M. Márquez-Barja
+Rok: 2024
+
+Tytuł: A review on new technologies in 3GPP standards for 5G access and beyond.
+Autorzy: Nhu-Ngoc Dao, Ngo Hoang Tu, Trong-Dai Hoang, Tri-Hai Nguyen, Luong Vuong Nguyen, Kyungchun Lee, Laihyuk Park, Woongsoo Na, Sungrae Cho
+Rok: 2024
+
+Tytuł: Distributed neighbor discovery with mobility adaptive probing for beyond 5G D2D communications.
+Autorzy: Manoj Das, Madhurima Buragohain, Sukumar Nandi
+Rok: 2024
+
+Tytuł: Time-efficient detection of false position attack in 5G and beyond vehicular networks.
+Autorzy: Taki Eddine Toufik Djaidja, Bouziane Brik, Abdelwahab Boualouache, Sidi Mohammed Senouci, Yacine Ghamri-Doudane
+Rok: 2024
+
+Tytuł: Enhancing privacy and security in 5G networks with an anonymous handover protocol based on Blockchain and Zero Knowledge Proof.
+Autorzy: Zaher Haddad
+Rok: 2024
+
+Tytuł: Empirical performance analysis and ML-based modeling of 5G non-standalone networks.
+Autorzy: Konstantinos Kousias, Mohammad Rajiullah, Giuseppe Caso, Ozgu Alay, Anna Brunström, Usman Ali, Luca De Nardis, Marco Neri, Maria-Gabriella Di Benedetto
+Rok: 2024
+
+Tytuł: SIM+: A comprehensive implementation-agnostic information model assisting AI-driven optimization for beyond 5G networks.
+Autorzy: Lina Magoula, Nikolaos Koursioumpas, Theodora Panagea, Nancy Alonistioti, Chaima Ghribi, Joshua Shakya
+Rok: 2024
+
+Tytuł: 5G-VIOS: Towards next generation intelligent inter-domain network service orchestration and resource optimisation.
+Autorzy: Shadi Moazzeni, Konstantinos Katsaros, Nasim Ferdosian, Konstantinos Antonakoglou, Mark Rouse, Dritan Kaleshi, Adriana Fernández-Fernández, Miguel Catalan-Cid, Constantinos Vrontos, Reza Nejabati, Dimitra Simeonidou
+Rok: 2024
+
+Tytuł: 5G and edge: A reinforcement learning approach for Virtual Network Embedding with cost optimization and improved acceptance rate.
+Autorzy: Cristiano L. Moreira, Carlos Alberto Kamienski, Reinaldo A. C. Bianchi
+Rok: 2024
+
+Tytuł: Relay-empowered beyond 5G radio access networks with edge computing capabilities.
+Autorzy: Irene Vilà Muñoz, Oriol Sallent, Jordi Pérez-Romero
+Rok: 2024
+
+Tytuł: Slice admission control in 5G wireless communication with multi-dimensional state space and distributed action space: A sequential twin actor-critic approach.
+Autorzy: Mourice Otieno Ojijo, Daniel T. Ramotsoela, Ruth Oginga
+Rok: 2024
+
+Tytuł: 5G positioning with software-defined radios.
+Autorzy: Ivan Palamà, Yago Lizarribar, Lorenzo Maria Monteforte, Giuseppe Santaromita, Stefania Bartoletti, Domenico Giustiniano, Giuseppe Bianchi, Nicola Blefari-Melazzi
+Rok: 2024
+
+Tytuł: Joint intelligent optimizing economic dispatch and electric vehicles charging in 5G vehicular networks.
+Autorzy: Gang Pan, Xin Guan, Haiyang Jiang, Yongnan Liu, Huayang Wu, Hongyang Chen, Tomoaki Ohtsuki, Zhu Han
+Rok: 2024
+
+Tytuł: A comprehensive survey on spectrum sharing techniques for 5G/B5G intelligent wireless networks: Opportunities, challenges and future research directions.
+Autorzy: Anita Patil, Sridhar Iyer, Onel Luis Alcaraz López, Rahul Jashvantbhai Pandya, Krishna Pai, Anshuman Kalla, Rakhee Kallimani
+Rok: 2024
+
+Tytuł: A trust management solution for 5G-based future generation Internet of Vehicles.
+Autorzy: Geetanjali Rathee, Akshay Kumar, Chaker Abdelaziz Kerrache, Carlos T. Calafate
+Rok: 2024
+
+Tytuł: Multisite gaming streaming optimization over virtualized 5G environment using Deep Reinforcement Learning techniques.
+Autorzy: Alberto del Río, Javier Serrano, David Jiménez, Luis M. Contreras, Federico Alvarez
+Rok: 2024
+
+Tytuł: Understanding the impact of persistence and propagation on the Age of Information of broadcast traffic in 5G NR-V2X sidelink communications.
+Autorzy: Alexey Rolich, Ion Turcanu, Alexey V. Vinel, Andrea Baiocchi
+Rok: 2024
+
+Tytuł: AI/ML-aided capacity maximization strategies for URLLC in 5G/6G wireless systems: A survey.
+Autorzy: Razeena Begum Shaik, Prabagarane Nagaradjane, Iacovos Ioannou, Vitawat Sittakul, Vasos Vassiliou, Andreas Pitsillides
+Rok: 2024
+
+Tytuł: Spatio-temporal graph learning: Traffic flow prediction of mobile edge computing in 5G/6G vehicular networks.
+Autorzy: Chao Song, Jie Wu, Kunyang Xian, Jianfeng Huang, Li Lu
+Rok: 2024
+
+Tytuł: Towards the automatic network resource management of OPC UA in 5G private networks.
+Autorzy: Géza Szabó
+Rok: 2024
+
+Tytuł: Interference management in 5G and beyond networks: A comprehensive survey.
+Autorzy: Nessrine Trabelsi, Lamia Chaari Fourati, Chung Shue Chen
+Rok: 2024
+
+Tytuł: Service-aware real-time slicing for virtualized beyond 5G networks.
+Autorzy: Theodoros Tsourdinis, Ilias Chatzistefanidis, Nikos Makris, Thanasis Korakis, Navid Nikaein, Serge Fdida
+Rok: 2024
+
+Tytuł: OTFS modulated massive MIMO with 5G NR LDPC coding: Trends, challenges and future directions.
+Autorzy: Waheed Ullah, Fengfan Yang, Dushantha Nalin K. Jayakody
+Rok: 2024
+
+Tytuł: Mobility-aware SFC migration in dynamic 5G-Edge networks.
+Autorzy: Juan Lucas Vieira, Evandro L. C. Macedo, Anselmo Luiz Éden Battisti, Julia Noce, Paulo F. Pires, Débora C. Muchaluat-Saade, Ana Cristina Bernardo de Oliveira, Flávia Coimbra Delicato
+Rok: 2024
+
+Tytuł: Joint multi-objective MEH selection and traffic path computation in 5G-MEC systems.
+Autorzy: Prachi Vinod Wadatkar, Rosario Giuseppe Garroppo, Gianfranco Nencioni, Marco Volpi
+Rok: 2024
+
+Tytuł: An architecture for control plane slicing in beyond 5G networks.
+Autorzy: Rashmi Yadav, Rashmi Kamran, Pranav Jha, Abhay Karandikar
+Rok: 2024
+
+Tytuł: Protecting unauthenticated messages in LTE/5G mobile networks: A two-level Hierarchical Identity-Based Signature (HIBS) solution.
+Autorzy: Chuan Yu, Shuhui Chen, Qianqian Xing, Ziling Wei
+Rok: 2024
+
+Tytuł: A multipath scheduler based on cross-layer information for low-delay applications in 5G edge networks.
+Autorzy: Baosen Zhao, Wanghong Yang, Wenji Du, Yongmao Ren, Jianan Sun, Qinghua Wu, Xu Zhou
+Rok: 2024
+
+Tytuł: Black-box optimization for anticipated baseband-function placement in 5G networks.
+Autorzy: Ligia Maria Moreira Zorello, Laurens Bliek, Sebastian Troia, Guido Maier, Sicco Verwer
+Rok: 2024
+
+Tytuł: Towards a quantum-safe 5G: Quantum Key Distribution in core networks.
+Autorzy: Asier Atutxa, Ane Sanz, Jorge Sasiain, Jasone Astorga, Eduardo Jacob
+Rok: 2024
+
+Tytuł: Mobility aware and energy-efficient federated deep reinforcement learning assisted resource allocation for 5G-RAN slicing.
+Autorzy: Yaser Azimi, Saleh Yousefi, Hashem Kalbkhani, Thomas Kunz
+Rok: 2024
+
+Tytuł: Joint optimization of UPF placement and traffic routing for 5G core network user plane.
+Autorzy: Songyan Chen, Junjie Chen, Hongjun Li
+Rok: 2024
+
+Tytuł: Training a Graph Neural Network to solve URLLC and eMBB coexisting in 5G networks.
+Autorzy: Seyyed Mohammad Mahdi Hosseini Daneshvar, Sayyed Majid Mazinani
+Rok: 2024
+
+Tytuł: LAMP: A latency-aware MAC protocol for joint scheduling of CAM and DENM traffic over 5G-NR sidelink.
+Autorzy: Suranjan Daw, Anwesha Kar, Venkatarami Reddy Chintapalli, Bheemarjuna Reddy Tamma, C. Siva Ram Murthy
+Rok: 2024
+
+Tytuł: eSIM and blockchain integrated secure zero-touch provisioning for autonomous cellular-IoTs in 5G networks.
+Autorzy: Prabhakar Krishnan, Kurunandan Jain, Shivananda R. Poojara, Satish Narayana Srirama, Tulika Pandey, Rajkumar Buyya
+Rok: 2024
+
+Tytuł: QoS aware resource allocation for coexistence mechanisms between eMBB and URLLC: Issues, challenges, and future directions in 5G.
+Autorzy: Rajesh Kumar, Deepak Sinwar, Vijander Singh
+Rok: 2024
+
+Tytuł: Optimization of 5G base station coverage based on self-adaptive mutation genetic algorithm.
+Autorzy: Jianpo Li, Jinjian Pang, Xiaojuan Fan
+Rok: 2024
+
+Tytuł: Enabling simulation services for digital twins of 5G/B5G mobile networks.
+Autorzy: Giovanni Nardini, Giovanni Stea
+Rok: 2024
+
+Tytuł: Cost-efficient RAN slicing for service provisioning in 5G/B5G.
+Autorzy: Somreeta Pramanik, Adlen Ksentini, Carla-Fabiana Chiasserini
+Rok: 2024
+
+Tytuł: Resource allocation for cost minimization of a slice broker in a 5G-MEC scenario.
+Autorzy: Annisa Sarah, Gianfranco Nencioni
+Rok: 2024
+
+Tytuł: Joint mode selection and resource allocation for cellular V2X communication using distributed deep reinforcement learning under 5G and beyond networks.
+Autorzy: Shalini Yadav, Rahul Rishi
+Rok: 2024
+
+Tytuł: Retracted: Anomaly Detection of Highway Vehicle Trajectory under the Internet of Things Converged with 5G Technology.
+Autorzy: Complexity
+Rok: 2024
+
+Tytuł: Retracted: Radio Frequency Link and User Selection Algorithm for 5G Mobile Communication System.
+Autorzy: Complexity
+Rok: 2024
+
+Tytuł: Federated learning for 5G and beyond, a blessing and a curse- an experimental study on intrusion detection systems.
+Autorzy: Taki Eddine Toufik Djaidja, Bouziane Brik, Abdelwahab Boualouache, Sidi Mohammed Senouci, Yacine Ghamri-Doudane
+Rok: 2024
+
+Tytuł: A cognitive security framework for detecting intrusions in IoT and 5G utilizing deep learning.
+Autorzy: Umesh Kumar Lilhore, Surjeet Dalal, Sarita Simaiya
+Rok: 2024
+
+Tytuł: MONDEO-Tactics5G: Multistage botnet detection and tactics for 5G/6G networks.
+Autorzy: Bruno Sousa, Duarte M. Dias, Nuno Antunes, Javier Cámara, Ryan Wagner, Bradley R. Schmerl, David Garlan, Pedro Fidalgo
+Rok: 2024
+
+Tytuł: Proposed Supercluster-Based UMBBFS Routing Protocol for Emergency Message Dissemination in Edge-RSU for 5G VANET.
+Autorzy: Maath A. Albeyar, Ikram Smaoui, Hassène Mnif, Sameer Alani
+Rok: 2024
+
+Tytuł: Interference Management Based on Meta-Heuristic Algorithms in 5G Device-to-Device Communications.
+Autorzy: Mohamed Kamel Benbraika, Okba Kraa, Yassine Himeur, Khaled Telli, Shadi Atalla, Wathiq Mansoor
+Rok: 2024
+
+Tytuł: An Integrated Software-Defined Networking-Network Function Virtualization Architecture for 5G RAN-Multi-Access Edge Computing Slice Management in the Internet of Industrial Things.
+Autorzy: Francesco Chiti, Simone Morosi, Claudio Bartoli
+Rok: 2024
+
+Tytuł: An Efficient QC-LDPC Decoder Architecture for 5G-NR Wireless Communication Standards Targeting FPGA.
+Autorzy: Bilal Mejmaa, Malika Alami Marktani, Ismail Akharraz, Abdelaziz Ahaitouf
+Rok: 2024
+
+Tytuł: Performance Evaluation and Analysis of Urban-Suburban 5G Cellular Networks.
+Autorzy: Aymen I. Zreikat, Shinu Mathew
+Rok: 2024
+
+Tytuł: Guest editorial: Deep learning techniques in intelligent internet of things and 5G communication networks.
+Autorzy: Jia-Wei Chang, Nigel Lin, Qingguo Zhou, Yi-Zeng Hsieh, Mirjana Ivanovic
+Rok: 2024
+
+Tytuł: A study of identity authentication using blockchain technology in a 5G multi-type network environment.
+Autorzy: Jui-Hung Kao, Yu-Yu Yen, Wei-Chen Wu, Horng-Twu Liaw, Shiou-Wei Fan, Yi-Chen Kao
+Rok: 2024
+
+Tytuł: Applying SPIN checker on 5G EAP-TLS authentication protocol analysis.
+Autorzy: Qianli Wang
+Rok: 2024
+
+Tytuł: Models, Methods, and Solutions for Multicasting in 5G/6G mmWave and Sub-THz Systems.
+Autorzy: Nadezhda Chukhno, Olga Chukhno, Dmitri Moltchanov, Sara Pizzi, Anna Gaydamaka, Andrey Samuylov, Antonella Molinaro, Yevgeni Koucheryavy, Antonio Iera, Giuseppe Araniti
+Rok: 2024
+
+Tytuł: Resource Management From Single-Domain 5G to End-to-End 6G Network Slicing: A Survey.
+Autorzy: Sina Ebrahimi, Faouzi Bouali, Olivier C. L. Haas
+Rok: 2024
+
+Tytuł: Network Slicing-Based Learning Techniques for IoV in 5G and Beyond Networks.
+Autorzy: Wafa Hamdi, Chahrazed Ksouri, Hasan Bulut, Mohamed Mosbah
+Rok: 2024
+
+Tytuł: Federated Learning-Empowered Mobile Network Management for 5G and Beyond Networks: From Access to Core.
+Autorzy: Joohyung Lee, Faranaksadat Solat, Tae Yeon Kim, H. Vincent Poor
+Rok: 2024
+
+Tytuł: Security Analysis of Critical 5G Interfaces.
+Autorzy: Mohammed Mahyoub, AbdulAziz AbdulGhaffar, Emmanuel Dare Alalade, Ezekiel Ndubisi, Ashraf Matrawy
+Rok: 2024
+
+Tytuł: Quantum Cryptography in 5G Networks: A Comprehensive Overview.
+Autorzy: Miralem Mehic, Libor Michalek, Emir Dervisevic, Patrik Burdiak, Matej Plakalovic, Jan Rozhon, Nerman Mahovac, Filip Richter, Enio Kaljic, Filip Lauterbach, Pamela Njemcevic, Almir Maric, Mirza Hamza, Peppino Fazio, Miroslav Voznák
+Rok: 2024
+
+Tytuł: Machine Learning in FCAPS: Toward Enhanced Beyond 5G Network Management.
+Autorzy: Abdelkader Mekrache, Adlen Ksentini, Christos V. Verikoukis
+Rok: 2024
+
+Tytuł: A Tutorial on Radio System-Level Simulations With Emphasis on 3GPP 5G-Advanced and Beyond.
+Autorzy: Klaus I. Pedersen, Roberto Maldonado, Guillermo Pocovi, Enric Juan, Mads Lauridsen, István Z. Kovács, Mads Brix, Jeroen Wigard
+Rok: 2024
+
+Tytuł: A Tutorial on NYUSIM: Sub-Terahertz and Millimeter-Wave Channel Simulator for 5G, 6G, and Beyond.
+Autorzy: Hitesh Poddar, Shihao Ju, Dipankar Shakya, Theodore S. Rappaport
+Rok: 2024
+
+Tytuł: Artificial neural network-driven federated learning for heart stroke prediction in healthcare 4.0 underlying 5G.
+Autorzy: Harsh Bhatt, Nilesh Kumar Jadav, Aparna Kumari, Rajesh Gupta, Sudeep Tanwar, Zdzislaw Polkowski, Amr Tolba, Azza S. Hassanein
+Rok: 2024
+
+Tytuł: Optimal D2D power for secure D2D communication with random eavesdropper in 5G-IoT networks.
+Autorzy: Saurabh Chandra, Rajeev Arya, Maheshwari Prasad Singh
+Rok: 2024
+
+Tytuł: Throughput and coverage based Base Station-Relay Station deployment for 5G cellular network.
+Autorzy: R. Ratheesh, M. Saranya Nair, P. Vetrivelan, J. Rajeswari
+Rok: 2024
+
+Tytuł: VG Köln: Rechtswidrige Regeln für 5G-Auktion.
+Autorzy: Jan Pfeiffer
+Rok: 2024
+
+Tytuł: FDF-HybridFS: Towards design of a failure detection framework using hybrid feature selection method for IP core networks that connect 5G core in NFV-based test environment.
+Autorzy: Anjali Rajak, Rakesh Tripathi
+Rok: 2024
+
+Tytuł: 5G Networks Evolution for Extended Reality.
+Autorzy: Andreas Cedergren, Fabian de Laval, Sorour Falahati, Lars Falk, Du Ho Kang, Robert S. Karlsson, Yazid Lyazidi, Aliakbar Mirzaei, Jonas Olsson, Jose Luis Pradas, Paul Schliwa-Bertling, Nianshan Shi, Bikramjit Singh, Richard Tano, Andra M. Voicu
+Rok: 2024
+
+Tytuł: Introducing 5G Advanced.
+Autorzy: Olof Liberg, Christian Hoymann, Claes Tidestav, Daniel Larsson, Imadur Rahman, Ricardo Blasco, Sorour Falahati, Yufei W. Blankenship
+Rok: 2024
+
+Tytuł: Relaying Solutions For 5G-IoT Applications: A 3GPP Perspective.
+Autorzy: Subin Narayanan, Olof Liberg, Andreas Höglund, Dimitris Tsolkas, Luis Alonso, Nikos I. Passas, Lazaros F. Merakos
+Rok: 2024
+
+Tytuł: Physical Layer Enhancements for High-Reliability Multicast and Broadcast Services in 5G Release-17.
+Autorzy: Athul Prasad, Baran Elmali, Volker Pauli, Naizheng Zheng, David Bhatoolaul
+Rok: 2024
+
+Tytuł: Shaping a Smarter Electromagnetic Landscape: IAB, NCR, and RIS in 5G Standard and Future 6G.
+Autorzy: Chao-Kai Wen, Lung-Sheng Tsai, Arman Shojaeifard, Pei-Kai Liao, Kai-Kit Wong, Chan-Byoung Chae
+Rok: 2024
+
+Tytuł: A Design of Adaptive Genetic Algorithm-Based Optimized Power Amplifier for 5G Applications.
+Autorzy: Tahesin Samira Delwar, Abrar Siddique, Unal Aras, Jee-Youl Ryu
+Rok: 2024
+
+Tytuł: Beamforming Techniques for MIMO-NOMA for 5G and Beyond 5G: Research Gaps and Future Directions.
+Autorzy: Sadiq ur Rehman, Jawwad Ahmad, Anwaar Manzar, Muhammad Moinuddin
+Rok: 2024
+
+Tytuł: High-Precision Time-of-Arrival Estimation Algorithm for 5G-Advanced with Multipath Channel.
+Autorzy: Yihao Yao, Kun Zhao, Zhenwei Jiang, Zhengqi Zheng, Chaozhen Duan
+Rok: 2024
+
+Tytuł: Impact of 5G Technology on Cybersecurity: A Comprehensive Systematic and Bibliometric Review.
+Autorzy: Javier Gamboa-Cruzado, Luis Cuya-Chuica, Jefferson López-Goycochea, Angel Nuñez Meza, Carlos Del Valle Jurado
+Rok: 2024
+
+Tytuł: An artificial intelligence diabetes management architecture based on 5G.
+Autorzy: Ruochen Huang, Wei Feng, Shan Lu, Tao Shan, Changwei Zhang, Yun Liu
+Rok: 2024
+
+Tytuł: Intelligent cache and buffer optimization for mobile VR adaptive transmission in 5G edge computing networks.
+Autorzy: Junchao Yang, Ali Kashif Bashir, Zhiwei Guo, Keping Yu, Mohsen Guizani
+Rok: 2024
+
+Tytuł: Digital twin driven and intelligence enabled content delivery in end-edge-cloud collaborative 5G networks.
+Autorzy: Bo Yi, Jianhui Lv, Xingwei Wang, Lianbo Ma, Min Huang
+Rok: 2024
+
+Tytuł: Multi-sensory data transmission using 5G and B5G enabled network for healthcare: survey.
+Autorzy: Purva Joshi
+Rok: 2024
+
+Tytuł: A low-complexity crest factor reduction design for 5G NR sub-6 GHz digital front-end with restricted peak regrowth.
+Autorzy: Gaurav Dalwadi, Navaneeth Krishnan, Brijesh Shah, Hardip K. Shah
+Rok: 2024
+
+Tytuł: Traffic prediction for 5G: A deep learning approach based on lightweight hybrid attention networks.
+Autorzy: Jian Su, Huimin Cai, Zhengguo Sheng, A. X. Liu, Abdullah Baz
+Rok: 2024
+
+Tytuł: Nonlinear symbolic regression for bit error rate prediction of NOMA systems in 5G cellular communications.
+Autorzy: Farhad Rahdari, Mohsen Sheikh-Hosseini
+Rok: 2024
+
+Tytuł: Multiband SINC-slotted Patch Antenna for 5G Applications.
+Autorzy: Qusai H. Sultan, Ahmed M. A. Sabaawi
+Rok: 2024
+
+Tytuł: Machine learning-based methods for piecewise digital predistortion in mmW 5G NR systems.
+Autorzy: S. S. Krishna Chaitanya Bulusu, Nuutti Tervo, Praneeth Susarla, Olli Silvén, Mikko J. Sillanpää, Marko E. Leinonen, Markku J. Juntti, Aarno Pärssinen
+Rok: 2024
+
+Tytuł: Ant colony optimization-based solution to optimize load balancing and throughput for 5G and beyond heterogeneous networks.
+Autorzy: Mohammed Jaber Alam, Ritesh Chugh, Salahuddin A. Azad, Md Rahat Hossain
+Rok: 2024
+
+Tytuł: Optimization of gamified Learning Education Model based on XR + 5G technology.
+Autorzy: Fan Yang
+Rok: 2024
+
+Tytuł: Radio Frequency Fingerprint Identification for 5G Mobile Devices Using DCTF and Deep Learning.
+Autorzy: Hua Fu, Hao Dong, Jian Yin, Linning Peng
+Rok: 2024
+
+Tytuł: Millimeter-Wave GaAs Ultra-Wideband Medium Power Amplifier and Broadband High-Power Power Amplifier for 5G/6G Applications.
+Autorzy: Zi-Hao Fu, Ming-Xuan Li, Tzyh-Ghuang Ma, Chan-Shin Wu, Kun-You Lin
+Rok: 2024
+
+Tytuł: Artificial algae optimization for Virtual Network Embedding problems in 5G network slicing scenarios.
+Autorzy: Rayner Gomes, Dario Vieira, Marciel B. Pereira, Miguel F. de Castro
+Rok: 2024
+
+Tytuł: Autonomous handover parameter optimisation for 5G cellular networks using deep deterministic policy gradient.
+Autorzy: Chiew Foong Kwong, Chenhao Shi, Qianyu Liu, Sen Yang, David Chieng, Pushpendu Kar
+Rok: 2024
+
+Tytuł: Architecture selection for 5G-radio access network using type-2 neutrosophic numbers based decision making model.
+Autorzy: Iman Mohamad Sharaf, Abdullah Hussein Alamoodi, Osamah Shihab Albahri, Muhammet Deveci, Mohammed Talal, Ahmed Shihab Albahri, Dursun Delen, Witold Pedrycz
+Rok: 2024
+
+Tytuł: An efficient watermarking scheme for dual color image with high security in 5G environment.
+Autorzy: Qingtang Su, Siyu Chen, Huanying Wang, Hongjiao Cao, Fangxu Hu
+Rok: 2024
+
+Tytuł: An effective model for network selection and resource allocation in 5G heterogeneous network using hybrid heuristic-assisted multi-objective function.
+Autorzy: Shabana Urooj, Arunachalam Rajesh, Mohamad A. Alawad, Kuldeep Narayan Tripathi, Damodaran Sukumaran, Poonguzhali Ilango
+Rok: 2024
+
+Tytuł: An intelligent mechanism for dynamic spectrum sharing in 5G IoT networks.
+Autorzy: Jin Xu, Xu Zhaojun, Yao Wenli, Wenbin Hu, Adnane Cabani, Xinrong Hu
+Rok: 2024
+
+Tytuł: Enhancing 5G massive MIMO systems with EfficientNet-B7-powered deep learning-driven beamforming.
+Autorzy: Ridha Ilyas Bendjillali, Mohammed Sofiane Bendelhoum, Ali Abderrazak Tadjeddine, Miloud Kamline
+Rok: 2024
+
+Tytuł: Hardware software SoC co-design analysis and implementation of MIMO-OFDM for 4G/5G/6G eNodeB applications.
+Autorzy: Sanket N. Dessai, Hemant Patidar
+Rok: 2024
+
+Tytuł: Intelligent blockchain management for distributed knowledge graphs in IoT 5G environments.
+Autorzy: Youcef Djenouri, Gautam Srivastava, Asma Belhadi, Jerry Chun-Wei Lin
+Rok: 2024
+
+Tytuł: Blockchain and artificial intelligence for 5G-enabled Internet of Things: Challenges, opportunities, and solutions.
+Autorzy: Ashutosh Dhar Dwivedi, Rajani Singh, Keshav Kaushik, Raghava Rao Mukkamala, Waleed S. Alnumay
+Rok: 2024
+
+Tytuł: Joint optimization of task scheduling and computing resource allocation for VR video services in 5G-advanced networks.
+Autorzy: Zhenglei Huang, Yupeng Du, Shujie Yang, Han Xiao, Dan Wang, Tao Sun
+Rok: 2024
+
+Tytuł: Intelligent multimedia content delivery in 5G/6G networks: A reinforcement learning approach.
+Autorzy: Muhammad Jamshaid Iqbal, Muhammad Farhan, Farhan Ullah, Gautam Srivastava, Sohail Jabbar
+Rok: 2024
+
+Tytuł: Resource allocation in 5G cloud-RAN using deep reinforcement learning algorithms: A review.
+Autorzy: Mohsen Khani, Shahram Jamali, Mohammad Karim Sohrabi, Mohammad Mohsen Sadr, Ali Ghaffari
+Rok: 2024
+
+Tytuł: PAM: Predictive analytics and modules-based computation offloading framework using greedy heuristics and 5G NR-V2X.
+Autorzy: Muhammad Ilyas Khattak, Hui Yuan, Ayaz Ahmad, Manzoor Ahmed, Ajmal Khan, Inamullah
+Rok: 2024
+
+Tytuł: UcnPowerNet: Residual learning based clustering and interference coordination in 5G user-centric networks.
+Autorzy: Jianghui Liu, Hongtao Zhang
+Rok: 2024
+
+Tytuł: Deep Adaptive Learning-Based Beam Combining Framework for 5G Millimeter-Wave Massive 3D-MIMO Uplink Systems.
+Autorzy: Krishnakumar Mahendran, Haridoss Sudarsan, Srinivasan Rathika, B. Shankarlal
+Rok: 2024
+
+Tytuł: BlockSD-5GNet: Enhancing security of 5G network through blockchain-SDN with ML-based bandwidth prediction.
+Autorzy: Anichur Rahman, Md. Saikat Islam Khan, Antonio Montieri, Md. Jahidul Islam, Md. Razaul Karim, Mahedi Hasan, Dipanjali Kundu, Mostofa Kamal Nasir, Antonio Pescapè
+Rok: 2024
+
+Tytuł: Design and experimental analysis of fractal antennae with ground-defected structure for expected 6G and 5G mm-wave communication and wireless applications.
+Autorzy: Arun Raj, Durbadal Mandal
+Rok: 2024
+
+Tytuł: Design and Analysis of Sierpinski Fractal Antennas for Millimeter-Wave 5G and Ground-Based Radio Navigation Applications.
+Autorzy: Arun Raj, Durbadal Mandal
+Rok: 2024
+
+Tytuł: CSAT-FRMET: An energy-efficient hybrid FiWi network-based 5G model.
+Autorzy: Nitin Kali Raman, Himanshi Saini
+Rok: 2024
+
+Tytuł: A novel statistics for the NWDP: An appropriate fading model for 5G/6G mmWave communications.
+Autorzy: Fershteh Salimian Rizi, Abolfazl Falahati
+Rok: 2024
+
+Tytuł: An IoT-Based 5G Wireless Sensor Network Employs a Secure Routing Methodology Leveraging DCNN Processing.
+Autorzy: Yassine Sabri, Adil Hilmani
+Rok: 2024
+
+Tytuł: Physical layer security-oriented energy-efficient resource allocation and trajectory design for UAV jammer over 5G millimeter wave cognitive relay system.
+Autorzy: Yangyang Sun, Xiangdong Jia, Xianghua Han, Mangang Xie, Liang Zhang
+Rok: 2024
+
+Tytuł: Correction to "Multi-objective metaheuristic optimization-based clustering with network slicing technique for internet of things-enabled wireless sensor networks in 5G systems".
+Autorzy: 
+Rok: 2024
+
+Tytuł: Correction to "PAM: Predictive analytics and modules-based computation offloading framework using greedy heuristics and 5G NR-V2X".
+Autorzy: 
+Rok: 2024
+
+Tytuł: RETRACTION: Multi-objective Metaheuristic Optimization-based Clustering With Network Slicing Technique for Internet of Things-enabled Wireless Sensor Networks in 5G Systems.
+Autorzy: 
+Rok: 2024
+
+Tytuł: A Knapsack-based Metaheuristic for Edge Server Placement in 5G networks with heterogeneous edge capacities.
+Autorzy: Vaibhav Tiwari, Chandrasen Pandey, Abisek Dahal, Diptendu Sinha Roy, Ugo Fiore
+Rok: 2024
+
+Tytuł: Digital twin-assisted flexible slice admission control for 5G core network: A deep reinforcement learning approach.
+Autorzy: Jiadai Wang, Jingyi Li, Jiajia Liu
+Rok: 2024
+
+Tytuł: A Comprehensive Study and Analysis of the Third Generation Partnership Project's 5G New Radio for Vehicle-to-Everything Communication.
+Autorzy: G. G. Md. Nawaz Ali, Mohammad Nazmus Sadat, Md. Suruz Miah, Sameer Ahmed Sharief, Yun Wang
+Rok: 2024
+
+Tytuł: Enhanced Multi-Task Traffic Forecasting in Beyond 5G Networks: Leveraging Transformer Technology and Multi-Source Data Fusion.
+Autorzy: Ibrahim Althamary, Rubbens Boisguene, Chih-Wei Huang
+Rok: 2024
+
+Tytuł: An Improved Routing Protocol for Optimum Quality of Service in Device-to-Device and Energy Efficiency in 5G/B5G.
+Autorzy: Sanusi Mohammad Bunu, Omar Younis Alani, Mohammad Saraee
+Rok: 2024
+
+Tytuł: Industry 4.0 and Beyond: The Role of 5G, WiFi 7, and Time-Sensitive Networking (TSN) in Enabling Smart Manufacturing.
+Autorzy: Jobish John, Md. Noor-A-Rahim, Aswathi Vijayan, H. Vincent Poor, Dirk Pesch
+Rok: 2024
+
+Tytuł: Optimizing Hybrid V2X Communication: An Intelligent Technology Selection Algorithm Using 5G, C-V2X PC5 and DSRC.
+Autorzy: Ihtisham Khalid, Vasilis Maglogiannis, Dries Naudts, Adnan Shahid, Ingrid Moerman
+Rok: 2024
+
+Tytuł: Controllable Queuing System with Elastic Traffic and Signals for Resource Capacity Planning in 5G Network Slicing.
+Autorzy: Irina A. Kochetkova, Kseniia Leonteva, Ibram Ghebrial, Anastasia S. Vlaskina, Sofia Burtseva, Anna Kushchazli, Konstantin E. Samouylov
+Rok: 2024
+
+Tytuł: SRv6-Based Edge Service Continuity in 5G Mobile Networks.
+Autorzy: Laura Lemmi, Carlo Puliafito, Antonio Virdis, Enzo Mingozzi
+Rok: 2024
+
+Tytuł: Intelligent Resource Orchestration for 5G Edge Infrastructures.
+Autorzy: Rafael Moreno-Vozmediano, Rubén S. Montero, Eduardo Huedo, Ignacio Martín Llorente
+Rok: 2024
+
+Tytuł: A Complete EDA and DL Pipeline for Softwarized 5G Network Intrusion Detection.
+Autorzy: Abdallah Moubayed
+Rok: 2024
+
+Tytuł: Dynamic SNR, Spectral Efficiency, and Rate Characterization in 5G/6G mmWave/sub-THz Systems with Macro- and Micro-Mobilities.
+Autorzy: Darya Y. Ostrikova, Elizaveta Golos, Vitalii Beschastnyi, Egor Machnev, Yuliya Gaidamaka, Konstantin E. Samouylov
+Rok: 2024
+
+Tytuł: Edge-Enhanced TempoFuseNet: A Two-Stream Framework for Intelligent Multiclass Video Anomaly Recognition in 5G and IoT Environments.
+Autorzy: Gulshan Saleem, Usama Ijaz Bajwa, Rana Hammad Raza, Fan Zhang
+Rok: 2024
+
+Tytuł: A Systematic Survey on 5G and 6G Security Considerations, Challenges, Trends, and Research Areas.
+Autorzy: Paul Scalise, Matthew Boeding, Michael Hempel, Hamid Sharif, Joseph Delloiacovo, John Reed
+Rok: 2024
+
+Tytuł: A Novel Framework for Cross-Cluster Scaling in Cloud-Native 5G NextGen Core.
+Autorzy: Oana-Mihaela Ungureanu, Calin Vladeanu, Robert E. Kooij
+Rok: 2024
+
+Tytuł: A Method for 5G-ICN Seamless Mobility Support Based on Router Buffered Data.
+Autorzy: Mengchi Xing, Haojiang Deng, Rui Han
+Rok: 2024
+
+Tytuł: Authentication and Key Agreement Protocol in Hybrid Edge-Fog-Cloud Computing Enhanced by 5G Networks.
+Autorzy: Jiayi Zhang, Abdelkader Ouda, Raafat Aburukba
+Rok: 2024
+
+Tytuł: Smart City Transportation: A VANET Edge Computing Model to Minimize Latency and Delay Utilizing 5G Network.
+Autorzy: Mengqi Wang, Jiayuan Mao, Wei Zhao, Xinya Han, Mengya Li, Chuanjun Liao, Haomiao Sun, Kexin Wang
+Rok: 2024
+
+Tytuł: 5G Technology for Innovation Education (Sustainable Development Goals 4): A Systematic Review.
+Autorzy: Joselyn Zapata-Paulini, Michael Cabanillas-Carbonell
+Rok: 2024
+
+Tytuł: Joint Positioning and Synchronization Based on Multi-Epoch Measurements in Imperfectly-Synchronous 5G mmWave Systems.
+Autorzy: Lu Bai, Chao Sun, Wenquan Feng, Andrew G. Dempster, Ying Xu
+Rok: 2024
+
+Tytuł: Traffic-Aware Optimal Multi-Beam Resource Allocation in 5G Networks Impaired by Rain and Foliage.
+Autorzy: Tushar Bose, Nilesh Chatur, Mithun Mukherjee, Sandeep Verma, Aneek Adhya
+Rok: 2024
+
+Tytuł: FLCA: A Flexible Coding Approach Through 5G NR LDPC Codes.
+Autorzy: Ming Jiang, Ying Wang, Yanchen Lyu, Yifan Zhang, Xiaodong Xu, Nan Hu
+Rok: 2024
+
+Tytuł: Direction Estimation of the Attacked Signal in PBCH of 5G NR.
+Autorzy: Mohsen Kazemian, Tasos Dagiuklas, Jürgen Jasperneite
+Rok: 2024
+
+Tytuł: A Doppler-Tolerant Synchronization Method for 5G NR-Based Non-Terrestrial Networks.
+Autorzy: Yeong Jun Kim, Seung Won Ha, Yong Soo Cho
+Rok: 2024
+
+Tytuł: Optimized Non-Surjective FAIDs for 5G LDPC Codes With Learnable Quantization.
+Autorzy: Yanchen Lyu, Ming Jiang, Yifan Zhang, Chunming Zhao, Nan Hu, Xiaodong Xu
+Rok: 2024
+
+Tytuł: Channel and Delay Weighted Response Ratio Scheduler for 5G and Beyond Systems.
+Autorzy: P. R. Priyadarshini, Jyotsna Bapat, Amrita Mishra
+Rok: 2024
+
+Tytuł: Semantic-Aware Resource Allocation Based on Deep Reinforcement Learning for 5G-V2X HetNets.
+Autorzy: Zhiyu Shao, Qiong Wu, Pingyi Fan, Nan Cheng, Qiang Fan, Jiangzhou Wang
+Rok: 2024
+
+Tytuł: Boosting XR Capacity With Multi-Band Multi-Connectivity in 5G Systems.
+Autorzy: Maxim Susloparov, Artem N. Krasilov, Evgeny M. Khorov
+Rok: 2024
+
+Tytuł: Blind Recognition of 5G LDPC Codes Over a Candidate Set.
+Autorzy: Yuan Wang, Shuling Che
+Rok: 2024
+
+Tytuł: SNR Estimation for 5G Satellite-to-Ground Communication in Ultra-Low SNR Environment Based on Channel Frequency Response Reconstruction.
+Autorzy: Yuanfan Zhao, Cheng Ju, Dongdong Wang, Na Liu, Luyang Guan, Peng Xie
+Rok: 2024
+
+Tytuł: An improved method of AODV routing protocol using reinforcement learning for ensuring QoS in 5G-based mobile ad-hoc networks.
+Autorzy: Le Huu Binh, Thuy-Van T. Duong
+Rok: 2024
+
+Tytuł: Cross-link interference in the 5G cell search procedure: Observation and field experiments for mitigation.
+Autorzy: Juyeop Kim, Dawoon Lim, Ilmu Byun, Kyeongjun Ko
+Rok: 2024
+
+Tytuł: Distributed DQN-based network-wide energy efficiency maximization for 5G NR-U and Wi-Fi coexistence environments.
+Autorzy: Junseung Lee, Seung-Chan Lim, Hyungsub Kim, Jeehyeon Na, Howon Lee
+Rok: 2024
+
+Tytuł: Future rescue management: Design specifications for a 5G-enabled emergency response information system.
+Autorzy: Felix Bäßmann, Sarah Kristin Lier, Oliver Werth, Astrid Krage, Michael H. Breitner
+Rok: 2024
+
+Tytuł: Application of 5G network technology in agricultural production and information management.
+Autorzy: Cong Li
+Rok: 2024
+
+Tytuł: Big data algorithm for computer network information security in the 5G era.
+Autorzy: Yaofeng Miao, Yuan Zhou
+Rok: 2024
+
+Tytuł: A game theoretic approach for spectral and energy efficient D2D communication in 5G-IoT networks.
+Autorzy: Krishna Pandey, Saurabh Chandra, Rajeev Arya
+Rok: 2024
+
+Tytuł: Design of network security processing system in 5G/6gNG-DSS of intelligent model computer.
+Autorzy: Bo Wei, Huanying Chen, Zhaoji Huang
+Rok: 2024
+
+Tytuł: AI-Assisted Improved Service Provisioning for Low-Latency XR Over 5G NR.
+Autorzy: Moyukh Laha, Dibbendu Roy, Sourav Dutta, Goutam Das
+Rok: 2024
+
+Tytuł: A neural network-based DPD coefficient determination for PA linearization in 5G and beyond-5G mmWave systems.
+Autorzy: Aravind Tharayil Narayanan, Ludovico Minati, Aran Hagihara, Jun Kobayashi, Toshihiro Shimura, Yoichi Kawano, Parthojit Chakraborty, Jim Bartels, Korkut Kaan Tokgoz, Shiro Dosho, Toshihide Suzuki, Hiroyuki Ito
+Rok: 2024
+
+Tytuł: Adaptive K-Repetition Transmission with Site Diversity Reception for Energy-Efficient Grant-Free URLLC in 5G NR.
+Autorzy: Arif Dataesatu, Kosuke Sanada, Hiroyuki Hatano, Kazuo Mori, Pisit Boonsrimuang
+Rok: 2024
+
+Tytuł: Information-Centric Function Chaining for ICN-Based In-Network Computing in the Beyond 5G/6G Era.
+Autorzy: Yusaku Hayamizu, Masahiro Jibiki, Miki Yamamoto
+Rok: 2024
+
+Tytuł: Performance Evaluation and Demonstration of Real-Time Vehicle Control Information Exchange Using 5G New Radio Sidelink for Automated Follower Truck Platooning.
+Autorzy: Manabu Mikami, Hitoshi Yoshino
+Rok: 2024
+
+Tytuł: Transmission Performance Evaluation of Local 5G Downlink Data Channel in SU-MIMO System under Outdoor Environments.
+Autorzy: Hiroki Urasawa, Hayato Soya, Kazuhiro Yamaguchi, Hideaki Matsue
+Rok: 2024
+
+Tytuł: Millimeter-Wave Transceiver Utilizing On-Chip Butler Matrix for Simultaneous 5G Relay Communication and Wireless Power Transfer.
+Autorzy: Keito Yuasa, Michihiro Ide, Sena Kato, Kenichi Okada, Atsushi Shirane
+Rok: 2024
+
+Tytuł: Improved 5G network slicing for enhanced QoS against attack in SDN environment using deep learning.
+Autorzy: Mohammed Salah Abood, Hua Wang, Bal S. Virdee, Dongxuan He, Maha Fathy, Abdulganiyu Abdu Yusuf, Omar Jamal, Taha A. Elwi, Mohammad Alibakhshikenari, Lida Kouhalvandi, Ashfaq Ahmad
+Rok: 2024
+
+Tytuł: Energy efficiency optimisation in massive multiple-input, multiple-output network for 5G applications using new quantum genetic algorithm.
+Autorzy: Abdulbasit M. A. Sabaawi, Mohammed R. Almasaoodi, Sara El Gaily, Sándor Imre
+Rok: 2024
+
+Tytuł: A distributed network data security and confidentiality system based on 5G networking.
+Autorzy: Han Ge, Shumin Ren, Jian Xie
+Rok: 2024
+
+Tytuł: Retraction Note: Unmanned Vehicle Fusion Positioning Technology Based on "5G + Beidou" and 3D Point Cloud Image.
+Autorzy: 
+Rok: 2024
+
+Tytuł: End-to-End Data Flows Management in the Decentralized 5G/6G Mobile Networks.
+Autorzy: Stepan Dumych, Olena Krasko, Volodymyr Andrushchak, Mykola Brych, Yaroslav Pyrih, Alina Hnatchuk, Taras Maksymyuk
+Rok: 2024
+
+Tytuł: Four-element equilateral triangular-shaped MIMO antenna with connected ground for 5G sub:6 GHz N79 and WiFi-6E band applications.
+Autorzy: Tathababu Addepalli, V. Siva Nagaraju, Sivasubramanyam Medasani, Jetti Chandrasekhar Rao, Prasanthi Badugu, Ch. Manohar Kumar, Rajyalakshmi Uppada, Bandi Kiran Kumar
+Rok: 2024
+
+Tytuł: Energy analysis using semi-Markov modeling for the base station in 5G networks.
+Autorzy: Anisha Aggarwal, Selvamuthu Dharmaraja
+Rok: 2024
+
+Tytuł: 26-GHz Testbed performance evaluation using system EVM characterization for 5G communication.
+Autorzy: Mamadou Bagayogo, Soumaya Hamouda, Rim Barrak
+Rok: 2024
+
+Tytuł: Error analysis of OFDM-IM systems for beyond 5G: The effect of IQI at transceiver.
+Autorzy: Busra Ceniklioglu, Ibrahim Develi, Ayse Elif Canbilen
+Rok: 2024
+
+Tytuł: Analysis and emulation of proposed testbed for OFDMA 4G and 5G cellular networks.
+Autorzy: Sneha Chennamsetty, Subba Rao Boddu
+Rok: 2024
+
+Tytuł: Machine learning assisted dual port metasurface loaded MIMO antenna with linearly polarized to circularly polarized conversion features for n257 band of 5G mm-wave applications.
+Autorzy: Ajay Kumar Dwivedi, Suyash Kumar Singh, Pinku Ranjan, Anand Sharma, Vivek Singh
+Rok: 2024
+
+Tytuł: Dynamic and efficient resource allocation for 5G end-to-end network slicing: A multi-agent deep reinforcement learning approach.
+Autorzy: Muhammad Asim Ejaz, Guowei Wu, Tahir Iqbal
+Rok: 2024
+
+Tytuł: Compact planar 28/60-GHz wideband MIMO antenna for 5G-enabled IoT devices.
+Autorzy: Umar Farooq, Anjaneyulu Lokam, Sandhya Mallavarapu
+Rok: 2024
+
+Tytuł: Efficient machine learning-based hybrid resource allocation for device-to-device underlay communication in 5G wireless networks.
+Autorzy: Malle Gopal, T. Velmurugan
+Rok: 2024
+
+Tytuł: Enhancing energy-efficient sleep scheduling for Narrowband Internet of Things devices in coordinated 5G networks within smart environments.
+Autorzy: L. K. Hema, Regilan Soosai Raj, Jenitha J.
+Rok: 2024
+
+Tytuł: Slice admission control in 5G cloud radio access network using deep reinforcement learning: A survey.
+Autorzy: Mohsen Khani, Shahram Jamali, Mohammad Karim Sohrabi, Mohammad Mohsen Sadr, Ali Ghaffari
+Rok: 2024
+
+Tytuł: A comparative design of 5G communication codes.
+Autorzy: V. Anand Kumar, V. Nandalal
+Rok: 2024
+
+Tytuł: Wheel-based 5G fronthaul/backhaul hybrid MDM-NGPON/FSO system under Gamma-Gamma turbulence and weather effects.
+Autorzy: Meet Kumari, Vivek Arya
+Rok: 2024
+
+Tytuł: Metamaterial-inspired miniaturized and broadband U-slotted patch antenna for the 5G communications covering the full N78 band.
+Autorzy: Hao Lu, Bei Zhang, Xiaofei Xu
+Rok: 2024
+
+Tytuł: Distortion-less video wireless transmission in 5G new radio using delay-distortion-rate optimization (DDRO).
+Autorzy: K. Maheswari, Padmaja Nimmagadda
+Rok: 2024
+
+Tytuł: Design and analysis of a small size triple band printed antenna for 3G/4G/5G/future 5.8G IoT applications.
+Autorzy: Tapan Mandal, Pratik Mondal
+Rok: 2024
+
+Tytuł: A compact quad element human face-shaped wideband MIMO antenna for 5G applications.
+Autorzy: Raj Kumar Mistri, Santosh Kumar Mahto, Rashmi Sinha
+Rok: 2024
+
+Tytuł: Comparison of 5G-IoT antenna performance by using four distinct dielectric materials to verify their efficiencies.
+Autorzy: Kaushal Mukherjee, Sahadev Roy
+Rok: 2024
+
+Tytuł: Cavity-backed substrate integrated waveguide MIMO element with enhanced isolation for 5G communication.
+Autorzy: Cholavendan Munusami, Rajeshkumar Venkatesan
+Rok: 2024
+
+Tytuł: A novel arc-shaped four-port wideband (21.8-29.1 GHz) MIMO antenna with improved characteristics for 5G NR networks.
+Autorzy: Nour Elhouda Nasri, Mohammed El Ghzaoui, Sudipta Das, Tanvir Islam, Wael A. E. Ali, Mohammed Fattah
+Rok: 2024
+
+Tytuł: Enhanced voice over 5G transmission with unequal error protection and generative adversarial networks.
+Autorzy: Prateema Ragpot, Tulsi Pawan Fowdur, Krishnaraj Madhavjee Sunjiv Soyjaudah
+Rok: 2024
+
+Tytuł: Design and Optimization of Dual Port Dielectric Resonator Based Frequency Tunable MIMO Antenna with Machine Learning Approach for 5G New Radio Application.
+Autorzy: Jayant Kumar Rai, Pinku Ranjan, Rakesh Chowdhury, Mohd Haizal Jamaluddin
+Rok: 2024
+
+Tytuł: Machine learning-enabled two-port wideband MIMO hybrid rectangular dielectric resonator antenna for n261 5G NR millimeter wave.
+Autorzy: Jayant Kumar Rai, Pinku Ranjan, Santosh Kumar, Rakesh Chowdhury, Somesh Kumar, Anand Sharma
+Rok: 2024
+
+Tytuł: Design of proximity-coupled antenna array for 5G communication.
+Autorzy: Sreejith Ayathil Reghunathan, Asaletha Raghavan, Anilkumar Kakkattil Krishnan
+Rok: 2024
+
+Tytuł: Environment-aware intelligent numerology control approach for 5G and beyond systems.
+Autorzy: Halenur Sazak, Ahmet Yazar
+Rok: 2024
+
+Tytuł: Optimization of resource allocation in 5G networks: A network slicing approach with hybrid NOMA for enhanced uRLLC and eMBB coexistence.
+Autorzy: Rebba Chandra Sekhar, Poonam Singh
+Rok: 2024
+
+Tytuł: Transit Archimedes optimization algorithm enabled deep learning for power and resource allocation NOMA technique for 5G cellular systems.
+Autorzy: Prasheel Thakre, Sanjay Pokle
+Rok: 2024
+
+Tytuł: A dual-band polarization switchable antenna switch module for 5G new-radio applications.
+Autorzy: Chien-Ming Tsao, Heng-Tung Hsu
+Rok: 2024
+
+Tytuł: Research on English Classroom Teaching Programs in Colleges and Universities Based on Wireless Communication Technology Support in the Context of 5G.
+Autorzy: Min Zhang
+Rok: 2024
+
+Tytuł: Analysis of the Application Potential of English Translation Strategy Based on Wireless Widget Technology in 5G Technology Reports.
+Autorzy: Xinping Zhang
+Rok: 2024
+
+Tytuł: IoT-Enabled Smart Greenhouse for Robotic Enhancement of Tomato Production: Leveraging 5G and Edge Computing for Advanced Data-Driven Automation, Precision Irrigation, and Scalable Zoning Principles.
+Autorzy: Anass Ariss, Imane Ennejjai, Asmaa Lamjid, Jamal Mabrouki, Nassim Kharmoum, Soumia Ziti
+Rok: 2024
+
+Tytuł: Securing 5G virtual networks: a critical analysis of SDN, NFV, and network slicing security.
+Autorzy: Abdulrahman K. Alnaim
+Rok: 2024
+
+Tytuł: PPAM-mIoMT: a privacy-preserving authentication with device verification for securing healthcare systems in 5G networks.
+Autorzy: Patruni Muralidhara Rao, Abdul Gaffar Humayun
+Rok: 2024
+
+Tytuł: Publisher Correction: PPAM-mIoMT: a privacy-preserving authentication with device verification for securing healthcare systems in 5G networks.
+Autorzy: Patruni Muralidhara Rao, Abdul Gaffar Humayun
+Rok: 2024
+
+Tytuł: IoT cybersecurity in 5G and beyond: a systematic literature review.
+Autorzy: Sandeep Pirbhulal, Sabarathinam Chockalingam, Ankur Shukla, Habtamu Abie
+Rok: 2024
+
+Tytuł: Research on 5G User Perception Detection and Experience Improvement Optimization Based on Capsule Network.
+Autorzy: JianTong Yu, Li Li
+Rok: 2024
+
+Tytuł: Optimal power and resource allocation for 5G oriented system using a hybridised whale and hosted cuckoo optimisation algorithm.
+Autorzy: Deepa Palani, Merline Arulraj
+Rok: 2024
+
+Tytuł: Online Multi-Resource Allocation for Network Slicing in 5G with Distributed Algorithms.
+Autorzy: Xuebin Tang
+Rok: 2024
+
+Tytuł: An intelligent load balancing algorithm for 5G-satellite networks.
+Autorzy: Mobolanle Bello, Prashant Pillai, Ali Safaa Sadiq
+Rok: 2024
+
+Tytuł: QoS-based handover approach for 5G mobile communication system.
+Autorzy: Amina Gharsallah, Nouri Omheni, Faouzi Zarai, Mahmoud Neji
+Rok: 2024
+
+Tytuł: An Empirical Study on Enhancing Tourism Service Quality in 5G Multimedia Environments with Deep Learning.
+Autorzy: Xu Yan, Lan Yao, Dan Zhou
+Rok: 2024
+
+Tytuł: A Flexible Infrastructure-Sharing 5G Network Architecture Based on Network Slicing and Roaming.
+Autorzy: João P. Ferreira, Vinicius C. Ferreira, Sérgio L. Nogueira, João M. Faria, José A. Afonso
+Rok: 2024
+
+Tytuł: A Techno-Economic Analysis of New Market Models for 5G+ Spectrum Management.
+Autorzy: Luis Alejandro Fletscher, Alejandra Zuleta, Alexander Galvis, David Quintero, Juan Felipe Botero, Natalia Gaviria
+Rok: 2024
+
+Tytuł: Mitigating information asymmetry in 5G networks.
+Autorzy: Hermann Bergmann Garcia e Silva, Rúben Manuel Nunes Santos, Manuel Ricardo
+Rok: 2024
+
+Tytuł: FCA-VBN: Fog computing-based authentication scheme for 5G-assisted vehicular blockchain network.
+Autorzy: Abdulwahab Ali Almazroi, Mohammed A. Alqarni, Mahmood A. Al-Shareeda, Monagi H. Alkinani, Alaa Atallah Almazroey, Tarek Gaber
+Rok: 2024
+
+Tytuł: Lightweight, geo-scalable deterministic blockchain design for 5G networks sliced applications with hierarchical CFT/BFT consensus groups, IPFS and novel hardware design.
+Autorzy: Eranga Bandara, Xueping Liang, Peter Foytik, Sachin Shetty, Ravi Mukkamala, Abdul Rahman, Nalin Ranasinghe, Kasun De Zoysa, Wee Keong Ng
+Rok: 2024
+
+Tytuł: 5G enabled smart cities: A real-world evaluation and analysis of 5G using a pilot smart city application.
+Autorzy: Abhik Banerjee, Breno G. S. Costa, Abdur Rahim Mohammad Forkan, Yong-Bin Kang, Felip Martí Carrillo, Chris McCarthy, Hadi Ghaderi, Dimitrios Georgakopoulos, Prem Prakash Jayaraman
+Rok: 2024
+
+Tytuł: Delay-sensitive resource allocation for IoT systems in 5G O-RAN networks.
+Autorzy: Ramin Firouzi, Rahim Rahmani
+Rok: 2024
+
+Tytuł: Dynamic AI-IoT: Enabling Updatable AI Models in Ultralow-Power 5G IoT Devices.
+Autorzy: Mohammad Alselek, José M. Alcaraz-Calero, Qi Wang
+Rok: 2024
+
+Tytuł: 5G Ultradense Cellular-Network-Based Edge Demand Response: Energy Consumption Reduction.
+Autorzy: Qinghang Gao, Jianmao Xiao, Hao Wang, Yuanlong Cao, Shuiguang Deng, Zhiyong Feng
+Rok: 2024
+
+Tytuł: Interference-Aware and Coverage Analysis Scheme for 5G NB-IoT D2D Relaying Strategy for Cell Edge QoS Improvement.
+Autorzy: Safiu Abiodun Gbadamosi, Gerhard P. Hancke, Adnan M. Abu-Mahfouz
+Rok: 2024
+
+Tytuł: Impact of Communication Time Delay in a 5G Network on Frequency Regulation Performance of a High Renewable Energy Penetrated Power System.
+Autorzy: Hongjie He, Xiao Cai, Yibo Su, Xianfeng Zhang, Ning Zhang, Song Ci, Yanglin Zhou, Chongqing Kang
+Rok: 2024
+
+Tytuł: 2D-SVRF: A Terabit-Scale Multicast Packet Switching Control Plane for 5G/6G Core Networks.
+Autorzy: Wen-Kang Jia, Yaw-Chung Chen, Xiaoning Shi
+Rok: 2024
+
+Tytuł: SITRAN: Self-Supervised IDS With Transferable Techniques for 5G Industrial Environments.
+Autorzy: Hyunjin Kim, Jonghoon Lee, Jong-Geun Park
+Rok: 2024
+
+Tytuł: The Generalization of Stage-Reduced STPS for Low-Loss Unequal 1 × 4 Phased Array Architecture for 5G IoT Applications.
+Autorzy: Ahnwoo Lee, Sunghyuk Kim, Dong Min Lee, Jung-Hyun Kim, Tae Hwan Jang
+Rok: 2024
+
+Tytuł: Dual-Reinforcement-Learning-Based Attack Path Prediction for 5G Industrial Cyber-Physical Systems.
+Autorzy: Xinge Li, Xiaoya Hu, Tao Jiang
+Rok: 2024
+
+Tytuł: Aequitas: A 5G Scheduler for Minimizing Outdated Information in IoT Networks.
+Autorzy: Chengzhang Li, Qingyu Liu, Y. Thomas Hou, Wenjing Lou, Sastry Kompella
+Rok: 2024
+
+Tytuł: Pistis: A Scheduler to Achieve Ultra Reliability for URLLC Traffic in 5G O-RAN.
+Autorzy: Qingyu Liu, Chengzhang Li, Shaoran Li, Yi Shi, Boyang Zhou, Y. Thomas Hou, Wenjing Lou
+Rok: 2024
+
+Tytuł: Timeliness of Information in 5G Nonterrestrial Networks: A Survey.
+Autorzy: Quynh Tu Ngo, Zhifeng Tang, Beeshanga Abewardana Jayawickrama, Ying He, Eryk Dutkiewicz, Bathiya Senanayake
+Rok: 2024
+
+Tytuł: IoT-FKGDL-SL: Anomaly Detection Framework Integrating Knowledge Distillation and a Swarm Learning for 5G IoT.
+Autorzy: Lun Tang, Enqiao Kou, Weijia Zhang, Qianlin Wu, Qianbin Chen
+Rok: 2024
+
+Tytuł: Latency and Reliability Analysis of a 5G-Enabled Internet of Musical Things System.
+Autorzy: Luca Turchet, Paolo Casari
+Rok: 2024
+
+Tytuł: On the Impact of 5G Slicing on an Internet of Musical Things System.
+Autorzy: Luca Turchet, Paolo Casari
+Rok: 2024
+
+Tytuł: Low-Latency Scheduling Approach for Dependent Tasks in MEC-Enabled 5G Vehicular Networks.
+Autorzy: Zhiying Wang, Gang Sun, Hanyue Su, Hongfang Yu, Bo Lei, Mohsen Guizani
+Rok: 2024
+
+Tytuł: A BDS/5G Combined Positioning Method Based on Adaptive Optimal Selection-Robust Hybrid Adaptive Kalman Filter Algorithm.
+Autorzy: Bo Wang, Bao Song, Ti Wang, Zhi-Hong Deng, Mengyin Fu
+Rok: 2024
+
+Tytuł: USRP-Based Multifrequency Multiscenario Channel Measurements and Modeling for 5G Campus Internet of Things.
+Autorzy: Yiwen Wang, Weimin Wang, Yongle Wu, Jingxuan Liu, Qinjuan Zhang, Jingchao Wang, Wei Fan
+Rok: 2024
+
+Tytuł: Millimeter-Wave and Sub-6-GHz Aperture-Shared Antenna and Array for Mobile Terminals Accessing 5G/6G-Enabled IoT Scenarios.
+Autorzy: Xiaoyue Xia, Fan Wu, Chao Yu, Zhihao Jiang, Jun Xu, Si-Yuan Tang, Zuojun Wang, Yu Yao, Wei Hong
+Rok: 2024
+
+Tytuł: Millimeter-Wave Beam-Tilted Phased Array Antenna for 5G-Enabled IoT Devices.
+Autorzy: Xiaoyue Xia, Chao Yu, Fan Wu, Zhihao Jiang, Sidou Zheng, Si-Yuan Tang, Yu Yao, Wei Hong
+Rok: 2024
+
+Tytuł: Security Analysis on a Three-Factor Authentication Scheme of 5G Wireless Sensor Networks for IoT System.
+Autorzy: Qingyun Xie, Qi Xie
+Rok: 2024
+
+Tytuł: Wideband Quasi-Spherical Lens Antenna Module With 2-D Switched Beams for 5G Millimeter-Wave IoT Applications.
+Autorzy: Xujun Yang, Yuan Ji, Jun Hu, Lei Ge, Yujian Li, Kwai-Man Luk
+Rok: 2024
+
+Tytuł: Practical and Secure Password Authentication and Key-Agreement-Scheme-Based Dual Server for IoT Devices in 5G Network.
+Autorzy: Songsong Zhang, Yining Liu, Tiegang Gao, Yong Xie, Chuan Zhou
+Rok: 2024
+
+Tytuł: Latency Analysis and Evaluation of C-V2X Communications Using the 5G Uu Interface.
+Autorzy: Ju Zhang, Jiahui Qiu, Xiaobo Lin, Chao Cai, Yuchen Cai, Liu Liu
+Rok: 2024
+
+Tytuł: Predicting Channel Delay State Information in 5G-TSN Systems Using Extreme Learning Machine Autoencoder (ELM-AE) Model Based on Intelligent Deep Extreme Learning Machine (DELM).
+Autorzy: Chaoyi Zhang, Jianquan Wang, Meixia Fu
+Rok: 2024
+
+Tytuł: Asynchronous Time-of-Arrival-Based 5G Localization: Methods and Optimal Geometry Analysis.
+Autorzy: Yuan Zhang, Rui Wang, Erwu Liu, Bofeng Li, Haibo Ge
+Rok: 2024
+
+Tytuł: IMPos: Indoor Mobile Positioning With 5G Multibeam Signals From a Single Base Station.
+Autorzy: Xin Zhou, Liang Chen, Yanlin Ruan, Tao Zhou, Ruizhi Chen
+Rok: 2024
+
+Tytuł: Narrowbeam Channel Measurements and Characterization in Vehicle-to-Infrastructure Scenarios for 5G-V2X Communications.
+Autorzy: Tao Zhou, Chaoyi Li, Wenliang Zhang, Bo Ai, Liu Liu, Yiqun Liang
+Rok: 2024
+
+Tytuł: Lightweight privacy-preserving authentication mechanism in 5G-enabled industrial cyber physical systems.
+Autorzy: Xinyin Xiang, Jin Cao, Weiguo Fan
+Rok: 2024
+
+Tytuł: An Overview of Security Attacks in 5G Enabled Technologies: Applications and Use Case Scenarios.
+Autorzy: Shadab Kalhoro, Farhan Bashir Shaikh, Anam Kalhoro, Junaid Ur Rehman Abbasi, Ramesh Kumar Ayyasamy
+Rok: 2024
+
+Tytuł: Fog computing-based beam allocation and co-operative task distribution model for green 5G mobile network.
+Autorzy: Priti Deb, Debashis De
+Rok: 2024
+
+Tytuł: Realization of 5G V2V communication system at 28 GHz for smart vehicle.
+Autorzy: Jayanta Kumar Ray, Ardhendu Shekhar Biswas, Sanjib Sil, Rabindranath Bera, Subhankar Shome, Pallabi Biswas, Monojit Mitra
+Rok: 2024
+
+Tytuł: Edge Computing Model based on Federated Learning for COVID-19 Clinical Outcome Prediction in the 5G Era.
+Autorzy: Ruochen Huang, Zhiyuan Wei, Wei Feng, Yong Li, Changwei Zhang, Chen Qiu, Mingkai Chen
+Rok: 2024
+
+Tytuł: A Scalable Federated Modular Neural Network Architecture for Edge-Enabled Beyond-5G Complex Systems.
+Autorzy: Amina Djoudi, Younes Guellouma, Hadda Cherroun, Bouziane Brik
+Rok: 2024
+
+Tytuł: Beyond 5G Satellite Transmission and Indoor UAVs in Dams Monitoring: An Opportunistic Data Collection Strategy for Isolated Rural Areas.
+Autorzy: Manuel Jesús-Azabal, José García-Alonso, Jaime Galán-Jiménez
+Rok: 2024
+
+Tytuł: PAPR Analysis of 5G and B5G Waveforms Using Advanced PAPR Algorithms.
+Autorzy: Arun Kumar, Himanshu Sharma, Nishant Gaur, Nidhi Gour
+Rok: 2024
+
+Tytuł: Design and Simulation of a High Performance 5G mm-Wave MIMO Antenna Array for Mobile Applications.
+Autorzy: Hrittik Raj Barua, Imtiaz Akber Chowdhury
+Rok: 2024
+
+Tytuł: Wheel architecture based ITU-T G.9804.x standard 50G-NGPON2 incorporating 2D-MFRS OCDMA code for beyond 5G networks.
+Autorzy: Meet Kumari
+Rok: 2024
+
+Tytuł: IoT and 5G Networks: A Discussion of SDN, NFV and Information Security.
+Autorzy: Roger William Coêlho, Ronan Assumpção Silva, Luciana Andréia Fondazzi Martimiano, Elvio Joao Leonardo
+Rok: 2024
+
+Tytuł: Deep learning based enhanced secure emergency video streaming approach by leveraging blockchain technology for Vehicular AdHoc 5G Networks.
+Autorzy: Muhammad Awais, Yousaf Saeed, Abid Ali, Sohail Jabbar, Awais Ahmad, Yazeed Alkhrijah, Umar Raza, Yasir Saleem
+Rok: 2024
+
+Tytuł: Enhancing patient healthcare with mobile edge computing and 5G: challenges and solutions for secure online health tools.
+Autorzy: Yazeed Yasin Ghadi, Syed Faisal Abbas Shah, Tehseen Mazhar, Tariq Shahzad, Khmaies Ouahada, Habib Hamam
+Rok: 2024
+
+Tytuł: Deep Reinforcement Learning techniques for dynamic task offloading in the 5G edge-cloud continuum.
+Autorzy: Gorka Nieto, Idoia de la Iglesia, Unai Lopez-Novoa, Cristina Perfecto
+Rok: 2024
+
+Tytuł: A hybrid evolutionary JAYA algorithm based on global optimization for 5G e-commerce logistics.
+Autorzy: Hui Liu, Xiaohui Zhong
+Rok: 2024
+
+Tytuł: NetLabeller: Architecture with data extraction and labelling framework for beyond 5G networks.
+Autorzy: Jimena Andrade-Hoz, José M. Alcaraz-Calero, Qi Wang
+Rok: 2024
+
+Tytuł: Towards 5G-advanced NR-unlicensed systems: Physical layer design and performance.
+Autorzy: Julius Ssimbwa, Seok-Hyun Yoon, Yeongrok Lee, Young-Chai Ko
+Rok: 2024
+
+Tytuł: Resource Allocation in D2D-Enabled 5G Networks Using Multiagent Reinforcement Learning.
+Autorzy: Kwame Opuni-Boachie Obour Agyekum, Alex Yaw Boakye, Benedict Appati, Jochebed Akoto Opoku, Justice Owusu Agyemang, Gordon Owusu Boateng, James Dzisi Gadze
+Rok: 2024
+
+Tytuł: Resource Allocation in D2D-Enabled 5G Networks Using Multiagent Reinforcement Learning.
+Autorzy: Kwame Opuni-Boachie Obour Agyekum, Alex Yaw Boakye, Benedict Appati, Jochebed Akoto Opoku, Justice Owusu Agyemang, Gordon Owusu Boateng, James Dzisi Gadze
+Rok: 2024
+
+Tytuł: Retraction Note: Sector-like optimization model of 5G base transceiver stations redeployment and the generalization.
+Autorzy: 
+Rok: 2024
+
+Tytuł: A Quad-Port Design of a Bow-Tie Shaped Slot Loaded Wideband (24.2-30.8GHz) MIMO Antenna Array for 26/28GHz mm-Wave 5G NR n257/n258/n260 Band Applications.
+Autorzy: Yousra Ghazaoui, Mohammed El Ghzaoui, Sudipta Das, Boddapati Taraka Phani Madhav, Tanvir Islam, Bri Seddik
+Rok: 2024
+
+Tytuł: Balancing Data Privacy and 5G VNFs Security Monitoring: Federated Learning with CNN + BiLSTM + LSTM Model.
+Autorzy: Abdoul-Aziz Maiga, Edwin Ataro, Stanley Githinji
+Rok: 2024
+
+Tytuł: Optimising robotic operation speed with edge computing via 5G network: Insights from selective harvesting robots.
+Autorzy: Usman A. Zahidi, Arshad Khan, Tsvetan Zhivkov, Johann Dichtl, Dom Li, Soran Parsa, Marc Hanheide, Grzegorz Cielniak, Elizabeth I. Sklar, Simon Pearson, Amir M. Ghalamzan E.
+Rok: 2024
+
+Tytuł: Cross-layer Authentication Mechanism Model Combined with 5G Converged Channel Fingerprint.
+Autorzy: Wei Ao, Jian Wei, Yindong Li, Xiaolong Zhang, Bin Yu, Kaiwen Hou
+Rok: 2024
+
+Tytuł: Research on Distributed Access Simulation of Large-Scale Multi-Source Terminals for 5G.
+Autorzy: Lihong Ge, Pengyu Zhang, Kaiwen Hou, Wei Ao, Lin Zhou, Yindong Li
+Rok: 2024
+
+Tytuł: Setting Standards for Personal Health Data in the Age of 5G and 6G Networks.
+Autorzy: Ana Koren, Ramjee Prasad
+Rok: 2024
+
+Tytuł: Research on Remote eSIM Provisioning Management Technology for 5G Terminal.
+Autorzy: Jun Lu, Guowei Huang, Wenke Kuai, Yiliang Xu
+Rok: 2024
+
+Tytuł: Study on the application of the intelligence teaching ecology based on the 5G blended campus network technology.
+Autorzy: Guili Zhang, Pengxi Li, Hanyue Zhang, Yinglong Yu, Zhao Liang
+Rok: 2024
+
+Tytuł: Integrating 5G and machine learning technologies for advanced PDM in smart farming.
+Autorzy: Weidong Zhang, Huadi Tan
+Rok: 2024
+
+Tytuł: Anticipatory analysis of AGV trajectory in a 5G network using machine learning.
+Autorzy: Alberto Mozo, Stanislav Vakaruk, Jesús Enrique Sierra-García, Antonio Pastor
+Rok: 2024
+
+Tytuł: A Study on the Analysis of Security Requirements through Literature Review of Threat Factors of 5G Mobile Communication.
+Autorzy: DongGyun Chu, Jinho Yoo
+Rok: 2024
+
+Tytuł: Communication-Aware Control of Large Data Transmissions via Centralized Cognition and 5G Networks for Multi-Robot Map merging.
+Autorzy: Gerasimos Damigos, Nikolaos Stathoulopoulos, Anton Koval, Tore Lindgren, George Nikolakopoulos
+Rok: 2024
+
+Tytuł: Graph-Based vs. Error State Kalman Filter-Based Fusion of 5G and Inertial Data for MAV Indoor Pose Estimation.
+Autorzy: Meisam Kabiri, Claudio Cimarelli, Hriday Bavle, José Luis Sánchez-López, Holger Voos
+Rok: 2024
+
+Tytuł: Enhanced Traffic Light Guidance for Safe and Energy-Efficient Driving: A Study on Multiple Traffic Light Advisor (MTLA) and 5G Integration.
+Autorzy: Michael Khayyat, Alberto Gabriele, Francesca Mancini, Stefano Arrigoni, Francesco Braghin
+Rok: 2024
+
+Tytuł: Virtualized 5G Tesbed using OpenAirInterface: Tutorial and Benchmarking Tests.
+Autorzy: Matheus Dória, Vicente Sousa, Antonio Campos, Nelson Oliveira, Paulo Eduardo, Paulo Filho, Carlos Lima, João Guilherme, Daniel Luna, Iago D. Rego, Marcelo Fernandes, Augusto Neto
+Rok: 2024
+
+Tytuł: Fine Tuning of the BitCover Algorithm for Interactive VoD Streaming over 5G Cellular Networks.
+Autorzy: Carlo Kleber da Silva Rodrigues, Vladimir Rocha
+Rok: 2024
+
+Tytuł: Multi-objective optimization in order to allocate computing and telecommunication resources based on non-orthogonal access, participation of cloud server and edge server in 5G networks.
+Autorzy: Liying Zhao, Chao Liu, Entie Qi, Sinan Shi
+Rok: 2024
+
+Tytuł: Circular and Sustainable Multi Business Model Innovation and Development: How can Advanced Sensors, 5G, 6G and Beyond Technologies Support the Process and Progress?
+Autorzy: Peter Lindgren
+Rok: 2024
+
+Tytuł: Dynamic Spectrum Management and Spectrum Sharing Techniques in 5G Networks: A Survey.
+Autorzy: Sonali Mondal, Manash Pratim Dutta, Swarnendu Kumar Chakraborty
+Rok: 2024
+
+Tytuł: 5G/6G-enabled metaverse technologies: Taxonomy, applications, and open security challenges with future research directions.
+Autorzy: Muhammad Adil, Houbing Song, Muhammad Khurram Khan, Ahmed Farouk, Zhanpeng Jin
+Rok: 2024
+
+Tytuł: An AKA protocol for 5G-assisted D2D communication in Out-of-Coverage scenario.
+Autorzy: Ponjit Borgohain, Hiten Choudhury
+Rok: 2024
+
+Tytuł: A hybrid analytical concept to QoE index evaluation: Enhancing eMBB service detection in 5G SA networks.
+Autorzy: Jean Nestor M. Dahj, Kingsley A. Ogudo, Leandro Boonzaaier
+Rok: 2024
+
+Tytuł: Optimal deployment of private 5G multi-access edge computing systems at smart factories: Using hybrid crow search algorithm.
+Autorzy: Chun-Cheng Lin, Der-Jiunn Deng, Li-Tsung Hsieh, Pei-Tzu Pan
+Rok: 2024
+
+Tytuł: Enabling containerized Central Unit live migration in 5G radio access network: An experimental study.
+Autorzy: Shunmugapriya Ramanathan, Abhishek Bhattacharyya, Koteswararao Kondepu, Andrea Fumagalli
+Rok: 2024
+
+Tytuł: Optimal and Efficient Sensor Design for 5G-Based Internet-of-Body Healthcare Monitoring Network.
+Autorzy: Abdelaziz Hamdi, Amina Nahali, Rafik Brahem
+Rok: 2024
+
+Tytuł: Cluster-Based Hybrid Approach for PCI Configuration and Optimization in 5G EN-DC Heterogeneous Networks.
+Autorzy: Pengzhao Li, Heng Yang, Iksang Kim, Zhenyu Liu, Shanshan Li
+Rok: 2024
+
+Tytuł: Economic Alternatives for the Provision of URLLC and eMBB Services Over a 5G Network.
+Autorzy: Edison Moreno-Cardenas, Erwin J. Sacoto-Cabrera, Luis Guijarro
+Rok: 2024
+
+Tytuł: Dynamic Microservice Provisioning in 5G Networks Using Edge-Cloud Continuum.
+Autorzy: Priyal Thakkar, Ashish Singh Patel, Gaurav Shukla, Arzad Alam Kherani, Brejesh Lall
+Rok: 2024
+
+Tytuł: Power over fiber in radio access networks: 5G and beyond.
+Autorzy: Carmen Vázquez, Rubén Altuna, Juan D. López-Cardona
+Rok: 2024
+
+Tytuł: Security Vulnerabilities in 5G Non-Stand-Alone Networks: A Systematic Analysis and Attack Taxonomy.
+Autorzy: Mohamad Saalim Wani, Michael Rademacher, Thorsten Horstmann, Mathias Kretschmer
+Rok: 2024
+
+Tytuł: Low Delay Transmission Scheme of Power Communication Information Based on 5G Network.
+Autorzy: Dongjuan Ma, Feng Jing, Zehui Liu, Min Guo, Weizhe Jing, Jie Liang
+Rok: 2024
+
+Tytuł: Enhancing 5G communication in business networks with an innovative secured narrowband IoT framework.
+Autorzy: Hiba A. Tarish
+Rok: 2024
+
+Tytuł: Real-time rate control of WebRTC video streams in 5G networks: Improving quality of experience with Deep Reinforcement Learning.
+Autorzy: Nikita Smirnov, Sven Tomforde
+Rok: 2024
+
+Tytuł: Guest Editorial Special Issue on 5G/6G Precise Positioning on Cooperative Intelligent Transportation Systems (C-ITS) and Connected Automated Vehicles (CAV) - Part II.
+Autorzy: Danilo Amendola, Nicola Cordeschi, Fan Bai, Yusheng Ji, Shen Yan, Weihua Zhuang
+Rok: 2024
+
+Tytuł: O-M3: Real-Time Multi-Cell MIMO Scheduling in 5G O-RAN.
+Autorzy: Yongce Chen, Y. Thomas Hou, Wenjing Lou, Jeffrey H. Reed, Sastry Kompella
+Rok: 2024
+
+Tytuł: SGPL: An Intelligent Game-Based Secure Collaborative Communication Scheme for Metaverse Over 5G and Beyond Networks.
+Autorzy: Miaojiang Chen, Anfeng Liu, Neal N. Xiong, Houbing Song, Victor C. M. Leung
+Rok: 2024
+
+Tytuł: Surgical Strike on 5G Positioning: Selective-PRS-Spoofing Attacks and Its Defence.
+Autorzy: Kaixuan Gao, Huiqiang Wang, Hongwu Lv
+Rok: 2024
+
+Tytuł: TC-RAN: A Programmable Traffic Control Service Model for 5G/6G SD-RAN.
+Autorzy: Mikel Irazabal, Navid Nikaein
+Rok: 2024
+
+Tytuł: Guest Editorial Human-Centric Communication and Networking for Metaverse Over 5G and Beyond Networks - Part I.
+Autorzy: Peng Li, Song Guo, Lin Cai, Mehrdad Dianati, Nirwan Ansari
+Rok: 2024
+
+Tytuł: Guest Editorial Human-Centric Communication and Networking for Metaverse Over 5G and Beyond Networks - Part II.
+Autorzy: Peng Li, Song Guo, Lin Cai, Mehrdad Dianati, Nirwan Ansari
+Rok: 2024
+
+Tytuł: Cognitive Sensing and Navigation With Unknown OFDM Signals With Application to Terrestrial 5G and Starlink LEO Satellites.
+Autorzy: Mohammad Neinavaie, Zaher M. Kassas
+Rok: 2024
+
+Tytuł: Eye-Beam: A mmWave 5G-Compliant Platform for Integrated Communications and Sensing Enabling AI-Based Object Recognition.
+Autorzy: Arun Paidimarri, Asaf Tzadok, Sara Garcia Sanchez, Atsutse Kludze, Alexandra Gallyas-Sanhueza, Alberto Valdes-Garcia
+Rok: 2024
+
+Tytuł: New Signal and Algorithms for 5G/6G High Precision Train Positioning in Tunnel With Leaky Coaxial Cable.
+Autorzy: Lu Yin, Tianzhu Song, Qiang Ni, Quanbin Xiao, Yuan Sun, Wenfang Guo
+Rok: 2024
+
+Tytuł: A Learning-Based Energy-Efficient Device Grouping Mechanism for Massive Machine-Type Communication in the Context of Beyond 5G Networks.
+Autorzy: Rubbens Boisguene, Ibrahim Althamary, Chih-Wei Huang
+Rok: 2024
+
+Tytuł: A High-Efficiency Envelope-Tracking Supply Modulator Using a Class-G Linear Amplifier and a Single-Inductor Dual-Input-Dual-Output Converter for 5G NR Power Amplifier.
+Autorzy: Changjin Chen, Ximing Li, Rui Hu, Lin Cheng
+Rok: 2024
+
+Tytuł: Efficient Wideband mmW Transceiver Front End for 5G Base Stations in 22-nm FD-SOI CMOS.
+Autorzy: Christian Elgaard, Mustafa Özen, Eric Westesson, Ahmed Mahmoud, Florent Torres, Shakila Bint Reyaz, Therese Forsberg, Rehman Akbar, Hans Hagberg, Henrik Sjöland
+Rok: 2024
+
+Tytuł: A Reusable Superheterodyne Dual-Band Down-Conversion Mixer With Hybrid Linearity-Enhanced Technique for 5G Non-Contiguous Multiband NR.
+Autorzy: Kejie Hu, Kaixue Ma, Zonglin Ma, Keping Wang
+Rok: 2024
+
+Tytuł: A 28-GHz Hybrid Beamforming Transmitter With Spatial Notch Steering Enabling Concurrent Dual Data Streams for 5G MIMO Applications.
+Autorzy: Yaolong Hu, Xiaohan Zhang, Taiyun Chi
+Rok: 2024
+
+Tytuł: A Broadband Four-Way Parallel-Series Doherty Power Amplifier for 5G Communications.
+Autorzy: Edward Liu, Hua Wang
+Rok: 2024
+
+Tytuł: A Dual-Path Transformer-Based Multiband Power Amplifier for mm-Wave 5G Applications.
+Autorzy: Mohammad Ali Mokri, Soodeh Miraslani, Md. Aminul Hoque, Deukhyoun Heo
+Rok: 2024
+
+Tytuł: A Compact Millimeter-Wave Reconfigurable Dual-Band LNA With Image-Rejection in 28-nm Bulk CMOS for 5G Applications.
+Autorzy: Ningzheng Sun, Li Gao, Hui-Yang Li, Jin-Xu Xu, Xiuyin Zhang
+Rok: 2024
+
+Tytuł: An Intelligent Distributed Channel Selection Framework with Hybrid Mode Selection for Interference Mitigation in D2D based 5G Networks.
+Autorzy: Abdullilah A. Alotaibi, Salman AlQahtani
+Rok: 2024
+
+Tytuł: Energy efficiency in 5G systems: A systematic literature review.
+Autorzy: Umar Danjuma Maiwada, Kamaluddeen Usman Danyaro, Aliza Sarlan, Mohd. Shahir Liew, Ayankunle A. Taiwo, Umar Ismaila Audi
+Rok: 2024
+
+Tytuł: A novel hybrid fast Fourier transform processor in 5G+ and bio medical applications.
+Autorzy: R. Priyadharsini, S. Sasipriya
+Rok: 2024
+
+Tytuł: A high-selective multiple-mode bandpass filter design, applicating in both millimeter-wave 5G and WiFi systems.
+Autorzy: Yi Le, Hao Liu, Guodong Su, Nan Yang, Pengfei Hu, Jun Liu
+Rok: 2024
+
+Tytuł: Compact wide dual-band square dielectric resonator antenna to serve X-band/emerging 5G communication.
+Autorzy: Rasmita Sahu, Hrudananda Pradhan, Biswa Binayak Mangaraj, Debasis Mishra
+Rok: 2024
+
+Tytuł: High-k2 AlSc0.095N-based two-dimensional coupled mode resonators with transducer design toward 5G application.
+Autorzy: Zexin Sun, Shitao Lv, Wenhao Ye, Xinyi Sun, Haiyan Sun, Jicong Zhao
+Rok: 2024
+
+Tytuł: An efficient heuristic-aided adaptive autoencoder-based dilated DNN with attention mechanism for enhancing the performance of the MIMO system in 5G communication.
+Autorzy: Rajalakshmi Jeyapal, Khaled Matrouk, Dass Purushothaman
+Rok: 2024
+
+Tytuł: A 5G Hubs Location Hierarchized Problem that Balances the Connection of the Users.
+Autorzy: José-Fernando Camacho-Vallejo, Juan-Carlos García-Vélez, Carlos Corpus
+Rok: 2024
+
+Tytuł: 5G Metaverse in Education.
+Autorzy: Jen-En Huang, Li-Wei Chang, Hui-Hsin Chin
+Rok: 2024
+
+Tytuł: Entity-Aware Data Management on Mobile Devices: Utilizing Edge Computing and Centric Information Networking in the Context of 5G and IoT.
+Autorzy: Deepak Sharma, Mohamed A. Elmagzoub, Abdullah Alghamdi, Mesfer Alrizq, Kusum Yadav, Sachin Sharma, V. Prashanth
+Rok: 2024
+
+Tytuł: Efficient data transmission over 5G Networks with improved accuracy using 802.11p.
+Autorzy: Shilpa Bagade, Budati Anil Kumar, L. Koteswara Rao
+Rok: 2024
+
+Tytuł: Global aspects and overview of 5G multimedia communication.
+Autorzy: Aakanksha Devrari, Adesh Kumar, Piyush Kuchhal
+Rok: 2024
+
+Tytuł: Image encryption algorithm based on 2D logistic map system in IoHT using 5G network.
+Autorzy: Janvier Fotsing, J.-M. Moukam Kakmeni, Alain Tiedeu, Hilaire Bertrand Fotsin
+Rok: 2024
+
+Tytuł: Resource allocation algorithm for 5G and B5G D2D underlay wireless cellular networks.
+Autorzy: Malle Gopal, T. Velmurugan
+Rok: 2024
+
+Tytuł: A low complex PTS-SLM-Companding technique for PAPR reduction in 5G NOMA waveform.
+Autorzy: Arun Kumar
+Rok: 2024
+
+Tytuł: The essence of smart home design based on 5G communication.
+Autorzy: Liehui Liu
+Rok: 2024
+
+Tytuł: Power optimized intelligent Handoff mechanism for 5G-Heterogeneous network.
+Autorzy: Kiran Mannem, Pasumarthy Nageswara Rao, S. Chandra Mohan Reddy
+Rok: 2024
+
+Tytuł: iRSL: Intelligent RAT selection framework for beyond 5G networks.
+Autorzy: Bhanu Priya, Jyoteesh Malhotra
+Rok: 2024
+
+Tytuł: Spectrum sharing framework in full duplex mode with minimum interference in 5G cellular network.
+Autorzy: Manisha Rajput, P. Malathi
+Rok: 2024
+
+Tytuł: Retraction Note: A comprehensive survey 5G wireless communication systems: open issues, research challenges, channel estimation, multi carrier modulation and 5G applications.
+Autorzy: 
+Rok: 2024
+
+Tytuł: Performance model for factory automation in 5G networks.
+Autorzy: Jiao Wang, Jay Weitzen, Oguz Bayat, Volkan Sevindik, Mingzhe Li
+Rok: 2024
+
+Tytuł: AI for industrial: automate the network design for 5G URLLC services.
+Autorzy: Jiao Wang, Jay Weitzen, Oguz Bayat, Volkan Sevindik
+Rok: 2024
+
+Tytuł: External Interferences Detection by Examples in LTE Networks for 4G and 5G Networks Efficient Deployments.
+Autorzy: Éric Michel Deussom Djomadji, Duplex Mbieda Petmegni, Bienvenue Arsene Roger Fouba, Emmanuel Tonyé
+Rok: 2024
+
+Tytuł: Enabling Beyond-Visual-Line-of-Sight Drones Operation Over Open RAN 5G Networks With Slicing.
+Autorzy: Pau Baguer, Esteban Municio, Gines Garcia-Aviles, Xavier Costa-Pérez
+Rok: 2024
+
+Tytuł: Rapidly Deployable Intelligent 5G Aerial Neutral Host Networks: An O-RAN-Based Approach.
+Autorzy: Yi Chu, David Grace, Josh Shackleton, Andy White, David Hunter, Hamed Ahmadi
+Rok: 2024
+
+Tytuł: Network Automation and Data Analytics in 3GPP 5G Systems.
+Autorzy: Miguel-Angel Garcia-Martin, Marco Gramaglia, Pablo Serrano
+Rok: 2024
+
+Tytuł: Blockchain-Based Trustworthiness in Cross-Border Data Exchange in 5G-Powered Intelligent Connected Vehicles.
+Autorzy: Tao Hai, Md. Zakirul Alam Bhuiyan, Mohamed Rahouti, Jincheng Zhou, Jian Shen
+Rok: 2024
+
+Tytuł: A Decentralized Collaborative Learning Approach in 5G+ Core Networks.
+Autorzy: Mohammad Arif Hossain, Abdullah Ridwan Hossain, Weiqi Liu, Nirwan Ansari, Abbas Kiani, Tony Saboorian
+Rok: 2024
+
+Tytuł: Mobile-LLaMA: Instruction Fine-Tuning Open-Source LLM for Network Analysis in 5G Networks.
+Autorzy: Khen Bo Kan, Hyunsu Mun, Guohong Cao, Youngseok Lee
+Rok: 2024
+
+Tytuł: The Interplay Between Generative AI and 5G-Advanced Toward 6G.
+Autorzy: Xingqin Lin, Mingzhe Chen, Taesang Yoo, Yue Wang, Lina Bariah, Nguyen Hoang Tran, Kaibin Huang
+Rok: 2024
+
+Tytuł: Matching 5G Connected Vehicles to Sensed Vehicles for Safe Cooperative Autonomous Driving.
+Autorzy: Zuoyin Tang, Jianhua He, Kun Yang, Hsiao-Hwa Chen
+Rok: 2024
+
+Tytuł: Virtual network function reconfiguration in 5G networks: An optimization perspective.
+Autorzy: Hanane Biallach, Mustapha Bouhtou, Kristina Kumbria, Dritan Nace, Artur Tomaszewski
+Rok: 2024
+
+Tytuł: What do 5G networks, Bill Gates, Agenda 21, and QAnon have in common? Sources, distribution, and characteristics.
+Autorzy: Itai Himelboim, Porismita Borah, Danielle Ka Lai Lee, Jeonghyun (Janice) Lee, Yan Su, Anastasia Vishnevskaya, Xizhu Xiao
+Rok: 2024
+
+Tytuł: 3DSAR+: A Single-Drone 3D Cellular Search and Rescue Solution Leveraging 5G-NR.
+Autorzy: Andra Blaga, Federico Campolo, Maurizio Rea, Xavier Costa-Pérez
+Rok: 2024
+
+Tytuł: Integration of 5G and GNSS Technologies for Enhanced Positioning: An Experimental Study.
+Autorzy: Mattia Brambilla, Marianna Alghisi, Bernardo Camajori Tedeschini, Alessandro Fumagalli, Florin-Catalin Grec, Lorenzo Italiano, Chiara Pileggi, Ludovico Biagi, Stefano Bianchi, Andrea Gatti, Alessandro Goia, Monica Nicoli, Eugenio Realini
+Rok: 2024
+
+Tytuł: The Chronicles of 5G Non-Standalone: An Empirical Analysis of Performance and Service Evolution.
+Autorzy: Giuseppe Caso, Mohammad Rajiullah, Konstantinos Kousias, Usman Ali, Nadir Bouzar, Luca De Nardis, Anna Brunström, Ozgu Alay, Marco Neri, Maria-Gabriella Di Benedetto
+Rok: 2024
+
+Tytuł: Interference Analysis and Modeling of Positioning Reference Signals in 5G NTN.
+Autorzy: Alejandro Gonzalez-Garrido, Jorge Querol, Henk Wymeersch, Symeon Chatzinotas
+Rok: 2024
+
+Tytuł: Geometrical Features Based-mmWave UAV Path Loss Prediction Using Machine Learning for 5G and Beyond.
+Autorzy: Sajjad Hussain, Syed Faraz Naeem Bacha, Adnan Ahmad Cheema, Berk Canberk, Trung Q. Duong
+Rok: 2024
+
+Tytuł: Design and Implementation of a 5G NR Transmitter With Wi-Fi Coexistence by Beamforming and Power Control.
+Autorzy: Yu-Hao Liu, Cheng-Pang Ku, Tzi-Dar Chiueh
+Rok: 2024
+
+Tytuł: From 5G to 6G Networks: A Survey on AI-Based Jamming and Interference Detection and Mitigation.
+Autorzy: Poonam Lohan, Burak Kantarci, Mohamed Amine Ferrag, Norbert Tihanyi, Yi Shi
+Rok: 2024
+
+Tytuł: Securing 5G/6G IoT Using Transformer and Personalized Federated Learning: An Access-Side Distributed Malicious Traffic Detection Framework.
+Autorzy: Yantian Luo, Xu Chen, Hancun Sun, Xiangling Li, Ning Ge, Wei Feng, Jianhua Lu
+Rok: 2024
+
+Tytuł: Leveraging 5G SA for R&D: Capabilities and Beam-Based Empirical Analysis.
+Autorzy: Antonio Tarrías-Muñoz, Eduardo Baena, Sergio Fortes, Raquel Barco
+Rok: 2024
+
+Tytuł: A 5G NTN Emulation Platform for VNF Orchestration: Design, Development, and Evaluation.
+Autorzy: Francisco Muro, Eduardo Baena, Tomaso de Cola, Sergio Fortes, Raquel Barco
+Rok: 2024
+
+Tytuł: Cloud VR on 5G: A Performance Validation in Industrial Scenarios.
+Autorzy: Oswaldo Sebastian Peñaherrera-Pulla, Sebastian Bro Damsgaard, Boyan Yanakiev, Preben Mogensen, Sergio Fortes, Raquel Barco
+Rok: 2024
+
+Tytuł: Early-Scheduled Handover Preparation in 5G NR Millimeter-Wave Systems.
+Autorzy: Dino Pjanic, Alexandros Sopasakis, Andres Reial, Fredrik Tufvesson
+Rok: 2024
+
+Tytuł: Multi-OLT Multi-Lane PON for 5G Fronthaul and Differential Services Through Access Class Priority-Based 2D Scheduling.
+Autorzy: Fahmida Rawshan, Monir Hossen, Md. Rafiqul Islam
+Rok: 2024
+
+Tytuł: Dynamic Spectrum Sharing for 5G NR and 4G LTE Coexistence - A Comprehensive Review.
+Autorzy: Rony Kumer Saha, John M. Cioffi
+Rok: 2024
+
+Tytuł: Correction to "Dynamic Spectrum Sharing for 5G NR and 4G LTE Coexistence - A Comprehensive Review".
+Autorzy: Rony Kumer Saha, John M. Cioffi
+Rok: 2024
+
+Tytuł: 5G mmWave Network Planning Using Machine Learning for Path Loss Estimation.
+Autorzy: Yosvany Hervis Santana, Rodney Martinez Alonso, Glauco Guillen Nieto, Luc Martens, Wout Joseph, David Plets
+Rok: 2024
+
+Tytuł: Comprehensive FR1(C) and FR3 Lower and Upper Mid-Band Propagation and Material Penetration Loss Measurements and Channel Models in Indoor Environment for 5G and 6G.
+Autorzy: Dipankar Shakya, Mingjun Ying, Theodore S. Rappaport, Hitesh Poddar, Peijie Ma, Yanbo Wang, Idris Al-Wazani
+Rok: 2024
+
+Tytuł: An Efficient and Dependable UAV-Assisted Code Dissemination in 5G-Enabled Industrial IoT.
+Autorzy: Ravi Sharma, Balázs Villányi
+Rok: 2024
+
+Tytuł: AI Model Selection and Monitoring for Beam Management in 5G-Advanced.
+Autorzy: Chen Sun, Le Zhao, Tao Cui, Haojin Li, Yingshuang Bai, Songtao Wu, Qiang Tong
+Rok: 2024
+
+Tytuł: Rate Splitting Multiple Access Assisted Cell-Free Massive MIMO for URLLC Services in 5G and Beyond Networks.
+Autorzy: Fangqing Tan, Shunyu Si, Hongbin Chen, Shichao Li, Tiejun Lv
+Rok: 2024
+
+Tytuł: Hardware-Aware Joint Localization-Synchronization and Tracking Using Reconfigurable Intelligent Surfaces in 5G and Beyond.
+Autorzy: Deeb Assad Tubail, Mohammed El-Absi, Salama Ikki, Thomas Kaiser
+Rok: 2024
+
+Tytuł: 5G NTN Primary Synchronization Signal: An Improved Detector for Handheld Devices.
+Autorzy: Riccardo Tuninato, Roberto Garello
+Rok: 2024
+
+Tytuł: 5G-Enabled Internet of Musical Things Architectures for Remote Immersive Musical Practices.
+Autorzy: Luca Turchet, Claudia Rinaldi, Carlo Centofanti, Luca Vignati, Cristina Rottondi
+Rok: 2024
+
+Tytuł: Deep Learning for Intelligent and Automated Network Slicing in 5G Open RAN (ORAN) Deployment.
+Autorzy: Shu-Ping Yeh, Sonia Bhattacharya, Rashika Sharma, Hassnaa Moustafa
+Rok: 2024
+
+Tytuł: Swapping 5G for 3G: Motivations, Experiences, and Implications of Contemporary Dumbphone Adoption.
+Autorzy: Annabel Rothschild, Janne Lindqvist
+Rok: 2024
+
+Tytuł: Optimizing 5G network performance with dynamic resource allocation, robust encryption and Quality of Service (QoS) enhancement.
+Autorzy: Abdullah M. Alashjaee, Sumit Kushwaha, Hayam Alamro, Asma Abbas Hassan, Fuhid Alanazi, Abdullah Mohamed
+Rok: 2024
+
+Tytuł: Enhancing 5G network slicing for IoT traffic with a novel clustering framework.
+Autorzy: Ziran Min, Swapna S. Gokhale, Shashank Shekhar, Charif Mahmoudi, Zhuangwei Kang, Yogesh D. Barve, Aniruddha Gokhale
+Rok: 2024
+
+Tytuł: Energy-efficient indoor hybrid deployment strategy for 5G mobile small-cell base stations using JAFR Algorithm.
+Autorzy: Yong Shen, Yu Chen, Hongwei Kang, Xingping Sun, Qingyi Chen
+Rok: 2024
+
+Tytuł: Uplink resource shared interference mitigation scheme for in-band D2D underlay 5G networks.
+Autorzy: Khuram Ashfaq, Ghazanfar Ali Safdar
+Rok: 2024
+
+Tytuł: A review on 5G and beyond wireless communication channel models: Applications and challenges.
+Autorzy: Jai Kumar, Akhil Gupta, Sudeep Tanwar, Muhammad Khurram Khan
+Rok: 2024
+
+Tytuł: User scheduling for non-orthogonal multiple access-enabled 5G aeronautical mobile airport communications system.
+Autorzy: Hao Liang, Kai Chen
+Rok: 2024
+
+Tytuł: Priority-based subcarrier allocation algorithm for maximal network connectivity in 5G networks.
+Autorzy: Tapas Saha, Prakash Chauhan, Kunal Pradhan, Sanjib Kumar Deka
+Rok: 2024
+
+Tytuł: A BDS/5G hybrid localization algorithm based on adaptive variational Bayesian for UAV positioning.
+Autorzy: Rui Xue, Hankuo Liu, Zedong Liang
+Rok: 2024
+
+Tytuł: BEP evaluation of 5G LDPC codes in a pre-amplified optical PPM receiver.
+Autorzy: Konstantinos Yiannopoulos, Nikos C. Sagias
+Rok: 2024
+
+Tytuł: Dynamic resource allocation and computational offload optimization method for 5G network slicing in MEC environment.
+Autorzy: Zijia Yu, Xu Xu, Wei Zhou
+Rok: 2024
+
+Tytuł: Efficient resource allocation for 5G/6G cognitive radio networks using probabilistic interference models.
+Autorzy: Osama Zaheer, Mudassar Ali, Muhammad Imran, Humayun Zubair Khan, Muhammad Naeem
+Rok: 2024
+
+Tytuł: Fog computing and blockchain technology based certificateless authentication scheme in 5G-assisted vehicular communication.
+Autorzy: Zeyad Ghaleb Al-Mekhlafi, Hussam Dheaa Kamel Al-Janabi, Mahmood A. Al-Shareeda, Badiea Abdulkarem Mohammed, Jalawi Sulaiman Alshudukhi, Kawther A. Al-Dhlan
+Rok: 2024
+
+Tytuł: Efficient hybrid resource allocation for uplink and downlink device-to-device underlay communication in 5G and beyond wireless networks.
+Autorzy: Malle Gopal, T. Velmurugan
+Rok: 2024
+
+Tytuł: Reliability analysis of 5G-VANET using cloud-fog-edge based architecture.
+Autorzy: Ankit Bisht, Vandana Khaitan nee Gupta
+Rok: 2024
+
+Tytuł: GNSS/5G Joint Position Based on Weighted Robust Iterative Kalman Filter.
+Autorzy: Hongjian Jiao, Xiaoxuan Tao, Liang Chen, Xin Zhou, Zhanghai Ju
+Rok: 2024
+
+Tytuł: CPM modulation implementation using blind equalizer and non-coherent demodulation for 5G and beyond.
+Autorzy: Mohammed El Ghzaoui
+Rok: 2024
+
+Tytuł: Enhancing IoT connectivity through spectrum sharing in 5G networks.
+Autorzy: Bablu Kumar Singh, Narendra Khatri
+Rok: 2024
+
+Tytuł: The technology of radio frequency fingerprint identification based on deep learning for 5G application.
+Autorzy: Yun Lin, Hanhong Wang, Haoran Zha
+Rok: 2024
+
+Tytuł: The impact of funding on the 5G innovation ecosystem.
+Autorzy: Johannes van der Pol
+Rok: 2024
+
+Tytuł: Navigating geopolitical storms: assessing the robustness of Canada's 5G research network in the wake of the Huawei conflict.
+Autorzy: Anas Ramdani, Catherine Beaudry, Mario Bourgault, Davide Pulizzotto
+Rok: 2024
+
+Tytuł: Speckle Noise Detection and Removing by Machine Learning Algorithms in Multisensory Images for 5G Transmission.
+Autorzy: M. Dharani, M. V. V. S. Nagendranath, Shaik Mohammad Rafee, Gattim Naveen Kishore, T. Krishna Moorthy Venkata
+Rok: 2024
+
+Tytuł: Quality Enhancement with Frame-wise DLCNN using High Efficiency Video Coding in 5G Networks.
+Autorzy: Vijaya Saradhi Dommeti, M. Dharani, K. Shasidhar, Y. Dasaratha Rami Reddy, T. Venkatakrishnamoorthy
+Rok: 2024
+
+Tytuł: Channel Estimation of Urban 5G Communication System based on Improved Particle Swarm Optimization Algorithm.
+Autorzy: Xigang Xia, Bo Yang, Zhiyu Liu
+Rok: 2024
+
+Tytuł: Two Energy-Efficient Backhauling Solutions for Small Cell Networks of 5G Using Green Communications.
+Autorzy: Haili Xue
+Rok: 2024
+
+Tytuł: Infrastructure-Wide and Intent-Based Networking Dataset for 5G-and-beyond AI-Driven Autonomous Networks.
+Autorzy: Jimena Andrade-Hoz, Qi Wang, José M. Alcaraz-Calero
+Rok: 2024
+
+Tytuł: A 5G NR FR2 Beamforming System with Integrated Transceiver Module.
+Autorzy: Ayush Bhatta, Md Kamrojjaman, Sanghoon Sim, Jeong-Geun Kim
+Rok: 2024
+
+Tytuł: Decentralized System Synchronization among Collaborative Robots via 5G Technology.
+Autorzy: Ali Ekber Celik, Ignacio Rodriguez, Rafael González Ayestarán, Sirma Çekirdek Yavuz
+Rok: 2024
+
+Tytuł: EAIA: An Efficient and Anonymous Identity-Authentication Scheme in 5G-V2V.
+Autorzy: Qianmin Du, Jianhong Zhou, Maode Ma
+Rok: 2024
+
+Tytuł: Deployment Protection for Interference of 5G Base Stations with Aeronautical Radio Altimeters.
+Autorzy: Zhaobin Duan, Zhenyang Ma, Jie Bai, Peng Wang, Ke Xu, Shun Yuan
+Rok: 2024
+
+Tytuł: A Survey on Green Enablers: A Study on the Energy Efficiency of AI-Based 5G Networks.
+Autorzy: Zeinab Ezzeddine, Ayman Khalil, Besma Zeddini, Habiba Hafdallah Ouslimani
+Rok: 2024
+
+Tytuł: Design and Implementation of a Specialised Millimetre-Wave Exposure System for Investigating the Radiation Effects of 5G and Future Technologies.
+Autorzy: Negin Foroughimehr, Andrew W. Wood, Ray J. McKenzie, Ken Karipidis, Ali Yavari
+Rok: 2024
+
+Tytuł: Energy Consumption Analysis for Continuous Phase Modulation in Smart-Grid Internet of Things of beyond 5G.
+Autorzy: Hongjian Gao, Yang Lu, Shaoshi Yang, Jingsheng Tan, Longlong Nie, Xinyi Qu
+Rok: 2024
+
+Tytuł: The Advantage of the 5G Network for Enhancing the Internet of Things and the Evolution of the 6G Network.
+Autorzy: Georgios Gkagkas, Dimitrios J. Vergados, Angelos Michalas, Michael Dossis
+Rok: 2024
+
+Tytuł: Analytical Model of the Connection Handoff in 5G Mobile Networks with Call Admission Control Mechanisms.
+Autorzy: Mariusz Glabowski, Maciej Sobieraj, Maciej Stasiak
+Rok: 2024
+
+Tytuł: Survey on 5G Physical Layer Security Threats and Countermeasures.
+Autorzy: Michal Harvanek, Jan Bolcek, Jan Kufa, Ladislav Polak, Marek Simka, Roman Marsálek
+Rok: 2024
+
+Tytuł: A High Gain Circularly Polarized Slot Antenna Array for 5G Millimeter-Wave Applications.
+Autorzy: Wei He, Jun Hong, Yongmei Ren, Yuanxiang Deng, Xiaohu Wang, Xiaoyong Fang
+Rok: 2024
+
+Tytuł: Low-Noise Amplifier with Bypass for 5G New Radio Frequency n77 Band and n79 Band in Radio Frequency Silicon on Insulator Complementary Metal-Oxide Semiconductor Technology.
+Autorzy: Min-Su Kim, Sang-Sun Yoo
+Rok: 2024
+
+Tytuł: Resource-Efficient Multicast URLLC Service in 5G Systems.
+Autorzy: Artem N. Krasilov, Irina Lebedeva, Ruslan Yusupov, Evgeny M. Khorov
+Rok: 2024
+
+Tytuł: A Blockchain-Assisted Security Protocol for Group Handover of MTC Devices in 5G Wireless Networks.
+Autorzy: Ronghao Ma, Jianhong Zhou, Maode Ma
+Rok: 2024
+
+Tytuł: Combining 5G New Radio, Wi-Fi, and LiFi for Industry 4.0: Performance Evaluation.
+Autorzy: Jorge Navarro-Ortiz, Juan J. Ramos-Muñoz, Felix Delgado-Ferro, Ferran Canellas, Daniel Camps-Mur, Amin Emami, Hamid Falaki
+Rok: 2024
+
+Tytuł: Exploring Interference Issues in the Case of n25 Band Implementation for 5G/LTE Direct-to-Device NTN Services.
+Autorzy: Alexander Pastukh, Valery Tikhvinskiy, Evgeny Devyatkin
+Rok: 2024
+
+Tytuł: Measurement and Analysis of 4G/5G Mobile Signal Coverage in a Heavy Industry Environment.
+Autorzy: Ladislav Polak, Jan Kufa, Roman Sotner, Tomas Fryza
+Rok: 2024
+
+Tytuł: Towards a Unified Management Interface for 5G Sensor Networks: Interoperability between Yet Another Next Generation and Open Platform Communication Unified Architecture.
+Autorzy: Devaraj Sambandan, Devi Thirupathi
+Rok: 2024
+
+Tytuł: 5G AI-IoT System for Bird Species Monitoring and Song Classification.
+Autorzy: Jaume Segura-Garcia, Sean Sturley, Miguel Arevalillo-Herráez, José M. Alcaraz Calero, Santiago Felici-Castell, Enrique A. Navarro-Camba
+Rok: 2024
+
+Tytuł: Discussion and Demonstration of RF-MEMS Attenuators Design Concepts and Modules for Advanced Beamforming in the Beyond-5G and 6G Scenario - Part 1.
+Autorzy: Girolamo Tagliapietra, Flavio Giacomozzi, Massimiliano Michelini, Romolo Marcelli, Giovanni Maria Sardi, Jacopo Iannacci
+Rok: 2024
+
+Tytuł: In Situ Assessment of Uplink Duty Cycles for 4G and 5G Wireless Communications.
+Autorzy: Günter Vermeeren, Leen Verloock, Sam Aerts, Luc Martens, Wout Joseph
+Rok: 2024
+
