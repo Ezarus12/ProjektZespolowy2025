@@ -6,6 +6,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from bs4 import BeautifulSoup
 import time
+import os
 
 def scrape_dblp(query: str):
     url = f"https://dblp.org/search?q={query}"
@@ -21,10 +22,13 @@ def scrape_dblp(query: str):
     # Przewiń stronę, aby załadować wszystkie wpisy
     last_height = driver.execute_script("return document.body.scrollHeight")
     new_height = last_height
-    for _ in range(20):
+    '''
+    Website scrolling - disabled for the test purposes
+    for _ in range(50):
         driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-        print(f"Przewinięto stronę {_ + 1}/{20} razy")
+        print(f"Przewinięto stronę {_ + 1}/{50} razy")
         time.sleep(2)  # Poczekaj, aż nowe elementy się załadują
+        '''
 
     # Pobierz pełną stronę HTML
     page_source = driver.page_source
@@ -47,22 +51,36 @@ def scrape_dblp(query: str):
             })
 
     # Zapisz dane do pliku
-    with open("DBLP_Data.txt", "w", encoding="utf-8") as file:
+    #folder_name = query.split(":")[0] #Used for creating the folder for each of the topics
+    folder_path = os.path.join("Dane")  # Ścieżka do folderu
+    os.makedirs(folder_path, exist_ok=True)
+
+    filename = query.replace(":", "_") + ".txt"
+    file_path = os.path.join(folder_path, filename)
+    with open(file_path, "w", encoding="utf-8") as file:
         for pub in publications:
             file.write(f"Tytuł: {pub['title']}\n")
             file.write(f"Autorzy: {', '.join(pub['authors'])}\n")
             file.write(f"Rok: {pub['year']}\n")
             file.write("\n")
 
-    print("Dane zapisane do pliku dblp_authors_titles_years.txt")
+    print("Dane zapisane do pliku: ", file_path)
     return publications
 
 if __name__ == "__main__":
-    query = "5G:2024"
-    results = scrape_dblp(query)
-
+    topics = ["artificial intelligence", "distributed systems", "5G", "manet", 
+    "swarm intelligence", "quantum computing", "graphs", "temporal networks", "deep learning"]
+    
+    for topic in topics:
+        for i in range(2022, 2023): #Change to 1980, 2024 for a full range
+            temp_query = f"{topic}:{i}"
+            print(temp_query)
+            results = scrape_dblp(temp_query)
+    
+    '''
     for pub in results:
         print(f"Tytuł: {pub['title']}")
         print(f"Autorzy: {', '.join(pub['authors'])}")
         print(f"Rok: {pub['year']}")
         print("\n")
+    '''

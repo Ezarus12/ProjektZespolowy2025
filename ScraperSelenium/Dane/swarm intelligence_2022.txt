@@ -1,0 +1,120 @@
+Tytuł: Implementing swarm intelligence algorithms using high-level parallelization tools.
+Autorzy: Breno Augusto De Melo Menezes
+Rok: 2022
+
+Tytuł: Integration Learning of Neural Network Training with Swarm Intelligence and Meta-heuristic Algorithms for Spot Gold Price Forecast.
+Autorzy: Zhen-Yao Chen
+Rok: 2022
+
+Tytuł: On the performance analysis of solving the Rubik's cube using swarm intelligence algorithms.
+Autorzy: Jishnu Jeevan, Madhu S. Nair
+Rok: 2022
+
+Tytuł: Enhancement of Health Care Services Based on Cloud Computing in IOT Environment Using Hybrid Swarm Intelligence.
+Autorzy: Karim M. Hassan, Amany Abdo, Ahmed Yakoub
+Rok: 2022
+
+Tytuł: HSI-LFS-BERT: Novel Hybrid Swarm Intelligence Based Linguistics Feature Selection and Computational Intelligent Model for Alzheimer's Prediction Using Audio Transcript.
+Autorzy: Yusera Farooq Khan, Baijnath Kaushik, Mohammad Khalid Imam Rahmani, Md. Ezaz Ahmed
+Rok: 2022
+
+Tytuł: The design of self-organizing human-swarm intelligence.
+Autorzy: Jonas D. Hasbach, Maren Bennewitz
+Rok: 2022
+
+Tytuł: Optimization of Seismic Base Isolation System Using a Fuzzy Reinforced Swarm Intelligence.
+Autorzy: Elif Cagda Kandemir, Ali Mortazavi
+Rok: 2022
+
+Tytuł: Optimum design of combined footings using swarm intelligence-based algorithms.
+Autorzy: Ali R. Kashani, Charles V. Camp, Mohsen Akhani, Saman Ebrahimi
+Rok: 2022
+
+Tytuł: A hybrid swarm intelligence approach for resolving reactive power dispatch issues in power system: Optimal placement and sizing of UPFC.
+Autorzy: Sudhir Sharma, B. Sabitha, Anush Prabhakaran, Meena Chavan, Rajat Srivastava
+Rok: 2022
+
+Tytuł: A Detailed Survey on Swarm Intelligence Algorithms for Efficient Optimal Path Selection in WSN for Effective Online Business Platform.
+Autorzy: Krishnadas J., P. Manimegalai, G. K. D. Prasanna Venkatesan
+Rok: 2022
+
+Tytuł: Particle swarm intelligence and the evolution of cooperation in the spatial public goods game with punishment.
+Autorzy: Shaojie Lv, Feifei Song
+Rok: 2022
+
+Tytuł: Swarm intelligence-based hyper-heuristic for the vehicle routing problem with prioritized customers.
+Autorzy: Abbas Tarhini, Kassem Danach, Antoine Harfouche
+Rok: 2022
+
+Tytuł: Managing pharmaceuticals delivery service using a hybrid particle swarm intelligence approach.
+Autorzy: Xiaodan Wu, Ruichang Li, Chao-Hsien Chu, Richard Amoasi, Shan Liu
+Rok: 2022
+
+Tytuł: Automatic channel pruning via clustering and swarm intelligence optimization for CNN.
+Autorzy: Jingfei Chang, Yang Lu, Ping Xue, Yiqun Xu, Zhen Wei
+Rok: 2022
+
+Tytuł: An algorithm with harmonious blending of distributed swarm intelligence and geometric Brownian motion for greener heterogeneous scheduling.
+Autorzy: Jinglian Wang, Bin Gong, Hong Liu, Shaohui Li
+Rok: 2022
+
+Tytuł: Swarm intelligence optimization of the group method of data handling using the cuckoo search and whale optimization algorithms to model and predict landslides.
+Autorzy: Abolfazl Jaafari, Mahdi Panahi, Davood Mafi Gholami, Omid Rahmati, Himan Shahabi, Ataollah Shirzadi, Saro Lee, Dieu Tien Bui, Biswajeet Pradhan
+Rok: 2022
+
+Tytuł: Virtual Special Issue on Recent Advances in Discrete Swarm Intelligence Algorithms for Solving Engineering Problems.
+Autorzy: Mustafa Servet Kiran, Xiao-Zhi Gao, Muneeswaran Vasudevan, Mesut Gündüz
+Rok: 2022
+
+Tytuł: A swarm intelligence-based robotic search algorithm integrated with game theory.
+Autorzy: Khalil Al-Rahman Youssefi, Modjtaba Rouhani, Habib Rajabi Mashhadi, Wilfried Elmenreich
+Rok: 2022
+
+Tytuł: Decision Optimization for Water and Electricity Shared Resources Based on Fusion Swarm Intelligence.
+Autorzy: Xiaohua Yang, Hao Yang, Jing Bao, Xin Shen, Rong Yan, Nan Pan
+Rok: 2022
+
+Tytuł: Application of job shop scheduling approach in green patient flow optimization using a hybrid swarm intelligence.
+Autorzy: Masoumeh Vali, Khodakaram Salimifard, Amir H. Gandomi, Thierry J. Chaussalet
+Rok: 2022
+
+Tytuł: Swarm Intelligence inspired Intrusion Detection Systems - A systematic literature review.
+Autorzy: Muhammad Hassan Nasir, Salman A. Khan, Muhammad Mubashir Khan, Mahawish Fatima
+Rok: 2022
+
+Tytuł: SI-EDTL: Swarm intelligence ensemble deep transfer learning for multiple vehicle detection in UAV images.
+Autorzy: Zeinab Ghasemi Darehnaei, Mohammad Shokouhifar, Hossein Yazdanjouei, Seyed Mohammad Jalal Rastegar Fatemi
+Rok: 2022
+
+Tytuł: Comprehensive evaluation of the intelligence levels for unmanned swarms based on the collective OODA loop and group extension cloud model.
+Autorzy: Wenliang Wu, Xingshe Zhou, Bo Shen
+Rok: 2022
+
+Tytuł: Swarm intelligence, exact and matheuristic approaches for minimum weight directed dominating set problem.
+Autorzy: Mallikarjun Rao Nakkala, Alok Singh, André Rossi
+Rok: 2022
+
+Tytuł: Welding sequence optimization to reduce welding distortion based on coupled artificial neural network and swarm intelligence algorithm.
+Autorzy: Chunbiao Wu, Chao Wang, Jae-Woong Kim
+Rok: 2022
+
+Tytuł: Automated test design using swarm and evolutionary intelligence algorithms.
+Autorzy: Muhammet Aktas, Zeki Yetgin, Fatih Kiliç, Önder Sünbül
+Rok: 2022
+
+Tytuł: Heuristic recommendation technique in Internet of Things featuring swarm intelligence approach.
+Autorzy: Agostino Forestiero
+Rok: 2022
+
+Tytuł: Modified swarm intelligence algorithms for the pharmacy duty scheduling problem.
+Autorzy: Fatih Kiliç, Nusin Uncu
+Rok: 2022
+
+Tytuł: Individual behaviors, social learning, and swarm intelligence: Real case and counterfactuals.
+Autorzy: Peng Lu, Feier Wen, Yan Li, Dianhan Chen
+Rok: 2022
+
+Tytuł: Interactive fuzzy Bayesian search algorithm: A new reinforced swarm intelligence tested on engineering and mathematical optimization problems.
+Autorzy: Ali Mortazavi
+Rok: 2022
+

@@ -1,0 +1,120 @@
+Tytuł: A Spatial-Temporal Graph Convolutional Networks-based Approach for the OpenPack Challenge 2022.
+Autorzy: Shurong Chai, Jiaqing Liu, Rahul Kumar Jain, Yinhao Li, Tomoko Tateyama, Yen-Wei Chen
+Rok: 2023
+
+Tytuł: Reachability and Spreading Processes on Temporal Networks.
+Autorzy: Arash Badie Modiri
+Rok: 2022
+
+Tytuł: Graph clustering and semi-supervised learning of non-binary, temporal and geometric networks. (Détection de communautés et apprentissage semi-supervisé dans des réseaux non-binaires, temporels et géométriques).
+Autorzy: Maximilien Dreveton
+Rok: 2022
+
+Tytuł: Plasticité et codage temporel dans les réseaux impulsionnels appliqués à l'apprentissage de représentations. (Plasticity and temporal coding in spiking neural networks applied to representation learning).
+Autorzy: Adrien Fois
+Rok: 2022
+
+Tytuł: Deep neural networks for spatio-temporal analysis of rs-fMRI in ADHD.
+Autorzy: Abhay M. S. Aradhya
+Rok: 2022
+
+Tytuł: SAX-STGCN: Dynamic Spatio-Temporal Graph Convolutional Networks for Traffic Flow Prediction.
+Autorzy: Bin Lei, Peng Zhang, Yifei Suo, Na Li
+Rok: 2022
+
+Tytuł: Critical Links Detection in Spatial-Temporal Airway Networks Using Complex Network Theories.
+Autorzy: Chunyao Ma, Sameer Alam, Qing Cai, Daniel Delahaye
+Rok: 2022
+
+Tytuł: Temporal Networks Based on Human Mobility Models: A Comparative Analysis With Real-World Networks.
+Autorzy: Djibril Mboup, Chérif Diallo, Hocine Cherifi
+Rok: 2022
+
+Tytuł: Deep convolutional recurrent model for region recommendation with spatial and temporal contexts.
+Autorzy: Hengpeng Xu, Wenjian Ding, Wei Shen, Jun Wang, Zhenglu Yang
+Rok: 2022
+
+Tytuł: A hybrid adjacency and time-based data structure for analysis of temporal networks.
+Autorzy: Tanner Hilsabeck, Makan Arastuie, Kevin S. Xu
+Rok: 2022
+
+Tytuł: Mitigate SIR epidemic spreading via contact blocking in temporal networks.
+Autorzy: Shilun Zhang, Xunyi Zhao, Huijuan Wang
+Rok: 2022
+
+Tytuł: Focus on temporal graph convolutional networks with unified attention for skeleton-based action recognition.
+Autorzy: Bingkun Gao, Le Dong, Hongbo Bi, Yun-Ze Bi
+Rok: 2022
+
+Tytuł: Adaptive spatial-temporal graph attention networks for traffic flow forecasting.
+Autorzy: Xiangyuan Kong, Jian Zhang, Xiang Wei, Weiwei Xing, Wei Lu
+Rok: 2022
+
+Tytuł: Unified model for collective and point anomaly detection using stacked temporal convolution networks.
+Autorzy: Zehui Li, Zhijie Xiang, Weijia Gong, Hong Wang
+Rok: 2022
+
+Tytuł: Embedding temporal networks inductively via mining neighborhood and community influences.
+Autorzy: Meng Liu, Ziwei Quan, Jia-Ming Wu, Yong Liu, Meng Han
+Rok: 2022
+
+Tytuł: Analyzing temporal graphs of malware distribution networks.
+Autorzy: Jose Andre Morales, Yang Cai
+Rok: 2022
+
+Tytuł: Smoke detection in video using convolutional neural networks and efficient spatio-temporal features.
+Autorzy: Mahdi Hashemzadeh, Nacer Farajzadeh, Milad Heydari
+Rok: 2022
+
+Tytuł: Fuzzy temporal convolutional neural networks in P300-based Brain-computer interface for smart home interaction.
+Autorzy: Christian Flores Vega, Jonathan Quevedo, Elmer Escandón, Mehrin Kiani, Weiping Ding, Javier Andreu-Perez
+Rok: 2022
+
+Tytuł: Political Signed Temporal Networks: A Deep Learning Approach.
+Autorzy: Alejandro Chinea Manrique De Lara, Elka Korutcheva
+Rok: 2022
+
+Tytuł: NeuroPred-CLQ: incorporating deep temporal convolutional networks and multi-head attention mechanism to predict neuropeptides.
+Autorzy: Shouzhi Chen, Qing Li, Jianping Zhao, Yannan Bin, Chunhou Zheng
+Rok: 2022
+
+Tytuł: Accelerating the discovery of antifungal peptides using deep temporal convolutional networks.
+Autorzy: Vishakha Singh, Sameer Shrivastava, Sanjay Kumar Singh, Abhinav Kumar, Sonal Saxena
+Rok: 2022
+
+Tytuł: Temporal networks in collaborative learning: A case study.
+Autorzy: Mohammed Saqr, Ward Peeters
+Rok: 2022
+
+Tytuł: Capsule neural networks on spatio-temporal EEG frames for cross-subject emotion recognition.
+Autorzy: Gopal Chandra Jana, Anshuman Sabath, Anupam Agrawal
+Rok: 2022
+
+Tytuł: Data driven predictive maintenance applications for industrial systems with temporal convolutional networks.
+Autorzy: Deepak Kumar Sharma, Shikha Brahmachari, Kartik Singhal, Deepak Gupta
+Rok: 2022
+
+Tytuł: PATG: position-aware temporal graph networks for surgical phase recognition on laparoscopic videos.
+Autorzy: Abdolrahim Kadkhodamohammadi, Imanol Luengo, Danail Stoyanov
+Rok: 2022
+
+Tytuł: Structural-Temporal embedding of large-scale dynamic networks with parallel implementation.
+Autorzy: Luodie Xie, Hong Shen, Dawei Feng
+Rok: 2022
+
+Tytuł: SETCAP: Service-Based Energy-Efficient Temporal Credential Authentication Protocol for Internet of Drones.
+Autorzy: Mohamed A. El-Zawawy, Alessandro Brighente, Mauro Conti
+Rok: 2022
+
+Tytuł: MAC address de-randomization for WiFi device counting: Combining temporal- and content-based fingerprints.
+Autorzy: Marco Uras, Enrico Ferrara, Raimondo Cossu, Antonio Liotta, Luigi Atzori
+Rok: 2022
+
+Tytuł: LightLog: A lightweight temporal convolutional network for log anomaly detection on the edge.
+Autorzy: Zumin Wang, Jiyu Tian, Hui Fang, Liming Chen, Jing Qin
+Rok: 2022
+
+Tytuł: Algorithmic bias amplification via temporal effects: The case of PageRank in evolving networks.
+Autorzy: Mengtian Cui, Manuel Sebastian Mariani, Matús Medo
+Rok: 2022
+

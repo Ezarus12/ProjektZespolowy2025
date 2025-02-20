@@ -1,0 +1,120 @@
+Tytuł: A Compact Broadband Circularly Polarized Wide-Slot Antenna With Axial Ratio Bandwidth Encompassing LTE 42 and LTE 43 Standards of 5G Mid-Band.
+Autorzy: Falih Mahdi Alnahwi, Yasir Ismael Abdulraheem Al-Yasir, Nazar T. Ali, Ibrahim Gharbia, Abdulkareem S. Abdullah, Yim-Fun Hu, Raed A. Abd-Alhameed
+Rok: 2023
+
+Tytuł: A 41-GHz 19.4-dBm Psat CMOS Doherty power amplifier for 5G NR applications.
+Autorzy: Zheng Li, Zixin Chen, Qiaoyu Wang, Junqing Liu, Jian Pang, Atsushi Shirane, Kenichi Okada
+Rok: 2023
+
+Tytuł: Enabling Techniques for IoT, mMTC, and URC in 5G and B5G Systems.
+Autorzy: Leila Nasraoui
+Rok: 2022
+
+Tytuł: High Efficiency Power Amplifier Design for 28 GHz 5G Transmitters.
+Autorzy: Nourhan Elsayed, Hani H. Saleh, Baker Mohammad, Mohammed Ismail, Mihai Sanduleanu
+Rok: 2022
+
+Tytuł: The World of 5G - Volume 2: Intelligent Manufacturing.
+Autorzy: Jishun Guo
+Rok: 2022
+
+Tytuł: The World of 5G - Volume 5: Intelligent Medicine.
+Autorzy: Wenhua Huang, Haibin Lin
+Rok: 2022
+
+Tytuł: The World of 5G - Volume 3: Intelligent Home.
+Autorzy: Wei Wu
+Rok: 2022
+
+Tytuł: The World of 5G - Volume 4: Intelligent Transportation.
+Autorzy: Zhiqiang Xu
+Rok: 2022
+
+Tytuł: The World of 5G - Volume 1: Internet of Everything.
+Autorzy: Quan Xue, Wenquan Che
+Rok: 2022
+
+Tytuł: Simulation und Modellierung von 5G Vehicle-to-Infrastructure (V2I) / Vehicle-to-Network (V2N) Anwendungsfällen unter Berücksichtigung des 5G QoS Modells (Simulation and modeling of 5G Vehicle-to-Infrastructure (V2I) / Vehicle-to-Network (V2N) use cases under consideration of the 5G QoS model).
+Autorzy: Thomas Deinlein
+Rok: 2022
+
+Tytuł: Securing 5G Positioning and its Services with Privacy Preservation.
+Autorzy: Shushu Liu
+Rok: 2022
+
+Tytuł: Millimeter-wave massive MIMO channel characterization and modelling for 5G and 6G applications.
+Autorzy: Alfred Mudonhi
+Rok: 2022
+
+Tytuł: Orchestrating 5G edges : collaborative and distributed management and orchestration of open programmable and virtualized edge networks.
+Autorzy: Nina Slamnik
+Rok: 2022
+
+Tytuł: Contribution to the modelling and evaluation of radio network slicing solutions in 5G.
+Autorzy: Irene Vilà Muñoz
+Rok: 2022
+
+Tytuł: Contribution to reliable end-to-end communication over 5G networks using advanced techniques.
+Autorzy: Reza Poorzare
+Rok: 2022
+
+Tytuł: Joint access-backhaul mechanisms in 5G cell-less architectures.
+Autorzy: Rakibul Islam Rony
+Rok: 2022
+
+Tytuł: Mobile 5G millimeter-wave multi-antenna systems.
+Autorzy: Christian Ballesteros
+Rok: 2022
+
+Tytuł: Optimization of VNF reconfiguration problem for 5G network slicing. (Optimisation de la reconfiguration des VNFs pour le gestion dynamique des slices dans les réseaux 5G).
+Autorzy: Hanane Biallach
+Rok: 2022
+
+Tytuł: Multi-connectivity and resource allocation for slices in 5G networks. (Multi-connectivité et allocation de ressources entre les slices dans la 5G).
+Autorzy: Abdellatif Chagdali
+Rok: 2022
+
+Tytuł: Resource Allocation and Pricing in 5G Network Slicing. (Allocation des ressources et tarification dans 5G Network Slicing).
+Autorzy: Mandar Datar
+Rok: 2022
+
+Tytuł: Le "network slicing" dans les réseaux 5G : intégration d'un lien satellite avec continuité de service. (« Network Slicing in 5G » : Satellite Link Integration with Service Continuity).
+Autorzy: Youssouf Drif
+Rok: 2022
+
+Tytuł: Optimization of resource allocation for communication system M2M/H2H 5G. (Optimisation de l'allocation de ressources pour les communications 5G M2M/H2H).
+Autorzy: Bilal Ghani
+Rok: 2022
+
+Tytuł: Déploiement de la 5G dans un contexte IoT. (The Deployment of the 5G in the context of the IoT).
+Autorzy: Hager Ben Hafaiedh
+Rok: 2022
+
+Tytuł: Radio frequency exposure analysis in 5G massive MIMO systems. (Analyse de l'exposition radio fréquence dans les systèmes 5G massive MIMO).
+Autorzy: Maarouf Al Hajj
+Rok: 2022
+
+Tytuł: 5G RAN: physical layer implementation and network slicing. (5G RAN : implémentation de la couche physique et découpage du réseau).
+Autorzy: Aymeric de Javel
+Rok: 2022
+
+Tytuł: Radio Resource Allocation in C-V2X: From LTE-V2X to 5G -V2X. (Allocation des Ressources Radios en C-V2X: du LTE-V2X à la 5G -V2X).
+Autorzy: Sehla Khabaz
+Rok: 2022
+
+Tytuł: Metrology for 5G edge networks (MEC). Leveraging mobile devices beyond the edge toward task offloading. (Métrologie des réseaux de bordure 5G (MEC)).
+Autorzy: Sadia Khizar
+Rok: 2022
+
+Tytuł: Pricing design and resource allocation for 5G services. (Tarification et allocation des ressources pour les services 5G).
+Autorzy: Naresh Modina
+Rok: 2022
+
+Tytuł: New challenges in designing polar code decoders for 5G. (Nouveaux défis dans la conception de décodeurs de codes polaires pour la 5G).
+Autorzy: Oualid Mouhoubi
+Rok: 2022
+
+Tytuł: Impact of slicing on radio resource management in 5G for vehicular URLLC and eMBB. (Impact du slicing sur la gestion des ressources radio en 5G pour les URLLC véhiculaires et eMBB).
+Autorzy: Nathalie Naddeh
+Rok: 2022
+

@@ -1,0 +1,120 @@
+Tytuł: Design and Analysis of an Energy-Efficient Load Balancing and Bandwidth Aware Adaptive Multipath N-Channel Routing Approach in MANET.
+Autorzy: Kamlesh Chandravanshi, Gaurav Soni, Durgesh Kumar Mishra
+Rok: 2022
+
+Tytuł: Tuning the Evaporation Parameter in ACO MANET Routing Using a Satisfaction-Form Game-Theoretic Approach.
+Autorzy: Marwan A. Hefnawy, Saad M. Darwish, Amr Elmasry
+Rok: 2022
+
+Tytuł: Automatic Information Extraction in the Third-Generation Semiconductor Materials Domain Based on DKNet and MANet.
+Autorzy: Xiaobo Jiang, Kun He, Borui Yang
+Rok: 2022
+
+Tytuł: BlockChain Based Security Enhancement in MANET with the Improvisation of QoS Elicited from Network Integrity and Reliance Management.
+Autorzy: Jitendra R. Nikhade, V. M. Thakare
+Rok: 2022
+
+Tytuł: Towards MANET-based Recommender Systems for Open Facilities.
+Autorzy: Jürgen Dunkel, Ramón Hermoso
+Rok: 2022
+
+Tytuł: Bandwidth estimation in high mobility scenarios of MANET using NSGA-II optimized fuzzy inference system.
+Autorzy: Pankaj Pal, Sachin Tripathi, Chiranjeev Kumar
+Rok: 2022
+
+Tytuł: Testing AGV mobility control method for MANET coverage optimization using procedural simulation.
+Autorzy: Christian Sauer, Eike Lyczkowski, Marco Schmidt, Andreas Nüchter, Tobias Hoßfeld
+Rok: 2022
+
+Tytuł: Enhanced MANET security using artificial immune system based danger theory to detect selfish nodes.
+Autorzy: Lincy Elizebeth Jim, Nahina Islam, Mark A. Gregory
+Rok: 2022
+
+Tytuł: A novel routing method in hybrid DTN-MANET networks in the critical situations.
+Autorzy: Somaye Pirzadi, Mohammad Ali Pourmina, Seyed Mostafa Safavi Hemami
+Rok: 2022
+
+Tytuł: An efficient stable node selection based on Garson's pruned recurrent neural network and MSO model for multipath routing in MANET.
+Autorzy: R. Hemalatha, R. Umamaheswari, S. Jothi
+Rok: 2022
+
+Tytuł: Adaptive neuro-fuzzy inference system-based energy conservation system for performance enhancement of MANET.
+Autorzy: A Jegatheesan, N. Sathish Kumar, C. Anna Palagan
+Rok: 2022
+
+Tytuł: Enhanced data security in MANET using trust-based Bayesian statistical model with RSSI by AOMDV.
+Autorzy: Geetha Sadayan, Karthiyayini Ramaiah
+Rok: 2022
+
+Tytuł: Performance evaluation and comparison study of adaptive MANET service location and discovery protocols for highly dynamic environments.
+Autorzy: Ghassen Ben Brahim, Nazeeruddin Mohammad, Wassim El-Hajj, Gerard Parr, Bryan W. Scotney
+Rok: 2022
+
+Tytuł: Improving routing disruption attack detection in MANETs using efficient trust establishment.
+Autorzy: K. Anish Pon Yamini, Jesmitha Stephy, K. Suthendran, Vinayakumar Ravi
+Rok: 2022
+
+Tytuł: An approach for optimal-secure multi-path routing and intrusion detection in MANET.
+Autorzy: Neenavath Veeraiah, Battula Tirumala Krishna
+Rok: 2022
+
+Tytuł: A Versatile MANET Experimentation Platform and Its Evaluation through Experiments on the Performance of Routing Protocols under Diverse Conditions.
+Autorzy: Ioannis Manolopoulos, Dimitrios Loukatos, Kimon P. Kontovasilis
+Rok: 2022
+
+Tytuł: Enhanced-AODV Routing Protocol to Improve Route Stability of MANETs.
+Autorzy: Ako Muhammad Abdullah, Emre Ozen, Husnu Bayramoglu
+Rok: 2022
+
+Tytuł: Deep learning method for delay minimization in MANET.
+Autorzy: Kiril Danilchenko, Rina Azoulay, Shulamit Reches, Yoram Haddad
+Rok: 2022
+
+Tytuł: Mobility aware and reliable multipath routing protocol for MANETs.
+Autorzy: Sajal Sarkar
+Rok: 2022
+
+Tytuł: Comparative analysis of different polynomial interpolations for implementing key management techniques in MANETs.
+Autorzy: Chetna Monga, K. R. Ramkumar, Shaily Jain
+Rok: 2022
+
+Tytuł: Generative Boltzmann Adversarial Network in Manet Attack Detection and QOS Enhancement with Latency.
+Autorzy: Arun Kumar Marandi, Richa Dogra, Rahul Bhatt, Rajesh Gupta, Somashekar Reddy, Amit Barve
+Rok: 2022
+
+Tytuł: Performance analysis of black hole and worm hole attacks in MANETs.
+Autorzy: Mazoon Hashil Al Rubaiei, Hothefa Shaker Jassim, Baraa T. Sharef
+Rok: 2022
+
+Tytuł: Fuzzy preference ranking organization method for enrichment evaluation-based node cooperation technique for improving QoS in MANETs.
+Autorzy: Rajkumar Mylsamy, Karthika Jayaprakash
+Rok: 2022
+
+Tytuł: Spherical-based routing protocols for three-dimensional MANET.
+Autorzy: Alaa Eddien Abdallah, Ebaa Fayyoumi, Emad E. Abdallah, Ahmad Qawasmeh, Islam T. Almalkawi
+Rok: 2022
+
+Tytuł: Enhanced ant colony-based AODV for analysis of black and gray hole attacks in MANET.
+Autorzy: Premala Bhande, Mohammed Bakhar
+Rok: 2022
+
+Tytuł: Effect of black hole attack in different mobility models of MANET using OLSR protocol.
+Autorzy: Abdellah Nabou, My Driss Laanaoui, Mohammed Ouzzif
+Rok: 2022
+
+Tytuł: Investigation of Video Streaming over MANETS Routing Protocols.
+Autorzy: T. Padmapriya, S. V. Manikanthan
+Rok: 2022
+
+Tytuł: Integration of Multi-Class Service Paradigm With Generic Trust Mechanism for Innovation, Customization and Adaptability in MANETs.
+Autorzy: Nitin Khanna, Sandeep Singh, Anshu Bhasin, Kamal Malik
+Rok: 2022
+
+Tytuł: Novel trust-aware intrusion detection and prevention system for 5G MANET-Cloud.
+Autorzy: Saleh A. Alghamdi
+Rok: 2022
+
+Tytuł: MANET Proactive and Reactive Routing Protocols: A ComparisonStudy.
+Autorzy: Neha Shukla, Puneet Garg, Madan Singh
+Rok: 2022
+

@@ -1,0 +1,120 @@
+Tytuł: Quantum Computing Compact - Spooky Action at a Distance and Teleportation Easy to Understand.
+Autorzy: Bettina Just
+Rok: 2022
+
+Tytuł: Quantum Computing for the Brain.
+Autorzy: Melanie Swan, Renato P. dos Santos, Mikhail Lebedev, Frank Witte
+Rok: 2022
+
+Tytuł: Quantum Computing for Optimization and Machine Learning.
+Autorzy: Shouvanik Chakrabarti
+Rok: 2022
+
+Tytuł: Optimizing the Use of Compute Resources in Classical and Quantum Computing.
+Autorzy: Niels Gleinig
+Rok: 2022
+
+Tytuł: Towards Complete Emulation of Quantum Algorithms using High-Performance Reconfigurable Computing.
+Autorzy: Naveed Mahmud
+Rok: 2022
+
+Tytuł: Extrapolation methods in Quantum Computing.
+Autorzy: Almudena Carrera Vazquez
+Rok: 2022
+
+Tytuł: Implémentation, analyse et améliorations bas-niveau d'algorithmes quantiques pour le calcul scientifique. (Implementation, analysis and hardware-aware improvement of quantum algorithms for scientific computing).
+Autorzy: Adrien Suau
+Rok: 2022
+
+Tytuł: Study on Development of Feature Subset Selection Algorithms using Metaheuristic and Quantum Computing.
+Autorzy: Ashis Kumar Mandal
+Rok: 2022
+
+Tytuł: Towards High-Performance, Efficient, and Reliable Quantum Computing System.
+Autorzy: Gushu Li
+Rok: 2022
+
+Tytuł: Metropolitan Quantum-Drone Networking and Computing: A Software-Defined Perspective.
+Autorzy: Francesco Chiti, Roberto Picchi, Laura Pierucci
+Rok: 2022
+
+Tytuł: A Systematic Literature Review of Quantum Computing for Routing Problems.
+Autorzy: Eneko Osaba, Esther Villar-Rodriguez, Izaskun Oregi
+Rok: 2022
+
+Tytuł: Quantum Computing Approaches for Mission Covering Optimization.
+Autorzy: Massimiliano Cutugno, Annarita Giani, Paul M. Alsing, Laura Wessing, Austars R. Schnore
+Rok: 2022
+
+Tytuł: Quantum computing algorithms: getting closer to critical problems in computational biology.
+Autorzy: Laura Marchetti, Riccardo Nifosì, Pier Luigi Martelli, Eleonora Da Pozzo, Valentina Cappello, Francesco Banterle, Maria Letizia Trincavelli, Claudia Martini, Massimo D'elia
+Rok: 2022
+
+Tytuł: When software engineering meets quantum computing.
+Autorzy: Shaukat Ali, Tao Yue, Rui Abreu
+Rok: 2022
+
+Tytuł: Assessing the quantum-computing landscape.
+Autorzy: Advait Deshpande
+Rok: 2022
+
+Tytuł: Quantum Computing and IS - Harnessing the Opportunities of Emerging Technologies.
+Autorzy: Wallace Chipidza, Yan Li, Atefeh Mashatan, Ozgur Turetken, Lorne Olfman
+Rok: 2022
+
+Tytuł: Superconducting single flux quantum (SFQ) technology for power-efficiency computing.
+Autorzy: Jie Ren, Guangming Tang, Feng Wang, Siqi Li, Peiyao Qu, Xiaoping Gao, Liliang Ying, Shucheng Yang, Binhan Liu, Xue Zhang, Xi Gao, Wei Peng, Zhen Wang
+Rok: 2022
+
+Tytuł: Post-quantum cryptography-driven security framework for cloud computing.
+Autorzy: Henry Chima Ukwuoma, Arome Junior Gabriel, Aderonke F. Thompson, Boniface Kayode Alese
+Rok: 2022
+
+Tytuł: Edge Caching in Fog-Based Sensor Networks through Deep Learning-Associated Quantum Computing Framework.
+Autorzy: Tayyabah Hasan, Fahad Ahmad, Muhammad Rizwan, Nasser O. Alshammari, Saad Awadh Alanazi, Iftikhar Hussain, Shahid Naseem
+Rok: 2022
+
+Tytuł: Design of classical-quantum systems with UML.
+Autorzy: Ricardo Pérez-Castillo, Mario Piattini
+Rok: 2022
+
+Tytuł: Special Issue: Recent advances in quantum computing and quantum neural networks.
+Autorzy: Steven Lawrence Fernandes, Yu-Dong Zhang, João Manuel R. S. Tavares
+Rok: 2022
+
+Tytuł: Designing a multi-layer full-adder using a new three-input majority gate based on quantum computing.
+Autorzy: Saeid Seyedi, Nima Jafari Navimipour
+Rok: 2022
+
+Tytuł: Quantum Computing and High-Performance Computing: Compilation Stack Similarities.
+Autorzy: Sonia Lopez Alarcon, Anne C. Elster
+Rok: 2022
+
+Tytuł: Accelerating HPC With Quantum Computing: It Is a Software Challenge Too.
+Autorzy: Martin Schulz, Martin Ruefenacht, Dieter Kranzlmüller, Laura Brandon Schulz
+Rok: 2022
+
+Tytuł: Artificial Intelligence Computing at the Quantum Level.
+Autorzy: Olawale Ayoade, Pablo Rivas-Perea, Javier Orduz
+Rok: 2022
+
+Tytuł: Quantum Computing, Digital Constitutionalism, and the Right to Encryption: Perspectives from Brazil.
+Autorzy: Miriam Wimmer, Thiago Guimaraes Moraes
+Rok: 2022
+
+Tytuł: On the potentials of quantum computing - An interview with Heike Riel from IBM Research.
+Autorzy: Rainer Alt
+Rok: 2022
+
+Tytuł: Quantum computing.
+Autorzy: Roman Rietsche, Christian Dremel, Samuel Bosch, Léa Steinacker, Miriam Meckel, Jan Marco Leimeister
+Rok: 2022
+
+Tytuł: Many-Objective Quantum-Inspired Particle Swarm Optimization Algorithm for Placement of Virtual Machines in Smart Computing Cloud.
+Autorzy: Jerzy Balicki
+Rok: 2022
+
+Tytuł: Towards Quantum Control with Advanced Quantum Computing: A Perspective.
+Autorzy: Yongcheng Ding, Yue Ban, Xi Chen
+Rok: 2022
+
