@@ -1,8 +1,8 @@
 import requests
 from bs4 import BeautifulSoup
 
-def scrape_dblp(query: str):
-    url = f"https://dblp.org/search?q={query}"
+def scrape_dblp(query: str, year: str):
+    url = f"https://dblp.org/search?q={query.replace("_", "%20")}:{year}"
     headers = {"User-Agent": "Mozilla/5.0"}
     response = requests.get(url, headers=headers)
     
@@ -26,8 +26,10 @@ def scrape_dblp(query: str):
                 "year": year_tag.text,
                 "pagination": pagination_tag.text if pagination_tag else "N/A"
             })
-    
-    with open("dblp_authors_titles_years.txt", "w", encoding="utf-8") as file:
+
+    file_name = f"{query}_dblp_authors_titles_years.txt"
+
+    with open(f"./scrapped_data/{file_name}", "w", encoding="utf-8") as file:
         for pub in publications:
             file.write(f"Tytuł: {pub['title']}\n")
             file.write(f"Autorzy: {', '.join(pub['authors'])}\n")
@@ -35,16 +37,18 @@ def scrape_dblp(query: str):
             file.write(f"Strony: {pub['pagination']}\n")
             file.write("-" * 40 + "\n")
     
-    print("Dane zapisane do pliku dblp_authors_titles_years.txt")
+    print(f"Dane zapisane do pliku {file_name}")
     return publications
 
 if __name__ == "__main__":
-    query = "5G:2024"
-    results = scrape_dblp(query)
-    
-    for pub in results:
-        print(f"Tytuł: {pub['title']}")
-        print(f"Autorzy: {', '.join(pub['authors'])}")
-        print(f"Rok: {pub['year']}")
-        print(f"Strony: {pub['pagination']}")
-        print("-" * 40)
+
+    topics = [
+        "5G", "manet", "swarm_intelligence", "quantum_computing", "graphs",
+        "temporal_networks", "deep_learning"
+    ]
+
+    for pos, name in enumerate(topics):
+        results = scrape_dblp(
+            query=f"{topics[pos]}",
+            year="2024"
+        )
