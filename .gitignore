@@ -1,2 +1,3 @@
 /ScraperSelenium/scrapped_data/*
 !/ScraperSelenium/scrapped_data/.gitignore
+/ScraperSelenium/.idea/
