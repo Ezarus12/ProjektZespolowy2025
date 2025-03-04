@@ -4,7 +4,7 @@ import time
 import requests
 from bs4 import BeautifulSoup
 
-def scrape_data(query):
+def scrape_data(query, year):
     """
     Sends requests to the specified url and extracts data from the response
     until there is no more content available on the page
@@ -16,7 +16,7 @@ def scrape_data(query):
     start = time.time()
     print(f"Scraping data from the '{topic}' website...")
     while True:
-        url = f"https://dblp.org/search/publ/inc?q={query.replace(' ', '%20')}%3A2022&s=ydvspc&h=30&b={page}"
+        url = f"https://dblp.org/search/publ/inc?q={query.replace(' ', '%20')}%3A{year}&s=ydvspc&h=30&b={page}"
         response = requests.get(url=url)
         if response.status_code == 200:
             response_html_data = response.text
@@ -55,19 +55,22 @@ def search_for_publications(soup):
                 })
     return publications
 
-def save_publications_to_file(publications, file_name):
+def save_publications_to_file(publications, file_name, year):
     """
     Saves publications data to file with given name
     Args:
         publications: list of publications to save
         file_name: name of file to save data to
     """
-    start = time.time()
-    with open(f"scrapped_data/{file_name}.json", "w")as file:
-        json.dump(publications, file, indent=4)
-    finish = time.time()
-    print(f"Data saved to file 'scrapped_data/{file_name}'.")
-    print(f"Saving data to '{file_name}' file took {finish - start:.3f}s.\n\n")
+    if len(publications) != 0:
+        start = time.time()
+        with open(f"scrapped_data/{file_name}_{year}.json", "w")as file:
+            json.dump(publications, file, indent=4)
+        finish = time.time()
+        print(f"Data saved to file 'scrapped_data/{file_name}_{year}'.")
+        print(f"Saving data to '{file_name}' file took {finish - start:.3f}s.\n\n")
+    else:
+        print(f"No data for {year} year.")
 
 
 if __name__ == "__main__":
@@ -79,11 +82,15 @@ if __name__ == "__main__":
     print("Program started.\n\n")
     start_of_whole_program = time.time()
 
+    s_year = 1950
+    f_year = 2005
+
     for topic in topics:
-        pubs = scrape_data(topic)
-        save_publications_to_file(pubs, topic.replace(" ", "_").lower())
+        for year in range(s_year, f_year):
+            pubs = scrape_data(topic, year)
+            save_publications_to_file(pubs, topic.replace(" ", "_").lower(), year)
 
     end_of_whole_program = time.time()
-    whole_time = (end_of_whole_program - start_of_whole_program)
+    whole_time = (end_of_whole_program - start_of_whole_program)/60
     print("Program finished.")
     print(f"It took {whole_time:.5f}s to scrape and save all the data.")
