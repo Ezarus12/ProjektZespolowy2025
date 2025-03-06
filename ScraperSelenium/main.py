@@ -83,7 +83,7 @@ if __name__ == "__main__":
     start_of_whole_program = time.time()
 
     s_year = 1950
-    f_year = 2005
+    f_year = 2025
 
     for topic in topics:
         for year in range(s_year, f_year):
@@ -93,4 +93,4 @@ if __name__ == "__main__":
     end_of_whole_program = time.time()
     whole_time = (end_of_whole_program - start_of_whole_program)/60
     print("Program finished.")
-    print(f"It took {whole_time:.5f}s to scrape and save all the data.")
+    print(f"It took {whole_time:.5f}min to scrape and save all the data.")
