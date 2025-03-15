@@ -19,7 +19,7 @@ def process_json_file(file_path, output_folder):
     """
     with open(file_path, 'r', encoding='utf-8') as input_file:
         data = json.load(input_file)
-    
+        
     coauthor_count = {}  # Dictionary to store coauthor pairs and their counts
     
     for entry in data: # Iterate each of the entries (article) in the JSON file
@@ -57,6 +57,8 @@ if __name__ == "__main__":
     
     # List all the JSON files in the input folder
     file_names = [f for f in os.listdir(folder_path) if f.endswith(".json")]
+    if not file_names:
+        raise FileNotFoundError(f"Error: No JSON files found in '{folder_path}'")
     
     # Process each file
     for file_name in file_names:
