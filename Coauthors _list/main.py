@@ -43,7 +43,7 @@ def process_json_file(file_path, output_folder):
     os.makedirs(output_folder, exist_ok=True)
     
     # Generate the output file name based on the file_path and save results to it
-    output_file_name = os.path.join(output_folder, file_path.replace(".json", "_coauthors.txt").split("\\")[-1])
+    output_file_name = os.path.join(output_folder, os.path.basename(file_path).replace(".json", "_coauthors.txt"))
     with open(output_file_name, 'w', encoding='utf-8') as output_file:
         for (author1, author2), years in coauthor_count.items():
             for year, count in years.items():
