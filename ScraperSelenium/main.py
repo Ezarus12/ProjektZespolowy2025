@@ -11,7 +11,7 @@ def scrape_data(query, year):
     Args:
         query: The name of category to search
     """
-    page = 1
+    page = 0
     all_publications = []
     start = time.time()
     print(f"Scraping data from the '{topic}' website...")
@@ -21,7 +21,7 @@ def scrape_data(query, year):
         if response.status_code == 200:
             response_html_data = response.text
             soup = BeautifulSoup(response_html_data, 'html.parser')
-            current_page_publications = search_for_publications(soup)
+            current_page_publications = search_for_publications(soup, year)
             if not current_page_publications:
                 print(f"End of the '{topic}' website. Pages iterated: {page}")
                 break
@@ -34,7 +34,7 @@ def scrape_data(query, year):
     print(f"Scraping the '{topic}' page took {finish - start:.5}s.")
     return all_publications
 
-def search_for_publications(soup):
+def search_for_publications(soup, year):
     """
     Looks for publications data in provided html content
     Args:
@@ -46,7 +46,7 @@ def search_for_publications(soup):
         authors = [a.text for a in entry.find_all("span", itemprop="author")]
         year_tag = entry.find("span", itemprop="datePublished")
 
-        if title_tag and year_tag:
+        if title_tag and year_tag.text == str(year):
             if title_tag.text != "(Withdrawn)": #skips empty tags
                 publications.append({
                     "title": title_tag.text,
@@ -72,18 +72,29 @@ def save_publications_to_file(publications, file_name, year):
     else:
         print(f"No data for {year} year.")
 
+def select_topics():
+    all_topics = []
+    add_topic = True
+    print("Add topics to look for")
+    while add_topic:
+        new_topic = str(input("Topic: "))
+        all_topics.append(new_topic)
+        add_topic = input("Add another topic? (0 to stop adding)") != "0"
+    return all_topics
+
 
 if __name__ == "__main__":
-    topics = [
-        "artificial intelligence", "distributed systems", "5G", "manet","swarm intelligence",
-        "quantum computing", "graphs", "temporal networks", "deep learning"
-    ]
+    topics = select_topics()
+
+    # topics examples: "artificial intelligence", "distributed systems", "5G", "manet",
+    #                  "swarm intelligence", "quantum computing", "graphs",
+    #                  "temporal networks", "deep learning"
+
+    s_year = int(input("Starting year: "))
+    f_year = int(input("Ending year: "))
 
     print("Program started.\n\n")
     start_of_whole_program = time.time()
-
-    s_year = 1950
-    f_year = 2025
 
     for topic in topics:
         for year in range(s_year, f_year):
