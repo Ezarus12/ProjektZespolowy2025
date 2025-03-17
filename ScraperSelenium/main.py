@@ -104,4 +104,4 @@ if __name__ == "__main__":
     end_of_whole_program = time.time()
     whole_time = (end_of_whole_program - start_of_whole_program)/60
     print("Program finished.")
-    print(f"It took {whole_time:.5f}s to scrape and save all the data.")
+    print(f"It took {whole_time:.5f}min to scrape and save all the data.")
